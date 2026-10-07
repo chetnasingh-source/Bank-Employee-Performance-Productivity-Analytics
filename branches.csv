@@ -1,0 +1,21 @@
+branch_id,branch_name,city,state,region,branch_type
+BR001,Connaught Place Branch,New Delhi,Delhi,North,Urban
+BR002,Noida Sector 18 Branch,Noida,Uttar Pradesh,North,Urban
+BR003,Gurgaon Cyber City Branch,Gurugram,Haryana,North,Urban
+BR004,Lucknow Hazratganj Branch,Lucknow,Uttar Pradesh,North,Urban
+BR005,Jaipur MI Road Branch,Jaipur,Rajasthan,West,Urban
+BR006,Mumbai Andheri Branch,Mumbai,Maharashtra,West,Metro
+BR007,Pune FC Road Branch,Pune,Maharashtra,West,Metro
+BR008,Ahmedabad CG Road Branch,Ahmedabad,Gujarat,West,Urban
+BR009,Bengaluru MG Road Branch,Bengaluru,Karnataka,South,Metro
+BR010,Chennai T Nagar Branch,Chennai,Tamil Nadu,South,Metro
+BR011,Hyderabad Banjara Hills Branch,Hyderabad,Telangana,South,Metro
+BR012,Kolkata Park Street Branch,Kolkata,West Bengal,East,Metro
+BR013,Bhubaneswar Saheed Nagar Branch,Bhubaneswar,Odisha,East,Urban
+BR014,Patna Fraser Road Branch,Patna,Bihar,East,Urban
+BR015,Indore Vijay Nagar Branch,Indore,Madhya Pradesh,Central,Urban
+BR016,Bhopal MP Nagar Branch,Bhopal,Madhya Pradesh,Central,Urban
+BR017,Chandigarh Sector 17 Branch,Chandigarh,Chandigarh,North,Urban
+BR018,Dehradun Rajpur Road Branch,Dehradun,Uttarakhand,North,Urban
+BR019,Kochi MG Road Branch,Kochi,Kerala,South,Metro
+BR020,Surat Ring Road Branch,Surat,Gujarat,West,Urban

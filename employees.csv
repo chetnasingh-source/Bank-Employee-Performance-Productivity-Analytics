@@ -1,0 +1,501 @@
+employee_id,employee_name,gender,age,joining_date,department,designation,branch_id,education,experience_years,salary,employment_status
+EMP0001,Riya Gupta,Female,36,2022-06-27,Loans,Senior Loan Officer,BR002,B.Tech,5.6,723000.0,Active
+EMP0002,Rohit Joshi,Male,42,2020-08-13,Sales & Relationship,Senior Sales Manager,BR010,MBA,6.7,887900.0,Active
+EMP0003,Ayush Jain,Male,33,2023-03-15,Sales & Relationship,Senior Sales Manager,BR018,B.Com,5.1,564100.0,Inactive
+EMP0004,Ayush Malhotra,Female,26,2025-09-25,Sales & Relationship,Sales Executive,BR008,BBA,1.1,520600.0,Active
+EMP0005,Mohit Malhotra,Male,23,2025-02-26,Sales & Relationship,Relationship Executive,BR010,BA,3.2,465800.0,On Notice
+EMP0006,Swati Tiwari,Female,39,2019-04-01,Operations,Operations Executive,BR018,MBA,9.2,907400.0,Active
+EMP0007,Chetna Sharma,Female,21,2021-03-26,Operations,Senior Operations Officer,BR011,B.Com,7.9,658400.0,Active
+EMP0008,Shreya Agarwal,Female,37,2019-01-14,Customer Service,Customer Service Executive,BR008,B.Tech,7.9,874600.0,Active
+EMP0009,Yash Kumar,Male,40,2025-06-24,Retail Banking,Senior Relationship Manager,BR014,BCA,3.2,599300.0,Active
+EMP0010,Sakshi Patel,Male,40,2019-02-02,Customer Service,Customer Service Executive,BR019,B.Com,9.1,783800.0,Active
+EMP0011,Isha Agarwal,Male,38,2024-03-28,Customer Service,Senior Service Officer,BR019,BCA,3.7,573900.0,Active
+EMP0012,Sonal Chopra,Female,32,2025-05-17,Sales & Relationship,Relationship Executive,BR007,MBA,2.7,696900.0,On Notice
+EMP0013,Riya Saxena,Female,25,2021-12-05,Loans,Senior Loan Officer,BR009,M.Com,6.1,756600.0,Active
+EMP0014,Aman Joshi,Male,28,2021-07-15,Retail Banking,Relationship Manager,BR017,BBA,6.0,695500.0,Inactive
+EMP0015,Arjun Gupta,Male,40,2022-07-20,Loans,Senior Loan Officer,BR011,MBA,4.6,794700.0,Active
+EMP0016,Vikas Jain,Female,22,2018-07-17,Loans,Senior Loan Officer,BR006,B.Tech,9.4,859800.0,Active
+EMP0017,Vikas Mishra,Male,37,2022-03-15,Sales & Relationship,Senior Sales Manager,BR018,B.Tech,5.2,722900.0,Active
+EMP0018,Ayush Tiwari,Female,25,2023-05-24,Customer Service,Customer Service Officer,BR016,BA,6.1,647000.0,Active
+EMP0019,Akash Das,Male,33,2023-08-19,Operations,Operations Officer,BR001,BCA,4.0,647100.0,Active
+EMP0020,Rohit Verma,Male,37,2021-12-16,Retail Banking,Relationship Manager,BR018,BA,6.8,589100.0,Active
+EMP0021,Nikhil Mishra,Female,23,2018-06-10,Operations,Senior Operations Officer,BR003,BA,8.4,683000.0,Active
+EMP0022,Nandini Kapoor,Male,36,2019-04-15,Operations,Senior Operations Officer,BR008,BA,8.3,711300.0,Active
+EMP0023,Meera Malhotra,Male,30,2019-03-29,Customer Service,Customer Service Officer,BR014,BCA,8.2,775600.0,On Notice
+EMP0024,Yash Sharma,Male,51,2024-05-16,Loans,Senior Loan Officer,BR001,BA,3.4,585000.0,Active
+EMP0025,Priya Singh,Male,33,2023-03-11,Retail Banking,Senior Relationship Manager,BR010,BBA,3.8,606800.0,Active
+EMP0026,Sakshi Verma,Female,34,2018-09-03,Customer Service,Customer Service Officer,BR013,M.Com,9.2,817600.0,Active
+EMP0027,Varun Iyer,Female,28,2023-03-22,Retail Banking,Relationship Manager,BR017,MBA,4.5,807000.0,Active
+EMP0028,Anjali Agarwal,Male,31,2024-10-27,Customer Service,Customer Service Officer,BR013,M.Com,2.9,594100.0,Active
+EMP0029,Sakshi Jain,Female,31,2022-12-16,Loans,Loan Officer,BR001,B.Tech,5.1,728600.0,Active
+EMP0030,Manish Agarwal,Male,28,2021-02-15,Retail Banking,Senior Relationship Manager,BR005,M.Com,7.8,766600.0,Active
+EMP0031,Sonal Bansal,Male,40,2025-07-07,Loans,Credit Analyst,BR020,MBA,2.3,666000.0,Active
+EMP0032,Aman Patel,Female,27,2024-07-16,Retail Banking,Branch Executive,BR005,B.Com,3.6,561800.0,On Notice
+EMP0033,Manish Singh,Male,32,2020-10-12,Loans,Loan Officer,BR020,MBA,7.9,930400.0,Active
+EMP0034,Aarav Sharma,Female,37,2020-08-14,Loans,Credit Analyst,BR011,M.Com,7.8,808100.0,Active
+EMP0035,Vivek Iyer,Male,28,2020-02-15,Retail Banking,Relationship Manager,BR007,BBA,7.8,675800.0,Active
+EMP0036,Aditi Patel,Female,33,2019-02-17,Customer Service,Customer Service Executive,BR009,B.Com,7.7,745900.0,Active
+EMP0037,Gaurav Joshi,Female,29,2023-11-14,Operations,Senior Operations Officer,BR013,BA,3.9,553900.0,Active
+EMP0038,Neha Joshi,Male,28,2023-10-11,Loans,Loan Officer,BR009,B.Com,4.5,575900.0,Active
+EMP0039,Rohit Das,Female,30,2021-10-22,Loans,Senior Loan Officer,BR004,M.Com,5.2,677200.0,Inactive
+EMP0040,Anjali Verma,Male,46,2020-12-01,Customer Service,Senior Service Officer,BR011,BA,8.8,723900.0,Active
+EMP0041,Sameer Singh,Female,32,2022-03-23,Sales & Relationship,Sales Executive,BR005,BBA,5.8,650600.0,Active
+EMP0042,Ananya Gupta,Female,32,2021-09-27,Operations,Operations Officer,BR019,B.Tech,7.4,887900.0,Active
+EMP0043,Rakesh Sharma,Male,29,2021-05-28,Operations,Senior Operations Officer,BR013,MBA,7.1,842800.0,Active
+EMP0044,Varun Kapoor,Male,31,2020-04-03,Loans,Loan Officer,BR015,M.Com,8.1,859100.0,On Notice
+EMP0045,Karan Saxena,Female,32,2022-04-05,Operations,Senior Operations Officer,BR001,B.Tech,4.7,760000.0,Active
+EMP0046,Shreya Mishra,Female,26,2020-11-01,Operations,Operations Officer,BR004,BA,8.8,712700.0,Active
+EMP0047,Yash Mehta,Female,21,2024-11-13,Loans,Credit Analyst,BR019,M.Com,3.9,612500.0,Active
+EMP0048,Vikas Sharma,Male,34,2025-11-11,Operations,Operations Officer,BR015,BCA,3.5,547900.0,Active
+EMP0049,Meera Kumar,Male,31,2019-05-26,Operations,Senior Operations Officer,BR005,B.Tech,8.2,910800.0,Inactive
+EMP0050,Karan Jain,Female,40,2025-06-17,Operations,Operations Officer,BR001,BCA,3.6,575700.0,Inactive
+EMP0051,Akash Reddy,Male,39,2023-11-13,Operations,Operations Executive,BR012,BBA,3.2,571800.0,Active
+EMP0052,Pooja Bansal,Male,42,2019-09-16,Sales & Relationship,Relationship Executive,BR011,B.Tech,8.5,908100.0,Active
+EMP0053,Nandini Sharma,Male,39,2025-10-16,Retail Banking,Senior Relationship Manager,BR010,BCA,2.6,619500.0,Active
+EMP0054,Riya Kumar,Male,21,2024-02-10,Sales & Relationship,Relationship Executive,BR006,B.Com,5.2,593000.0,Active
+EMP0055,Manish Mishra,Female,31,2020-01-31,Loans,Loan Officer,BR003,B.Tech,8.0,848000.0,Active
+EMP0056,Mohit Patel,Female,31,2018-03-02,Operations,Operations Executive,BR006,BCA,9.2,840600.0,Active
+EMP0057,Priya Saxena,Male,32,2023-01-11,Operations,Operations Officer,BR011,BBA,4.7,660400.0,On Notice
+EMP0058,Kavya Saxena,Male,21,2021-07-04,Retail Banking,Senior Relationship Manager,BR014,BCA,5.5,634600.0,Active
+EMP0059,Mohit Mehta,Male,37,2022-07-05,Loans,Senior Loan Officer,BR019,BCA,6.8,721900.0,Active
+EMP0060,Sakshi Malhotra,Male,25,2019-12-15,Loans,Loan Officer,BR017,B.Com,8.5,702900.0,Active
+EMP0061,Swati Joshi,Male,29,2024-03-25,Operations,Senior Operations Officer,BR010,BBA,4.1,610400.0,Active
+EMP0062,Aman Sharma,Female,47,2022-10-28,Loans,Loan Officer,BR006,BCA,4.7,702900.0,Active
+EMP0063,Sonal Mehta,Female,33,2018-03-16,Operations,Senior Operations Officer,BR002,BA,11.1,855500.0,Active
+EMP0064,Nikhil Sharma,Male,38,2022-07-27,Operations,Operations Executive,BR012,BA,4.7,599800.0,Active
+EMP0065,Deepak Kumar,Male,24,2025-12-02,Operations,Senior Operations Officer,BR010,B.Com,2.4,508300.0,Inactive
+EMP0066,Divya Saxena,Female,33,2018-11-17,Loans,Credit Analyst,BR003,B.Com,8.3,761700.0,Active
+EMP0067,Priya Mishra,Female,33,2025-03-20,Sales & Relationship,Senior Sales Manager,BR009,B.Com,2.7,563400.0,Active
+EMP0068,Ananya Kapoor,Female,32,2023-08-15,Customer Service,Customer Service Officer,BR018,BA,3.8,545800.0,Active
+EMP0069,Vikas Saxena,Male,21,2020-11-12,Operations,Senior Operations Officer,BR002,B.Com,7.2,659900.0,Active
+EMP0070,Bhavna Patel,Female,29,2023-05-25,Sales & Relationship,Senior Sales Manager,BR015,BCA,4.6,656300.0,Active
+EMP0071,Ananya Singh,Female,28,2021-01-25,Operations,Operations Officer,BR005,BCA,7.8,782300.0,Active
+EMP0072,Simran Mishra,Female,34,2020-03-25,Loans,Loan Officer,BR015,MBA,9.1,946200.0,Active
+EMP0073,Deepak Mishra,Male,41,2020-03-04,Customer Service,Customer Service Officer,BR006,M.Com,7.3,814700.0,Active
+EMP0074,Vikas Saxena,Female,45,2024-09-09,Operations,Senior Operations Officer,BR012,BA,4.8,530100.0,Active
+EMP0075,Priya Chopra,Female,27,2023-04-13,Sales & Relationship,Senior Sales Manager,BR001,M.Com,4.7,637000.0,Active
+EMP0076,Swati Saxena,Female,41,2021-04-20,Sales & Relationship,Sales Executive,BR015,B.Com,8.0,764400.0,Active
+EMP0077,Vivek Joshi,Female,37,2023-10-24,Loans,Senior Loan Officer,BR012,B.Tech,5.7,761100.0,On Notice
+EMP0078,Priya Reddy,Female,21,2021-04-18,Loans,Loan Officer,BR017,B.Com,6.7,658000.0,Active
+EMP0079,Isha Iyer,Male,26,2022-09-21,Sales & Relationship,Senior Sales Manager,BR019,B.Tech,4.6,752400.0,Active
+EMP0080,Karan Iyer,Female,30,2022-02-09,Operations,Senior Operations Officer,BR018,BCA,6.1,641400.0,Active
+EMP0081,Varun Patel,Male,23,2023-04-05,Operations,Operations Officer,BR019,B.Tech,4.5,791000.0,Active
+EMP0082,Akash Mishra,Male,33,2022-12-29,Loans,Credit Analyst,BR015,M.Com,5.9,715500.0,Active
+EMP0083,Ananya Das,Male,38,2021-01-16,Sales & Relationship,Sales Executive,BR014,BA,7.9,726100.0,Active
+EMP0084,Neha Gupta,Male,36,2020-02-14,Sales & Relationship,Sales Executive,BR018,M.Com,8.8,771200.0,On Notice
+EMP0085,Nandini Jain,Male,27,2019-04-16,Customer Service,Customer Service Officer,BR012,MBA,7.6,920900.0,Active
+EMP0086,Varun Joshi,Female,22,2019-08-16,Sales & Relationship,Relationship Executive,BR019,BCA,9.7,866800.0,Active
+EMP0087,Simran Kapoor,Female,22,2021-07-25,Customer Service,Customer Service Officer,BR005,MBA,7.7,865400.0,Active
+EMP0088,Rohit Mehta,Male,28,2021-10-11,Sales & Relationship,Relationship Executive,BR012,BBA,6.5,694000.0,Active
+EMP0089,Sakshi Bansal,Male,43,2023-08-03,Retail Banking,Branch Executive,BR011,BBA,4.6,670700.0,Active
+EMP0090,Rakesh Mishra,Female,42,2018-01-29,Retail Banking,Senior Relationship Manager,BR002,BCA,9.8,805700.0,Active
+EMP0091,Meera Kapoor,Male,21,2020-01-21,Sales & Relationship,Senior Sales Manager,BR002,BCA,7.5,783500.0,Active
+EMP0092,Swati Patel,Male,31,2024-06-01,Operations,Operations Executive,BR007,B.Com,4.5,622100.0,Active
+EMP0093,Gaurav Tiwari,Male,29,2025-11-04,Retail Banking,Senior Relationship Manager,BR008,BBA,1.3,528400.0,Active
+EMP0094,Kavya Jain,Female,27,2019-12-11,Customer Service,Customer Service Executive,BR015,BBA,9.7,798200.0,Active
+EMP0095,Bhavna Reddy,Female,23,2019-01-26,Operations,Senior Operations Officer,BR018,M.Com,7.8,820700.0,Active
+EMP0096,Riya Verma,Male,50,2022-01-06,Retail Banking,Relationship Manager,BR002,B.Com,7.2,710000.0,On Notice
+EMP0097,Mohit Sharma,Male,42,2024-12-19,Operations,Operations Executive,BR010,BA,3.4,507300.0,Active
+EMP0098,Mohit Verma,Male,21,2019-06-30,Loans,Senior Loan Officer,BR007,B.Tech,7.3,797800.0,Active
+EMP0099,Sonal Agarwal,Male,31,2018-09-29,Retail Banking,Relationship Manager,BR001,B.Tech,10.6,938800.0,Active
+EMP0100,Aarav Bansal,Male,28,2023-07-27,Retail Banking,Senior Relationship Manager,BR009,BA,4.1,564200.0,Active
+EMP0101,Isha Singh,Male,35,2020-03-17,Loans,Loan Officer,BR007,BA,9.2,744100.0,Inactive
+EMP0102,Vivek Jain,Female,21,2021-08-26,Loans,Loan Officer,BR003,M.Com,6.9,715900.0,Active
+EMP0103,Yash Reddy,Female,32,2020-11-09,Customer Service,Customer Service Officer,BR017,M.Com,8.9,802700.0,Active
+EMP0104,Aman Singh,Male,21,2020-06-11,Customer Service,Senior Service Officer,BR009,B.Com,7.9,763900.0,Active
+EMP0105,Kavya Mehta,Male,31,2022-04-10,Loans,Senior Loan Officer,BR005,BCA,6.1,667300.0,Active
+EMP0106,Swati Kapoor,Female,30,2022-09-08,Operations,Operations Officer,BR019,M.Com,6.1,792500.0,Active
+EMP0107,Isha Chopra,Female,21,2021-07-09,Loans,Loan Officer,BR010,MBA,6.8,920100.0,Active
+EMP0108,Tanvi Patel,Male,35,2023-12-21,Customer Service,Customer Service Officer,BR011,BBA,5.4,644900.0,Active
+EMP0109,Meera Mishra,Male,42,2022-03-28,Sales & Relationship,Senior Sales Manager,BR002,M.Com,4.5,691500.0,Active
+EMP0110,Varun Singh,Female,34,2021-09-11,Operations,Senior Operations Officer,BR015,B.Tech,5.9,791500.0,On Notice
+EMP0111,Deepak Sharma,Female,28,2020-01-01,Retail Banking,Branch Executive,BR018,MBA,7.2,840100.0,Active
+EMP0112,Simran Chopra,Female,33,2020-02-02,Sales & Relationship,Sales Executive,BR006,M.Com,7.0,751000.0,Active
+EMP0113,Simran Chopra,Male,36,2024-09-10,Customer Service,Customer Service Officer,BR015,B.Tech,4.6,776400.0,Active
+EMP0114,Manish Kumar,Male,31,2025-12-06,Customer Service,Senior Service Officer,BR020,MBA,3.7,797300.0,Active
+EMP0115,Gaurav Reddy,Female,38,2023-06-04,Loans,Senior Loan Officer,BR012,B.Com,3.9,594700.0,Active
+EMP0116,Ayush Verma,Male,30,2022-08-08,Sales & Relationship,Sales Executive,BR012,B.Tech,4.4,728400.0,Active
+EMP0117,Aditi Jain,Female,31,2024-03-03,Sales & Relationship,Relationship Executive,BR016,BA,4.4,586300.0,Active
+EMP0118,Meera Mishra,Female,42,2018-04-27,Retail Banking,Relationship Manager,BR018,BCA,10.2,895100.0,Active
+EMP0119,Divya Iyer,Female,38,2019-12-30,Loans,Loan Officer,BR017,BA,9.3,784400.0,Active
+EMP0120,Swati Reddy,Male,40,2021-08-26,Operations,Operations Executive,BR002,MBA,6.9,863000.0,Active
+EMP0121,Kavya Singh,Male,28,2024-02-20,Sales & Relationship,Relationship Executive,BR012,BBA,5.5,675200.0,Active
+EMP0122,Varun Jain,Female,39,2023-04-10,Customer Service,Customer Service Officer,BR012,B.Com,5.3,571700.0,Active
+EMP0123,Priya Verma,Female,39,2023-08-17,Customer Service,Senior Service Officer,BR009,MBA,5.1,830200.0,Active
+EMP0124,Neha Bansal,Female,28,2023-11-05,Operations,Operations Executive,BR008,B.Com,4.9,656100.0,Active
+EMP0125,Yash Saxena,Male,22,2018-11-08,Operations,Operations Executive,BR007,BCA,10.8,807800.0,Active
+EMP0126,Nikhil Reddy,Female,40,2020-08-14,Sales & Relationship,Sales Executive,BR019,M.Com,8.7,806000.0,Active
+EMP0127,Gaurav Verma,Female,39,2021-12-12,Operations,Operations Executive,BR018,B.Tech,7.2,805200.0,Active
+EMP0128,Karan Bansal,Male,31,2023-11-18,Customer Service,Customer Service Officer,BR005,B.Tech,5.6,791900.0,Active
+EMP0129,Arjun Joshi,Male,30,2019-05-19,Operations,Senior Operations Officer,BR002,MBA,9.1,969700.0,Active
+EMP0130,Tanvi Chopra,Female,39,2019-04-05,Retail Banking,Branch Executive,BR003,M.Com,7.9,764900.0,Active
+EMP0131,Nikhil Chopra,Male,25,2023-12-21,Loans,Loan Officer,BR015,BCA,3.5,656300.0,Active
+EMP0132,Nikhil Reddy,Female,34,2022-04-29,Operations,Operations Officer,BR002,B.Tech,5.8,827200.0,Active
+EMP0133,Karan Malhotra,Male,23,2024-12-07,Loans,Credit Analyst,BR020,M.Com,4.6,633400.0,Inactive
+EMP0134,Rahul Malhotra,Male,36,2018-08-05,Sales & Relationship,Relationship Executive,BR020,B.Com,10.1,803100.0,Active
+EMP0135,Varun Mehta,Male,32,2023-07-27,Retail Banking,Relationship Manager,BR015,B.Tech,3.7,730200.0,Active
+EMP0136,Sakshi Mishra,Female,32,2024-10-10,Customer Service,Senior Service Officer,BR008,BBA,4.0,569300.0,Active
+EMP0137,Sakshi Singh,Female,33,2021-08-03,Retail Banking,Branch Executive,BR006,M.Com,7.1,788500.0,Active
+EMP0138,Divya Gupta,Female,37,2025-09-29,Sales & Relationship,Relationship Executive,BR006,M.Com,3.3,610100.0,Active
+EMP0139,Ayush Saxena,Female,37,2020-04-30,Customer Service,Customer Service Executive,BR012,B.Com,9.0,709400.0,Active
+EMP0140,Yash Malhotra,Male,36,2025-04-06,Operations,Operations Officer,BR011,B.Com,2.8,543500.0,Active
+EMP0141,Simran Malhotra,Female,21,2024-07-03,Customer Service,Customer Service Executive,BR002,BA,3.8,592700.0,Active
+EMP0142,Pooja Chopra,Male,27,2018-02-12,Loans,Senior Loan Officer,BR016,BA,10.9,821100.0,Active
+EMP0143,Sameer Saxena,Male,30,2022-12-31,Sales & Relationship,Senior Sales Manager,BR008,MBA,4.2,757800.0,Active
+EMP0144,Ayush Malhotra,Female,35,2025-03-21,Operations,Operations Officer,BR007,B.Com,2.8,540700.0,Active
+EMP0145,Aarav Malhotra,Male,21,2018-02-05,Customer Service,Customer Service Executive,BR010,BA,9.9,793200.0,Active
+EMP0146,Kavya Patel,Female,35,2021-07-24,Retail Banking,Branch Executive,BR010,B.Com,7.8,748200.0,On Notice
+EMP0147,Mohit Iyer,Male,26,2025-01-22,Loans,Credit Analyst,BR001,B.Tech,4.2,747100.0,Active
+EMP0148,Aman Saxena,Male,38,2021-06-03,Retail Banking,Senior Relationship Manager,BR007,M.Com,6.7,706000.0,Active
+EMP0149,Akash Patel,Male,31,2020-02-09,Loans,Credit Analyst,BR007,B.Tech,7.5,865900.0,Active
+EMP0150,Varun Agarwal,Male,50,2024-06-07,Retail Banking,Relationship Manager,BR014,BBA,2.6,531500.0,Active
+EMP0151,Aditya Kumar,Female,21,2020-12-29,Customer Service,Senior Service Officer,BR008,MBA,6.8,871100.0,On Notice
+EMP0152,Rahul Malhotra,Male,23,2024-08-25,Customer Service,Customer Service Officer,BR006,BA,3.5,552800.0,Active
+EMP0153,Manish Patel,Male,32,2024-11-05,Customer Service,Customer Service Officer,BR016,B.Tech,2.4,694600.0,Active
+EMP0154,Swati Kumar,Female,27,2025-01-06,Loans,Loan Officer,BR020,M.Com,4.5,631900.0,Active
+EMP0155,Rahul Reddy,Female,32,2022-03-04,Retail Banking,Relationship Manager,BR002,BA,6.7,598600.0,Active
+EMP0156,Sakshi Gupta,Male,30,2024-11-01,Loans,Credit Analyst,BR006,MBA,2.8,711600.0,On Notice
+EMP0157,Sonal Patel,Female,29,2019-07-15,Operations,Operations Officer,BR014,BBA,7.6,741400.0,Active
+EMP0158,Aditya Verma,Male,35,2018-03-14,Customer Service,Customer Service Officer,BR014,BCA,9.5,773300.0,Inactive
+EMP0159,Akash Verma,Female,31,2021-02-07,Customer Service,Customer Service Executive,BR006,BA,8.3,661500.0,Active
+EMP0160,Gaurav Kapoor,Male,37,2020-08-21,Loans,Senior Loan Officer,BR014,MBA,6.5,817100.0,Active
+EMP0161,Rohit Singh,Female,21,2024-05-23,Loans,Credit Analyst,BR011,BCA,2.5,530500.0,Active
+EMP0162,Shreya Bansal,Male,40,2020-09-09,Operations,Senior Operations Officer,BR007,BCA,6.8,667000.0,Active
+EMP0163,Aman Das,Male,21,2020-03-30,Retail Banking,Senior Relationship Manager,BR003,BA,8.5,698600.0,Active
+EMP0164,Aditya Mehta,Female,38,2022-10-31,Loans,Senior Loan Officer,BR010,M.Com,5.1,639800.0,Active
+EMP0165,Varun Gupta,Female,38,2024-12-15,Retail Banking,Relationship Manager,BR003,BBA,4.7,572300.0,Active
+EMP0166,Vivek Das,Male,28,2022-11-27,Customer Service,Customer Service Officer,BR008,BBA,4.1,558800.0,Active
+EMP0167,Aarav Singh,Female,35,2025-04-26,Operations,Operations Executive,BR001,B.Com,4.3,609500.0,Active
+EMP0168,Priya Mishra,Female,31,2020-02-28,Retail Banking,Relationship Manager,BR015,B.Tech,9.1,917600.0,On Notice
+EMP0169,Yash Joshi,Female,27,2018-03-28,Operations,Operations Executive,BR020,M.Com,10.7,930800.0,Active
+EMP0170,Shreya Iyer,Male,31,2022-08-02,Loans,Senior Loan Officer,BR005,BCA,7.1,747900.0,Active
+EMP0171,Swati Jain,Male,26,2024-08-12,Sales & Relationship,Relationship Executive,BR015,B.Tech,5.0,788900.0,Active
+EMP0172,Deepak Gupta,Female,30,2022-06-02,Retail Banking,Senior Relationship Manager,BR008,B.Com,4.5,601100.0,Active
+EMP0173,Mohit Jain,Female,48,2021-06-03,Operations,Operations Executive,BR008,B.Tech,5.7,732800.0,Active
+EMP0174,Varun Iyer,Female,34,2025-10-08,Operations,Operations Officer,BR017,MBA,1.8,657600.0,Active
+EMP0175,Ayush Malhotra,Female,30,2025-06-01,Loans,Senior Loan Officer,BR011,BA,4.3,587900.0,Active
+EMP0176,Tanvi Saxena,Female,33,2020-02-09,Operations,Senior Operations Officer,BR012,B.Tech,7.0,776000.0,Active
+EMP0177,Rohit Kumar,Female,21,2023-08-29,Operations,Senior Operations Officer,BR008,BA,3.5,577300.0,Active
+EMP0178,Varun Patel,Male,32,2021-07-08,Retail Banking,Branch Executive,BR011,MBA,7.9,868400.0,Active
+EMP0179,Sakshi Malhotra,Female,42,2023-11-30,Customer Service,Customer Service Executive,BR014,MBA,5.2,824900.0,Active
+EMP0180,Neha Kumar,Male,38,2025-03-19,Sales & Relationship,Relationship Executive,BR004,B.Tech,3.8,689700.0,Active
+EMP0181,Nandini Bansal,Female,28,2022-02-01,Customer Service,Customer Service Executive,BR013,B.Tech,4.7,684900.0,Active
+EMP0182,Ananya Singh,Male,29,2019-06-10,Operations,Operations Officer,BR018,M.Com,9.5,862100.0,Active
+EMP0183,Tanvi Gupta,Male,25,2019-10-26,Retail Banking,Senior Relationship Manager,BR016,BA,7.9,744300.0,Active
+EMP0184,Shreya Saxena,Female,34,2024-12-03,Retail Banking,Senior Relationship Manager,BR013,MBA,2.1,661000.0,Active
+EMP0185,Sakshi Tiwari,Male,35,2022-05-02,Customer Service,Customer Service Executive,BR020,BCA,6.9,750300.0,Active
+EMP0186,Neha Patel,Male,25,2023-03-01,Loans,Senior Loan Officer,BR014,M.Com,6.1,757200.0,Active
+EMP0187,Rakesh Agarwal,Male,21,2019-12-05,Loans,Credit Analyst,BR003,BA,8.3,716200.0,Active
+EMP0188,Tanvi Das,Female,26,2021-04-20,Customer Service,Customer Service Executive,BR004,MBA,6.1,809700.0,Active
+EMP0189,Rohit Kapoor,Male,38,2020-06-24,Loans,Credit Analyst,BR012,BA,7.1,650000.0,Active
+EMP0190,Vikas Agarwal,Male,27,2024-04-16,Sales & Relationship,Relationship Executive,BR015,M.Com,4.1,667400.0,Active
+EMP0191,Pooja Reddy,Female,36,2021-12-20,Customer Service,Customer Service Executive,BR003,BA,7.3,693200.0,Active
+EMP0192,Vikas Reddy,Male,32,2019-01-06,Retail Banking,Relationship Manager,BR004,MBA,10.6,992900.0,Active
+EMP0193,Rakesh Joshi,Female,34,2019-07-27,Retail Banking,Relationship Manager,BR002,BBA,9.8,808100.0,Active
+EMP0194,Aditya Patel,Male,32,2020-05-02,Operations,Operations Officer,BR016,BA,6.8,690000.0,Active
+EMP0195,Varun Agarwal,Male,32,2023-06-03,Customer Service,Customer Service Executive,BR020,BCA,4.4,580200.0,Active
+EMP0196,Shreya Bansal,Female,26,2022-08-06,Customer Service,Senior Service Officer,BR009,M.Com,4.8,707200.0,Active
+EMP0197,Arjun Agarwal,Male,25,2023-06-15,Customer Service,Senior Service Officer,BR018,BBA,4.1,603200.0,Active
+EMP0198,Aditi Kumar,Male,32,2024-05-04,Operations,Operations Executive,BR008,MBA,4.0,815100.0,Active
+EMP0199,Akash Kapoor,Female,23,2019-04-13,Loans,Senior Loan Officer,BR018,BBA,9.1,756500.0,Active
+EMP0200,Aman Gupta,Female,32,2020-10-11,Operations,Operations Officer,BR006,M.Com,6.5,775400.0,Inactive
+EMP0201,Sonal Kapoor,Male,25,2021-02-26,Sales & Relationship,Relationship Executive,BR004,B.Tech,6.8,772700.0,Inactive
+EMP0202,Vivek Kumar,Female,39,2022-04-10,Sales & Relationship,Senior Sales Manager,BR009,MBA,4.8,834300.0,Active
+EMP0203,Priya Verma,Female,29,2021-10-19,Operations,Operations Officer,BR016,M.Com,6.3,711000.0,Active
+EMP0204,Mohit Chopra,Male,21,2020-09-07,Customer Service,Customer Service Executive,BR016,BBA,7.3,697300.0,Active
+EMP0205,Swati Saxena,Female,28,2018-10-16,Customer Service,Senior Service Officer,BR006,BBA,8.3,729500.0,Active
+EMP0206,Rohit Saxena,Female,36,2020-05-04,Retail Banking,Branch Executive,BR015,BCA,6.6,734300.0,Active
+EMP0207,Isha Saxena,Male,35,2019-04-05,Retail Banking,Branch Executive,BR019,B.Com,8.2,761600.0,On Notice
+EMP0208,Bhavna Verma,Female,33,2021-10-09,Customer Service,Senior Service Officer,BR014,BA,6.3,597700.0,Active
+EMP0209,Ayush Bansal,Male,34,2021-12-20,Retail Banking,Senior Relationship Manager,BR009,MBA,6.9,823700.0,Active
+EMP0210,Swati Joshi,Male,27,2019-02-02,Customer Service,Customer Service Officer,BR009,M.Com,8.3,815400.0,Active
+EMP0211,Shreya Mishra,Male,21,2024-07-09,Operations,Operations Officer,BR009,MBA,4.5,745200.0,Active
+EMP0212,Sonal Malhotra,Female,37,2021-07-02,Loans,Senior Loan Officer,BR011,M.Com,5.5,753100.0,Inactive
+EMP0213,Meera Singh,Male,25,2023-08-07,Sales & Relationship,Sales Executive,BR008,B.Com,4.7,624800.0,Active
+EMP0214,Simran Mishra,Male,33,2024-01-31,Operations,Operations Executive,BR019,B.Com,5.0,595900.0,Active
+EMP0215,Aditya Singh,Female,26,2020-02-11,Customer Service,Senior Service Officer,BR009,M.Com,7.8,849500.0,Active
+EMP0216,Bhavna Iyer,Male,34,2023-04-21,Customer Service,Customer Service Officer,BR001,BA,3.6,481500.0,Active
+EMP0217,Bhavna Chopra,Female,21,2023-02-19,Operations,Operations Executive,BR007,M.Com,4.2,671400.0,Active
+EMP0218,Aman Joshi,Male,21,2021-10-18,Operations,Operations Executive,BR017,B.Com,5.1,606100.0,Active
+EMP0219,Aarav Mishra,Male,31,2025-09-27,Loans,Senior Loan Officer,BR012,BCA,1.1,474300.0,On Notice
+EMP0220,Shreya Kumar,Male,39,2024-10-28,Customer Service,Customer Service Executive,BR014,M.Com,2.9,647700.0,Active
+EMP0221,Aman Iyer,Male,43,2021-09-09,Loans,Senior Loan Officer,BR008,B.Tech,6.2,816500.0,Active
+EMP0222,Deepak Singh,Male,38,2025-05-26,Retail Banking,Senior Relationship Manager,BR011,BBA,3.6,606200.0,Active
+EMP0223,Sonal Mishra,Male,35,2019-09-21,Operations,Operations Officer,BR017,BA,9.7,789000.0,Active
+EMP0224,Tanvi Mehta,Male,24,2023-06-22,Operations,Operations Executive,BR011,M.Com,3.4,676000.0,Active
+EMP0225,Kavya Jain,Male,39,2023-03-05,Customer Service,Senior Service Officer,BR008,BCA,4.7,687400.0,On Notice
+EMP0226,Vivek Kumar,Male,27,2021-02-15,Retail Banking,Senior Relationship Manager,BR004,B.Com,7.7,712600.0,Active
+EMP0227,Sameer Chopra,Female,33,2020-07-02,Customer Service,Customer Service Executive,BR017,BCA,8.2,753300.0,Active
+EMP0228,Anjali Verma,Male,21,2022-01-03,Operations,Senior Operations Officer,BR013,B.Com,7.7,662100.0,Active
+EMP0229,Sonal Patel,Male,24,2023-01-16,Retail Banking,Relationship Manager,BR005,M.Com,4.6,676000.0,Inactive
+EMP0230,Isha Saxena,Female,29,2022-09-28,Loans,Credit Analyst,BR020,B.Com,7.0,743100.0,Active
+EMP0231,Rahul Iyer,Female,31,2023-04-17,Sales & Relationship,Senior Sales Manager,BR010,BA,5.1,558100.0,Active
+EMP0232,Divya Agarwal,Male,34,2018-12-07,Customer Service,Senior Service Officer,BR001,MBA,8.8,916200.0,Active
+EMP0233,Swati Iyer,Male,30,2024-10-18,Retail Banking,Relationship Manager,BR007,BCA,4.3,676100.0,Active
+EMP0234,Vivek Chopra,Male,48,2024-01-21,Retail Banking,Branch Executive,BR013,B.Tech,5.4,824700.0,Active
+EMP0235,Arjun Joshi,Female,27,2021-04-22,Retail Banking,Senior Relationship Manager,BR019,BA,6.3,574600.0,Active
+EMP0236,Divya Sharma,Female,32,2019-08-05,Retail Banking,Branch Executive,BR015,BBA,8.9,770500.0,Active
+EMP0237,Ananya Agarwal,Male,35,2018-03-23,Sales & Relationship,Sales Executive,BR003,B.Tech,9.9,958200.0,Active
+EMP0238,Akash Kumar,Female,34,2024-07-12,Retail Banking,Relationship Manager,BR015,BCA,4.8,625400.0,Active
+EMP0239,Pooja Tiwari,Male,45,2019-11-14,Sales & Relationship,Relationship Executive,BR009,BBA,9.5,748600.0,Active
+EMP0240,Ayush Agarwal,Female,30,2018-01-19,Retail Banking,Senior Relationship Manager,BR001,BBA,9.3,824900.0,Active
+EMP0241,Rahul Jain,Male,35,2018-09-14,Customer Service,Customer Service Officer,BR014,BBA,10.6,783500.0,Active
+EMP0242,Isha Kapoor,Male,35,2021-01-03,Customer Service,Customer Service Officer,BR013,BCA,6.8,733900.0,Inactive
+EMP0243,Tanvi Singh,Male,32,2024-06-27,Operations,Senior Operations Officer,BR003,M.Com,2.5,627500.0,Active
+EMP0244,Aarav Joshi,Male,26,2020-11-16,Sales & Relationship,Sales Executive,BR013,B.Tech,5.9,783700.0,Active
+EMP0245,Karan Reddy,Female,21,2022-01-19,Loans,Credit Analyst,BR020,MBA,6.4,885900.0,Active
+EMP0246,Gaurav Bansal,Female,33,2024-04-26,Loans,Credit Analyst,BR018,B.Tech,2.9,708000.0,Active
+EMP0247,Priya Mehta,Male,25,2021-06-18,Customer Service,Customer Service Executive,BR018,BBA,6.8,723800.0,Active
+EMP0248,Neha Jain,Female,30,2023-01-30,Loans,Senior Loan Officer,BR002,BCA,4.6,680200.0,Active
+EMP0249,Rahul Sharma,Female,37,2025-04-25,Customer Service,Senior Service Officer,BR010,BCA,4.2,577700.0,Active
+EMP0250,Ananya Saxena,Female,31,2021-01-29,Loans,Loan Officer,BR009,MBA,8.6,896600.0,Active
+EMP0251,Mohit Bansal,Female,31,2021-08-20,Customer Service,Senior Service Officer,BR012,B.Com,6.3,657600.0,Active
+EMP0252,Chetna Jain,Male,28,2025-08-20,Sales & Relationship,Relationship Executive,BR011,B.Tech,3.6,732400.0,Active
+EMP0253,Pooja Mishra,Female,36,2023-01-02,Customer Service,Customer Service Officer,BR001,MBA,6.0,907000.0,On Notice
+EMP0254,Deepak Bansal,Male,30,2023-09-28,Loans,Loan Officer,BR005,BBA,3.3,580800.0,On Notice
+EMP0255,Sakshi Mehta,Female,25,2020-06-02,Sales & Relationship,Sales Executive,BR020,BCA,6.4,749300.0,Active
+EMP0256,Sonal Jain,Male,40,2025-07-08,Loans,Credit Analyst,BR005,BA,3.8,485000.0,Active
+EMP0257,Aditi Kapoor,Male,32,2025-09-04,Retail Banking,Senior Relationship Manager,BR004,MBA,3.0,685200.0,Active
+EMP0258,Ananya Mishra,Female,42,2018-08-13,Retail Banking,Senior Relationship Manager,BR009,M.Com,9.9,854300.0,On Notice
+EMP0259,Varun Das,Male,33,2019-05-31,Operations,Operations Officer,BR011,B.Com,10.2,765700.0,Inactive
+EMP0260,Sakshi Patel,Male,28,2022-05-14,Retail Banking,Senior Relationship Manager,BR013,B.Tech,6.6,767900.0,Active
+EMP0261,Tanvi Jain,Male,39,2025-02-24,Sales & Relationship,Relationship Executive,BR018,BA,2.6,497400.0,Active
+EMP0262,Nandini Singh,Male,35,2024-08-05,Sales & Relationship,Senior Sales Manager,BR014,BA,3.5,522400.0,Active
+EMP0263,Simran Mishra,Female,47,2023-04-17,Loans,Loan Officer,BR011,BCA,4.8,607900.0,Active
+EMP0264,Manish Gupta,Female,21,2023-09-29,Retail Banking,Senior Relationship Manager,BR016,MBA,5.6,855100.0,Active
+EMP0265,Mohit Mehta,Male,30,2024-05-10,Sales & Relationship,Senior Sales Manager,BR002,B.Tech,4.2,692700.0,Active
+EMP0266,Sonal Gupta,Female,21,2020-07-18,Loans,Senior Loan Officer,BR001,M.Com,8.5,860000.0,Active
+EMP0267,Shreya Patel,Female,35,2018-05-17,Customer Service,Senior Service Officer,BR011,MBA,10.9,1004300.0,Active
+EMP0268,Simran Verma,Male,34,2024-11-08,Customer Service,Customer Service Executive,BR013,BA,4.3,551900.0,Active
+EMP0269,Sameer Bansal,Male,22,2019-09-21,Loans,Loan Officer,BR018,BCA,7.1,782600.0,Inactive
+EMP0270,Sakshi Kapoor,Female,21,2021-01-10,Loans,Senior Loan Officer,BR010,BBA,7.7,777800.0,Active
+EMP0271,Pooja Verma,Male,24,2022-05-23,Customer Service,Customer Service Officer,BR019,BCA,6.1,701100.0,Active
+EMP0272,Ananya Patel,Female,36,2024-07-02,Loans,Senior Loan Officer,BR018,M.Com,4.8,678300.0,Active
+EMP0273,Aarav Verma,Male,38,2019-04-20,Operations,Senior Operations Officer,BR008,B.Tech,7.7,895000.0,Active
+EMP0274,Rahul Das,Female,29,2025-01-27,Customer Service,Senior Service Officer,BR013,BCA,3.6,607900.0,Active
+EMP0275,Nikhil Verma,Female,27,2022-08-01,Retail Banking,Senior Relationship Manager,BR015,B.Tech,4.8,724500.0,Active
+EMP0276,Sonal Kumar,Female,32,2019-02-24,Loans,Loan Officer,BR016,M.Com,9.8,894100.0,Active
+EMP0277,Deepak Singh,Male,42,2025-09-01,Retail Banking,Senior Relationship Manager,BR009,B.Tech,2.2,662300.0,Active
+EMP0278,Pooja Kumar,Male,21,2025-10-03,Operations,Operations Officer,BR017,MBA,2.8,753900.0,Active
+EMP0279,Rakesh Joshi,Male,39,2023-03-30,Operations,Operations Officer,BR009,B.Tech,5.9,809900.0,Active
+EMP0280,Gaurav Tiwari,Male,38,2021-08-24,Loans,Senior Loan Officer,BR013,B.Com,5.6,660100.0,Inactive
+EMP0281,Yash Mishra,Male,35,2021-02-25,Operations,Operations Officer,BR001,B.Com,8.3,673500.0,Inactive
+EMP0282,Aarav Kumar,Male,28,2020-06-20,Operations,Senior Operations Officer,BR016,B.Com,7.9,721400.0,Active
+EMP0283,Ananya Malhotra,Female,21,2020-06-09,Retail Banking,Senior Relationship Manager,BR002,B.Com,8.9,710400.0,Active
+EMP0284,Manish Iyer,Female,39,2025-01-10,Customer Service,Senior Service Officer,BR018,B.Tech,2.7,683100.0,Active
+EMP0285,Anjali Bansal,Male,31,2023-04-09,Retail Banking,Relationship Manager,BR001,B.Com,4.5,649700.0,Active
+EMP0286,Ananya Sharma,Female,30,2024-02-23,Operations,Operations Executive,BR020,BA,2.8,492900.0,Active
+EMP0287,Bhavna Patel,Male,42,2020-01-30,Customer Service,Customer Service Executive,BR002,BBA,9.6,849000.0,Inactive
+EMP0288,Sameer Joshi,Male,28,2023-06-12,Retail Banking,Senior Relationship Manager,BR003,MBA,3.9,767200.0,Active
+EMP0289,Simran Saxena,Male,38,2018-01-22,Operations,Operations Officer,BR020,B.Tech,9.1,847700.0,Active
+EMP0290,Vivek Verma,Female,22,2019-08-19,Retail Banking,Branch Executive,BR015,BBA,7.4,691100.0,Active
+EMP0291,Neha Patel,Female,37,2020-12-18,Operations,Operations Executive,BR015,M.Com,7.6,746900.0,Active
+EMP0292,Shreya Sharma,Male,49,2021-06-25,Sales & Relationship,Sales Executive,BR013,BBA,7.0,689800.0,Active
+EMP0293,Meera Patel,Male,31,2023-09-25,Loans,Credit Analyst,BR018,BA,3.6,593200.0,Active
+EMP0294,Sameer Iyer,Female,35,2019-01-02,Customer Service,Customer Service Executive,BR011,M.Com,8.5,819000.0,Active
+EMP0295,Anjali Chopra,Female,34,2020-12-06,Loans,Credit Analyst,BR008,B.Com,5.9,612200.0,Active
+EMP0296,Deepak Reddy,Male,35,2021-03-30,Loans,Credit Analyst,BR019,BBA,7.5,707200.0,Active
+EMP0297,Meera Jain,Female,34,2020-10-11,Loans,Loan Officer,BR006,BA,8.2,672000.0,Active
+EMP0298,Pooja Singh,Female,21,2025-12-22,Loans,Loan Officer,BR011,B.Com,3.5,506700.0,Active
+EMP0299,Divya Kapoor,Male,23,2021-09-20,Sales & Relationship,Relationship Executive,BR007,BBA,5.2,642000.0,Active
+EMP0300,Aarav Mehta,Female,32,2020-04-02,Operations,Operations Officer,BR016,BA,8.6,729600.0,Active
+EMP0301,Aarav Gupta,Female,37,2024-06-08,Customer Service,Senior Service Officer,BR010,BCA,4.4,670700.0,Active
+EMP0302,Varun Kumar,Male,38,2023-10-01,Loans,Credit Analyst,BR010,M.Com,5.6,692900.0,Active
+EMP0303,Anjali Patel,Male,36,2020-10-26,Loans,Senior Loan Officer,BR017,BCA,7.6,727900.0,Active
+EMP0304,Isha Bansal,Male,29,2025-08-05,Operations,Senior Operations Officer,BR016,B.Tech,2.0,670800.0,Active
+EMP0305,Varun Patel,Male,38,2022-06-18,Retail Banking,Senior Relationship Manager,BR014,B.Com,4.8,589400.0,Active
+EMP0306,Rakesh Saxena,Female,38,2019-11-05,Customer Service,Customer Service Officer,BR019,MBA,8.5,914800.0,Active
+EMP0307,Simran Reddy,Female,31,2018-01-19,Customer Service,Customer Service Officer,BR019,B.Tech,10.7,984900.0,Active
+EMP0308,Simran Agarwal,Male,33,2018-08-27,Operations,Operations Officer,BR017,B.Com,8.4,733500.0,Active
+EMP0309,Rohit Verma,Female,32,2020-03-31,Loans,Senior Loan Officer,BR011,BA,8.8,753100.0,Active
+EMP0310,Priya Tiwari,Male,21,2025-06-08,Loans,Loan Officer,BR019,B.Com,3.4,554800.0,Active
+EMP0311,Sonal Mishra,Male,41,2019-03-05,Loans,Credit Analyst,BR019,BCA,9.0,744100.0,Active
+EMP0312,Kavya Das,Male,32,2025-01-09,Retail Banking,Relationship Manager,BR017,B.Com,2.9,570700.0,Active
+EMP0313,Ananya Das,Female,21,2023-02-18,Loans,Senior Loan Officer,BR011,BA,3.8,527700.0,On Notice
+EMP0314,Vivek Saxena,Female,36,2021-07-03,Loans,Loan Officer,BR004,MBA,6.7,890300.0,Active
+EMP0315,Ayush Jain,Female,37,2024-12-07,Operations,Senior Operations Officer,BR006,MBA,2.4,753100.0,Active
+EMP0316,Priya Patel,Female,36,2022-12-18,Sales & Relationship,Relationship Executive,BR013,MBA,5.7,881800.0,Active
+EMP0317,Divya Saxena,Female,34,2024-08-30,Loans,Loan Officer,BR002,MBA,3.4,785900.0,Active
+EMP0318,Akash Mehta,Male,23,2025-08-15,Operations,Senior Operations Officer,BR001,BA,2.4,517100.0,Active
+EMP0319,Varun Mehta,Male,38,2022-05-29,Customer Service,Customer Service Officer,BR005,B.Tech,6.3,839100.0,Active
+EMP0320,Yash Saxena,Male,22,2025-03-07,Retail Banking,Relationship Manager,BR014,M.Com,2.4,649500.0,Active
+EMP0321,Bhavna Chopra,Female,29,2019-03-31,Loans,Loan Officer,BR006,BA,10.5,728800.0,Active
+EMP0322,Sameer Verma,Male,37,2025-10-17,Sales & Relationship,Senior Sales Manager,BR015,M.Com,3.4,682000.0,Active
+EMP0323,Tanvi Bansal,Female,30,2019-05-23,Loans,Credit Analyst,BR017,BCA,9.3,747400.0,Active
+EMP0324,Pooja Patel,Female,31,2021-06-12,Retail Banking,Senior Relationship Manager,BR004,BCA,5.3,680500.0,Inactive
+EMP0325,Vivek Kumar,Male,26,2021-07-23,Customer Service,Senior Service Officer,BR005,B.Tech,6.9,872900.0,Inactive
+EMP0326,Divya Chopra,Female,42,2021-02-10,Sales & Relationship,Sales Executive,BR018,BA,7.0,666200.0,Active
+EMP0327,Deepak Iyer,Male,33,2021-12-19,Sales & Relationship,Sales Executive,BR007,B.Com,6.7,692300.0,Active
+EMP0328,Karan Reddy,Female,36,2022-10-16,Retail Banking,Branch Executive,BR016,B.Com,5.7,680000.0,Active
+EMP0329,Isha Singh,Male,45,2024-01-23,Retail Banking,Relationship Manager,BR017,BBA,4.3,598700.0,Active
+EMP0330,Swati Joshi,Female,28,2023-05-14,Sales & Relationship,Senior Sales Manager,BR016,MBA,5.2,765800.0,Active
+EMP0331,Meera Saxena,Male,40,2022-03-15,Operations,Senior Operations Officer,BR008,BCA,4.9,595100.0,Inactive
+EMP0332,Meera Patel,Male,28,2024-08-24,Customer Service,Customer Service Officer,BR019,B.Tech,2.3,648000.0,Active
+EMP0333,Kavya Kumar,Male,31,2018-02-19,Customer Service,Senior Service Officer,BR005,BBA,9.4,738000.0,Active
+EMP0334,Bhavna Patel,Male,23,2023-10-05,Sales & Relationship,Senior Sales Manager,BR017,BCA,3.5,581700.0,Active
+EMP0335,Riya Verma,Female,37,2024-11-05,Loans,Credit Analyst,BR017,BBA,3.3,576200.0,Active
+EMP0336,Isha Tiwari,Male,42,2022-01-02,Sales & Relationship,Relationship Executive,BR019,BBA,4.9,626500.0,Inactive
+EMP0337,Isha Tiwari,Male,42,2018-02-09,Customer Service,Customer Service Executive,BR012,BCA,9.8,825700.0,Active
+EMP0338,Rohit Mishra,Male,34,2018-08-15,Sales & Relationship,Sales Executive,BR013,B.Tech,10.5,971300.0,Inactive
+EMP0339,Rohit Kapoor,Female,29,2022-06-19,Retail Banking,Senior Relationship Manager,BR006,MBA,5.5,838800.0,Active
+EMP0340,Manish Mehta,Male,50,2022-01-14,Sales & Relationship,Senior Sales Manager,BR008,M.Com,5.4,697800.0,Active
+EMP0341,Tanvi Das,Male,40,2018-12-15,Customer Service,Senior Service Officer,BR004,BA,10.2,825600.0,Active
+EMP0342,Vikas Sharma,Female,25,2018-10-03,Sales & Relationship,Senior Sales Manager,BR013,B.Com,9.1,716700.0,Active
+EMP0343,Rohit Tiwari,Female,27,2025-07-09,Operations,Senior Operations Officer,BR002,M.Com,3.0,621000.0,Active
+EMP0344,Mohit Kapoor,Female,26,2018-01-13,Operations,Senior Operations Officer,BR016,M.Com,11.0,930000.0,Active
+EMP0345,Chetna Saxena,Female,32,2024-12-01,Operations,Operations Executive,BR012,MBA,2.2,690400.0,Active
+EMP0346,Bhavna Mishra,Male,38,2022-12-12,Operations,Senior Operations Officer,BR012,M.Com,5.2,655400.0,Active
+EMP0347,Pooja Mishra,Male,28,2024-05-09,Customer Service,Senior Service Officer,BR006,BBA,3.0,586300.0,Active
+EMP0348,Divya Joshi,Female,34,2019-05-14,Loans,Loan Officer,BR019,B.Com,9.0,728900.0,Active
+EMP0349,Aman Iyer,Female,43,2024-02-10,Retail Banking,Branch Executive,BR017,BBA,3.6,600400.0,Active
+EMP0350,Neha Verma,Male,39,2020-09-03,Sales & Relationship,Relationship Executive,BR008,B.Tech,8.2,859300.0,Active
+EMP0351,Sameer Jain,Male,32,2024-11-12,Sales & Relationship,Senior Sales Manager,BR016,BBA,2.4,595400.0,Active
+EMP0352,Riya Patel,Male,33,2025-08-28,Loans,Loan Officer,BR020,BBA,2.4,506700.0,Active
+EMP0353,Sakshi Saxena,Female,35,2024-11-16,Operations,Operations Officer,BR018,BCA,4.2,592500.0,On Notice
+EMP0354,Sonal Verma,Male,36,2024-02-09,Sales & Relationship,Relationship Executive,BR020,BA,3.0,477900.0,Active
+EMP0355,Pooja Kumar,Female,21,2018-09-07,Retail Banking,Branch Executive,BR017,B.Tech,8.5,869600.0,Active
+EMP0356,Swati Verma,Male,33,2018-04-01,Retail Banking,Branch Executive,BR010,MBA,11.3,1080300.0,Active
+EMP0357,Simran Kumar,Female,31,2022-09-13,Retail Banking,Relationship Manager,BR016,BCA,5.4,726700.0,Active
+EMP0358,Isha Mishra,Female,32,2022-12-08,Customer Service,Senior Service Officer,BR009,MBA,5.4,873800.0,Active
+EMP0359,Pooja Saxena,Male,32,2018-10-05,Customer Service,Customer Service Executive,BR006,B.Tech,8.7,893400.0,On Notice
+EMP0360,Nandini Joshi,Male,28,2022-12-14,Customer Service,Customer Service Officer,BR013,BBA,4.8,586700.0,Active
+EMP0361,Arjun Kumar,Male,35,2018-09-26,Retail Banking,Branch Executive,BR017,M.Com,9.4,813500.0,Active
+EMP0362,Mohit Gupta,Female,35,2020-09-12,Operations,Operations Executive,BR014,BA,7.3,684000.0,Active
+EMP0363,Nikhil Gupta,Male,42,2025-08-30,Retail Banking,Senior Relationship Manager,BR016,B.Com,3.1,566300.0,Active
+EMP0364,Isha Mehta,Male,32,2024-08-07,Loans,Credit Analyst,BR014,BCA,5.0,637600.0,Active
+EMP0365,Varun Kapoor,Male,28,2023-04-20,Retail Banking,Branch Executive,BR003,M.Com,3.6,612400.0,Active
+EMP0366,Rakesh Patel,Female,32,2024-02-27,Operations,Operations Executive,BR016,BBA,3.5,628800.0,Active
+EMP0367,Anjali Mehta,Male,26,2025-03-04,Customer Service,Customer Service Officer,BR014,BA,2.9,469100.0,Active
+EMP0368,Aman Patel,Male,44,2022-06-30,Customer Service,Customer Service Officer,BR016,BBA,6.8,699700.0,On Notice
+EMP0369,Varun Mehta,Female,39,2020-08-16,Operations,Senior Operations Officer,BR001,B.Com,7.3,660800.0,Active
+EMP0370,Rahul Bansal,Male,39,2025-09-11,Customer Service,Customer Service Executive,BR018,B.Com,3.4,571400.0,Active
+EMP0371,Rohit Patel,Male,22,2021-07-03,Sales & Relationship,Relationship Executive,BR010,B.Com,8.0,679200.0,Active
+EMP0372,Vivek Patel,Male,36,2023-05-15,Loans,Senior Loan Officer,BR011,BCA,3.5,614800.0,Active
+EMP0373,Divya Tiwari,Female,29,2022-05-19,Sales & Relationship,Sales Executive,BR019,B.Com,5.2,612400.0,Active
+EMP0374,Gaurav Kapoor,Female,28,2024-04-28,Retail Banking,Senior Relationship Manager,BR002,BCA,4.8,624800.0,Active
+EMP0375,Meera Joshi,Female,28,2023-03-26,Operations,Operations Executive,BR008,MBA,5.2,813100.0,On Notice
+EMP0376,Manish Bansal,Male,34,2023-02-28,Retail Banking,Branch Executive,BR007,M.Com,5.5,662500.0,Active
+EMP0377,Aman Das,Male,24,2021-12-30,Operations,Operations Executive,BR020,BBA,5.2,607000.0,Active
+EMP0378,Sonal Kapoor,Male,21,2018-08-12,Loans,Senior Loan Officer,BR002,M.Com,10.2,916300.0,Active
+EMP0379,Nikhil Jain,Male,24,2023-04-23,Customer Service,Customer Service Officer,BR018,MBA,5.4,849700.0,Active
+EMP0380,Isha Patel,Male,26,2018-10-05,Customer Service,Customer Service Executive,BR010,M.Com,10.0,928800.0,Active
+EMP0381,Varun Singh,Male,40,2023-02-20,Retail Banking,Senior Relationship Manager,BR020,BCA,6.2,755200.0,Active
+EMP0382,Tanvi Chopra,Female,27,2023-03-03,Operations,Operations Executive,BR011,BA,6.1,566300.0,Active
+EMP0383,Neha Chopra,Male,25,2025-04-19,Customer Service,Customer Service Officer,BR011,BBA,3.8,636900.0,Inactive
+EMP0384,Aditya Das,Male,27,2025-10-13,Retail Banking,Branch Executive,BR010,BBA,2.7,586400.0,Active
+EMP0385,Nikhil Reddy,Female,26,2019-02-25,Loans,Senior Loan Officer,BR009,M.Com,9.5,865200.0,Inactive
+EMP0386,Deepak Singh,Female,36,2023-08-22,Retail Banking,Senior Relationship Manager,BR002,MBA,4.1,726800.0,Active
+EMP0387,Shreya Das,Male,39,2021-01-06,Operations,Operations Executive,BR007,B.Tech,6.9,868300.0,Active
+EMP0388,Arjun Gupta,Male,23,2022-10-18,Retail Banking,Relationship Manager,BR004,BBA,5.0,623800.0,Active
+EMP0389,Varun Kapoor,Female,21,2018-06-13,Customer Service,Senior Service Officer,BR016,BA,10.1,739000.0,Active
+EMP0390,Manish Joshi,Female,38,2022-01-25,Customer Service,Customer Service Executive,BR014,BA,6.0,647500.0,Active
+EMP0391,Rahul Mishra,Female,31,2019-07-10,Retail Banking,Senior Relationship Manager,BR014,M.Com,9.2,889300.0,Active
+EMP0392,Rahul Mishra,Female,37,2020-02-24,Retail Banking,Relationship Manager,BR020,BA,8.3,642000.0,Active
+EMP0393,Aarav Das,Male,21,2023-05-19,Operations,Senior Operations Officer,BR011,BCA,6.3,669300.0,Active
+EMP0394,Akash Sharma,Male,38,2023-10-03,Sales & Relationship,Senior Sales Manager,BR015,BCA,5.6,723000.0,Active
+EMP0395,Gaurav Das,Female,43,2023-12-19,Operations,Operations Executive,BR020,M.Com,5.0,704400.0,Active
+EMP0396,Priya Das,Male,37,2025-06-25,Sales & Relationship,Senior Sales Manager,BR013,M.Com,3.6,589100.0,Active
+EMP0397,Gaurav Saxena,Male,49,2020-07-12,Retail Banking,Senior Relationship Manager,BR014,BCA,8.5,817400.0,Active
+EMP0398,Nandini Joshi,Female,27,2025-04-11,Loans,Credit Analyst,BR001,BA,3.0,485300.0,Inactive
+EMP0399,Riya Tiwari,Male,39,2025-05-23,Operations,Operations Executive,BR013,M.Com,2.4,607600.0,Active
+EMP0400,Divya Jain,Male,37,2018-09-17,Customer Service,Senior Service Officer,BR013,B.Com,9.2,783100.0,Active
+EMP0401,Sonal Joshi,Female,27,2022-01-30,Operations,Senior Operations Officer,BR016,BA,4.9,540900.0,Active
+EMP0402,Nandini Patel,Female,30,2019-09-14,Sales & Relationship,Senior Sales Manager,BR017,BCA,9.7,759500.0,Inactive
+EMP0403,Vivek Gupta,Male,42,2020-01-12,Retail Banking,Relationship Manager,BR004,B.Com,9.3,720700.0,Active
+EMP0404,Riya Iyer,Male,44,2024-11-30,Retail Banking,Branch Executive,BR020,M.Com,2.9,630700.0,Active
+EMP0405,Ananya Kumar,Female,21,2025-01-19,Operations,Operations Executive,BR007,BCA,3.4,590900.0,On Notice
+EMP0406,Gaurav Gupta,Female,26,2025-02-02,Customer Service,Customer Service Officer,BR007,BCA,1.9,581500.0,Active
+EMP0407,Tanvi Kumar,Female,25,2022-10-02,Loans,Credit Analyst,BR010,BCA,6.4,706000.0,Active
+EMP0408,Simran Sharma,Female,21,2018-06-04,Customer Service,Senior Service Officer,BR015,BA,9.3,685800.0,Active
+EMP0409,Tanvi Chopra,Male,30,2022-11-07,Retail Banking,Senior Relationship Manager,BR018,BBA,6.2,670100.0,Active
+EMP0410,Pooja Tiwari,Male,30,2022-01-13,Operations,Senior Operations Officer,BR014,BA,7.2,657900.0,Active
+EMP0411,Varun Patel,Male,29,2024-09-29,Loans,Senior Loan Officer,BR007,M.Com,4.5,709100.0,Active
+EMP0412,Yash Mehta,Male,31,2021-11-11,Operations,Senior Operations Officer,BR006,MBA,5.4,798300.0,Active
+EMP0413,Rahul Tiwari,Male,30,2023-04-08,Operations,Operations Executive,BR003,BCA,3.5,551000.0,Active
+EMP0414,Priya Joshi,Female,33,2020-10-13,Operations,Operations Executive,BR012,B.Tech,8.7,829800.0,Active
+EMP0415,Karan Jain,Female,28,2023-08-22,Sales & Relationship,Sales Executive,BR011,MBA,6.1,808300.0,Active
+EMP0416,Shreya Iyer,Male,30,2021-03-10,Customer Service,Senior Service Officer,BR015,MBA,5.8,792200.0,Active
+EMP0417,Mohit Saxena,Female,35,2025-04-07,Customer Service,Customer Service Officer,BR002,M.Com,3.0,576600.0,Active
+EMP0418,Divya Iyer,Male,32,2019-08-11,Retail Banking,Senior Relationship Manager,BR007,BBA,7.4,734300.0,Active
+EMP0419,Neha Reddy,Female,28,2019-07-17,Sales & Relationship,Senior Sales Manager,BR001,BA,9.4,700700.0,Active
+EMP0420,Yash Mishra,Female,22,2021-04-15,Customer Service,Customer Service Officer,BR013,BCA,8.3,727300.0,Active
+EMP0421,Priya Mishra,Male,40,2019-11-16,Operations,Operations Executive,BR009,MBA,7.3,923100.0,Active
+EMP0422,Rahul Saxena,Female,36,2020-07-07,Loans,Loan Officer,BR007,M.Com,8.0,811300.0,Active
+EMP0423,Tanvi Mishra,Male,40,2024-07-15,Operations,Operations Executive,BR013,BCA,4.3,653900.0,Active
+EMP0424,Arjun Chopra,Female,27,2022-06-16,Loans,Loan Officer,BR006,B.Com,6.1,615400.0,Active
+EMP0425,Riya Kapoor,Male,33,2021-06-02,Loans,Senior Loan Officer,BR001,BBA,5.6,681700.0,Active
+EMP0426,Rahul Iyer,Female,24,2019-05-06,Retail Banking,Relationship Manager,BR016,BBA,9.2,797200.0,Active
+EMP0427,Arjun Mehta,Male,29,2025-12-29,Loans,Loan Officer,BR016,BBA,1.5,504800.0,Active
+EMP0428,Chetna Saxena,Female,29,2023-08-03,Customer Service,Senior Service Officer,BR008,MBA,3.8,714800.0,Active
+EMP0429,Isha Gupta,Female,31,2020-02-27,Customer Service,Customer Service Officer,BR013,B.Tech,9.0,916500.0,Active
+EMP0430,Divya Verma,Female,38,2018-07-10,Loans,Loan Officer,BR010,B.Com,8.9,708000.0,Active
+EMP0431,Rahul Agarwal,Female,37,2024-06-13,Operations,Senior Operations Officer,BR014,BA,3.8,532300.0,Active
+EMP0432,Aditya Kapoor,Male,26,2020-03-09,Sales & Relationship,Relationship Executive,BR007,MBA,9.5,919000.0,Active
+EMP0433,Neha Saxena,Male,29,2025-12-09,Customer Service,Customer Service Officer,BR016,BCA,3.0,572800.0,Active
+EMP0434,Neha Mehta,Female,28,2022-02-24,Customer Service,Senior Service Officer,BR019,B.Tech,7.3,792700.0,Active
+EMP0435,Deepak Singh,Male,29,2021-07-20,Sales & Relationship,Sales Executive,BR006,M.Com,6.1,778100.0,Active
+EMP0436,Sakshi Iyer,Female,49,2023-04-29,Sales & Relationship,Relationship Executive,BR002,BA,3.6,553500.0,Active
+EMP0437,Nikhil Tiwari,Male,26,2019-07-20,Retail Banking,Branch Executive,BR007,BA,9.2,785200.0,Active
+EMP0438,Swati Agarwal,Female,31,2021-08-28,Customer Service,Senior Service Officer,BR001,BCA,7.0,769800.0,Active
+EMP0439,Meera Verma,Male,34,2023-03-24,Sales & Relationship,Sales Executive,BR016,B.Tech,5.4,795400.0,Active
+EMP0440,Tanvi Joshi,Male,29,2018-04-26,Customer Service,Senior Service Officer,BR018,M.Com,9.8,913700.0,Active
+EMP0441,Isha Jain,Male,32,2025-10-22,Sales & Relationship,Relationship Executive,BR008,B.Tech,1.6,605900.0,Active
+EMP0442,Karan Singh,Male,33,2020-01-23,Retail Banking,Branch Executive,BR007,BBA,7.4,703300.0,Active
+EMP0443,Pooja Verma,Male,30,2020-08-31,Operations,Operations Executive,BR016,BA,8.7,704300.0,Active
+EMP0444,Rakesh Singh,Male,31,2020-04-27,Customer Service,Customer Service Officer,BR006,BBA,7.2,763700.0,Active
+EMP0445,Priya Singh,Male,26,2021-12-20,Sales & Relationship,Senior Sales Manager,BR006,B.Com,5.4,635500.0,Active
+EMP0446,Mohit Chopra,Female,50,2020-06-13,Sales & Relationship,Senior Sales Manager,BR001,MBA,7.6,907500.0,Active
+EMP0447,Rakesh Patel,Male,31,2020-11-07,Retail Banking,Relationship Manager,BR015,B.Com,7.3,688800.0,Active
+EMP0448,Mohit Patel,Male,28,2020-05-15,Customer Service,Senior Service Officer,BR008,BCA,7.8,790000.0,Active
+EMP0449,Gaurav Patel,Female,39,2022-12-26,Customer Service,Senior Service Officer,BR019,BA,5.9,659600.0,Active
+EMP0450,Ayush Iyer,Male,29,2020-04-19,Sales & Relationship,Relationship Executive,BR003,B.Com,7.4,655400.0,Active
+EMP0451,Mohit Joshi,Female,36,2025-02-14,Operations,Operations Officer,BR014,B.Tech,1.9,627200.0,Active
+EMP0452,Aarav Das,Female,37,2023-03-26,Sales & Relationship,Sales Executive,BR006,MBA,3.9,719000.0,Active
+EMP0453,Aarav Gupta,Male,30,2018-03-02,Sales & Relationship,Relationship Executive,BR011,BBA,10.0,811400.0,Active
+EMP0454,Ananya Bansal,Female,33,2025-07-03,Customer Service,Customer Service Officer,BR016,B.Tech,2.1,698900.0,Active
+EMP0455,Arjun Iyer,Male,32,2023-02-05,Customer Service,Customer Service Officer,BR006,B.Com,5.6,653500.0,Active
+EMP0456,Kavya Gupta,Male,21,2019-01-26,Retail Banking,Relationship Manager,BR005,BCA,8.5,759800.0,Active
+EMP0457,Rahul Singh,Male,31,2021-09-19,Customer Service,Customer Service Executive,BR009,BCA,6.5,722800.0,Active
+EMP0458,Karan Das,Female,33,2024-05-23,Customer Service,Customer Service Officer,BR007,B.Tech,4.8,786400.0,Active
+EMP0459,Gaurav Tiwari,Female,21,2023-10-23,Customer Service,Customer Service Executive,BR015,B.Tech,5.8,759000.0,Active
+EMP0460,Ayush Kapoor,Male,34,2024-02-13,Customer Service,Senior Service Officer,BR001,BBA,5.0,620400.0,Active
+EMP0461,Varun Jain,Male,21,2019-09-01,Customer Service,Customer Service Executive,BR017,M.Com,7.3,817400.0,Active
+EMP0462,Riya Patel,Male,33,2022-10-05,Sales & Relationship,Sales Executive,BR017,BBA,4.7,670600.0,Active
+EMP0463,Chetna Kapoor,Female,24,2018-06-06,Retail Banking,Senior Relationship Manager,BR015,BBA,9.3,785700.0,Active
+EMP0464,Mohit Verma,Male,21,2025-01-29,Sales & Relationship,Relationship Executive,BR001,BBA,2.9,532900.0,On Notice
+EMP0465,Aditi Agarwal,Female,28,2023-03-14,Operations,Operations Officer,BR014,BBA,5.9,650100.0,Active
+EMP0466,Manish Mishra,Female,39,2021-02-26,Retail Banking,Relationship Manager,BR007,BBA,5.7,607000.0,Active
+EMP0467,Nikhil Verma,Male,34,2018-03-31,Customer Service,Customer Service Executive,BR011,B.Com,10.3,830300.0,Active
+EMP0468,Vivek Malhotra,Male,43,2019-12-31,Customer Service,Customer Service Officer,BR016,M.Com,8.3,824700.0,Active
+EMP0469,Akash Malhotra,Female,37,2024-06-09,Retail Banking,Branch Executive,BR004,MBA,4.0,822800.0,Active
+EMP0470,Gaurav Das,Female,23,2018-08-26,Loans,Senior Loan Officer,BR019,MBA,8.3,884800.0,Active
+EMP0471,Kavya Verma,Female,35,2024-08-01,Operations,Operations Officer,BR005,BCA,4.5,659100.0,Active
+EMP0472,Pooja Chopra,Female,29,2023-11-11,Operations,Operations Officer,BR008,BBA,3.7,534500.0,On Notice
+EMP0473,Deepak Joshi,Male,38,2023-01-04,Customer Service,Customer Service Executive,BR003,BA,5.3,599400.0,Active
+EMP0474,Priya Gupta,Female,24,2019-05-31,Operations,Operations Officer,BR005,BBA,7.9,722100.0,Active
+EMP0475,Aditi Patel,Female,28,2025-05-23,Retail Banking,Relationship Manager,BR020,BBA,2.8,538100.0,Active
+EMP0476,Priya Malhotra,Male,24,2024-04-19,Customer Service,Customer Service Officer,BR007,BA,4.4,594000.0,On Notice
+EMP0477,Arjun Joshi,Male,37,2022-04-29,Loans,Senior Loan Officer,BR018,BBA,5.4,699500.0,Active
+EMP0478,Riya Sharma,Female,35,2021-06-25,Loans,Senior Loan Officer,BR018,B.Com,5.8,611400.0,Active
+EMP0479,Sakshi Chopra,Female,26,2018-04-20,Retail Banking,Senior Relationship Manager,BR002,BBA,10.9,788900.0,Active
+EMP0480,Mohit Saxena,Male,27,2022-12-28,Loans,Loan Officer,BR005,B.Com,3.9,617800.0,Active
+EMP0481,Deepak Das,Female,21,2023-11-06,Operations,Operations Executive,BR011,BA,4.8,562000.0,Active
+EMP0482,Mohit Kumar,Male,37,2019-06-09,Operations,Operations Officer,BR019,MBA,9.4,1010800.0,Active
+EMP0483,Sakshi Kapoor,Male,30,2020-10-13,Loans,Senior Loan Officer,BR003,B.Com,7.4,704700.0,Active
+EMP0484,Gaurav Singh,Male,25,2021-02-05,Operations,Senior Operations Officer,BR005,M.Com,8.5,860800.0,Active
+EMP0485,Kavya Patel,Male,28,2021-11-21,Sales & Relationship,Senior Sales Manager,BR007,BBA,6.8,724300.0,Active
+EMP0486,Sakshi Kumar,Male,34,2023-02-20,Customer Service,Senior Service Officer,BR016,MBA,4.7,771600.0,Active
+EMP0487,Vikas Jain,Female,34,2020-05-23,Operations,Operations Executive,BR020,MBA,6.5,853400.0,Active
+EMP0488,Karan Chopra,Male,35,2020-05-27,Customer Service,Customer Service Officer,BR006,B.Tech,6.9,874500.0,Active
+EMP0489,Deepak Malhotra,Female,36,2025-06-18,Loans,Credit Analyst,BR004,M.Com,2.2,583500.0,On Notice
+EMP0490,Chetna Reddy,Male,27,2018-08-03,Retail Banking,Senior Relationship Manager,BR003,MBA,9.3,981000.0,Active
+EMP0491,Gaurav Das,Male,29,2019-03-05,Customer Service,Customer Service Executive,BR002,MBA,8.3,897900.0,Active
+EMP0492,Rakesh Joshi,Male,49,2024-08-12,Retail Banking,Branch Executive,BR006,BCA,5.0,664300.0,Active
+EMP0493,Tanvi Saxena,Male,21,2019-04-17,Retail Banking,Senior Relationship Manager,BR011,BA,7.8,627600.0,Active
+EMP0494,Manish Malhotra,Female,35,2025-07-07,Sales & Relationship,Relationship Executive,BR004,B.Tech,3.6,699200.0,Active
+EMP0495,Meera Reddy,Female,36,2018-07-26,Customer Service,Customer Service Executive,BR013,M.Com,10.6,879200.0,Active
+EMP0496,Ayush Malhotra,Male,34,2024-10-03,Operations,Operations Executive,BR004,MBA,2.9,798300.0,Active
+EMP0497,Sameer Iyer,Male,21,2018-08-19,Customer Service,Customer Service Executive,BR008,BBA,10.8,808600.0,Active
+EMP0498,Tanvi Das,Female,28,2020-11-19,Sales & Relationship,Sales Executive,BR008,B.Com,6.0,595600.0,Active
+EMP0499,Aarav Agarwal,Female,30,2021-11-02,Retail Banking,Branch Executive,BR016,B.Tech,5.7,826000.0,Inactive
+EMP0500,Mohit Saxena,Male,38,2019-11-25,Operations,Operations Officer,BR019,M.Com,9.5,809600.0,Active

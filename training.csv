@@ -1,0 +1,1501 @@
+training_id,employee_id,training_name,training_date,training_hours,training_status
+TRN00001,EMP0061,Data Analytics for Banking,2026-02-01,8,Completed
+TRN00002,EMP0018,Compliance & KYC,2026-01-04,2,Completed
+TRN00003,EMP0222,Customer Service Excellence,2026-07-28,4,Completed
+TRN00004,EMP0424,Digital Banking,2026-05-28,8,Completed
+TRN00005,EMP0023,Leadership Skills,2026-09-09,12,Completed
+TRN00006,EMP0108,Credit & Loan Processing,2026-09-10,6,Completed
+TRN00007,EMP0186,Sales & Cross Selling,2026-06-02,4,Completed
+TRN00008,EMP0269,Compliance & KYC,2026-07-07,8,Completed
+TRN00009,EMP0072,Sales & Cross Selling,2026-06-10,12,Completed
+TRN00010,EMP0049,Data Analytics for Banking,2025-11-11,8,Completed
+TRN00011,EMP0198,Sales & Cross Selling,2025-11-21,2,Completed
+TRN00012,EMP0256,Credit & Loan Processing,2026-03-08,6,Completed
+TRN00013,EMP0493,Digital Banking,2026-06-28,12,Completed
+TRN00014,EMP0421,Sales & Cross Selling,2025-12-27,6,Completed
+TRN00015,EMP0288,Data Analytics for Banking,2025-12-09,2,Completed
+TRN00016,EMP0071,Data Analytics for Banking,2026-07-05,2,Completed
+TRN00017,EMP0116,Cyber Security Awareness,2026-06-21,6,Completed
+TRN00018,EMP0445,Leadership Skills,2026-01-03,4,Completed
+TRN00019,EMP0169,Compliance & KYC,2025-11-26,4,In Progress
+TRN00020,EMP0139,Digital Banking,2025-12-15,2,Completed
+TRN00021,EMP0032,Sales & Cross Selling,2026-08-05,12,Completed
+TRN00022,EMP0197,Customer Service Excellence,2026-02-12,4,Completed
+TRN00023,EMP0040,Compliance & KYC,2026-07-27,8,Completed
+TRN00024,EMP0483,Data Analytics for Banking,2025-10-27,6,Completed
+TRN00025,EMP0091,Sales & Cross Selling,2026-02-10,8,Completed
+TRN00026,EMP0190,Leadership Skills,2026-09-05,4,Completed
+TRN00027,EMP0329,Digital Banking,2025-12-01,6,Completed
+TRN00028,EMP0482,Credit & Loan Processing,2026-01-24,8,Completed
+TRN00029,EMP0311,Data Analytics for Banking,2026-02-21,6,Completed
+TRN00030,EMP0128,Customer Service Excellence,2026-09-03,6,Completed
+TRN00031,EMP0070,Sales & Cross Selling,2026-09-22,12,Completed
+TRN00032,EMP0313,Data Analytics for Banking,2026-04-23,6,Completed
+TRN00033,EMP0385,Credit & Loan Processing,2026-07-10,6,Completed
+TRN00034,EMP0252,Customer Service Excellence,2026-08-22,8,Completed
+TRN00035,EMP0165,Customer Service Excellence,2026-07-10,4,Completed
+TRN00036,EMP0301,Credit & Loan Processing,2026-07-27,8,Completed
+TRN00037,EMP0458,Customer Service Excellence,2026-06-02,4,Completed
+TRN00038,EMP0029,Cyber Security Awareness,2026-09-08,6,Completed
+TRN00039,EMP0329,Leadership Skills,2026-06-20,8,Completed
+TRN00040,EMP0463,Leadership Skills,2025-10-17,2,In Progress
+TRN00041,EMP0075,Sales & Cross Selling,2026-06-01,8,Completed
+TRN00042,EMP0201,Digital Banking,2026-04-18,4,Completed
+TRN00043,EMP0233,Leadership Skills,2026-01-26,6,Completed
+TRN00044,EMP0363,Customer Service Excellence,2026-02-10,6,In Progress
+TRN00045,EMP0116,Sales & Cross Selling,2026-08-21,4,Completed
+TRN00046,EMP0313,Digital Banking,2025-12-12,2,Completed
+TRN00047,EMP0081,Leadership Skills,2026-04-18,4,Completed
+TRN00048,EMP0417,Cyber Security Awareness,2026-09-23,6,Completed
+TRN00049,EMP0154,Sales & Cross Selling,2026-05-22,4,Completed
+TRN00050,EMP0128,Customer Service Excellence,2026-07-25,6,Completed
+TRN00051,EMP0372,Leadership Skills,2026-08-07,8,Completed
+TRN00052,EMP0430,Customer Service Excellence,2026-08-01,2,Completed
+TRN00053,EMP0426,Compliance & KYC,2026-02-12,12,Completed
+TRN00054,EMP0204,Cyber Security Awareness,2026-01-02,6,Completed
+TRN00055,EMP0400,Sales & Cross Selling,2026-05-28,2,Completed
+TRN00056,EMP0067,Sales & Cross Selling,2026-08-24,12,Completed
+TRN00057,EMP0429,Leadership Skills,2026-01-11,12,Completed
+TRN00058,EMP0247,Leadership Skills,2026-04-07,6,Completed
+TRN00059,EMP0355,Leadership Skills,2026-08-18,2,Completed
+TRN00060,EMP0024,Credit & Loan Processing,2025-10-07,8,Completed
+TRN00061,EMP0437,Credit & Loan Processing,2026-09-16,6,Completed
+TRN00062,EMP0069,Sales & Cross Selling,2025-10-08,4,Completed
+TRN00063,EMP0056,Sales & Cross Selling,2026-06-16,8,Completed
+TRN00064,EMP0283,Digital Banking,2026-02-11,6,Completed
+TRN00065,EMP0198,Sales & Cross Selling,2026-04-17,4,Completed
+TRN00066,EMP0056,Customer Service Excellence,2025-11-01,12,Completed
+TRN00067,EMP0491,Data Analytics for Banking,2026-09-05,6,Completed
+TRN00068,EMP0189,Cyber Security Awareness,2026-05-23,6,Completed
+TRN00069,EMP0293,Customer Service Excellence,2026-05-01,6,Completed
+TRN00070,EMP0018,Cyber Security Awareness,2026-08-22,6,Completed
+TRN00071,EMP0208,Credit & Loan Processing,2026-07-21,12,Completed
+TRN00072,EMP0084,Credit & Loan Processing,2025-11-07,8,Completed
+TRN00073,EMP0412,Leadership Skills,2026-07-23,2,Completed
+TRN00074,EMP0380,Sales & Cross Selling,2025-12-26,2,Completed
+TRN00075,EMP0186,Sales & Cross Selling,2026-08-02,6,Completed
+TRN00076,EMP0162,Cyber Security Awareness,2026-09-16,8,Completed
+TRN00077,EMP0132,Leadership Skills,2025-10-25,4,Completed
+TRN00078,EMP0312,Credit & Loan Processing,2026-05-25,6,Completed
+TRN00079,EMP0001,Customer Service Excellence,2026-01-16,4,Completed
+TRN00080,EMP0439,Leadership Skills,2026-06-10,6,Completed
+TRN00081,EMP0448,Compliance & KYC,2026-07-08,4,Completed
+TRN00082,EMP0468,Compliance & KYC,2026-07-06,6,Completed
+TRN00083,EMP0398,Credit & Loan Processing,2025-11-06,2,Completed
+TRN00084,EMP0372,Credit & Loan Processing,2026-04-12,2,Completed
+TRN00085,EMP0363,Cyber Security Awareness,2026-08-04,6,Completed
+TRN00086,EMP0168,Leadership Skills,2026-01-12,6,Completed
+TRN00087,EMP0457,Data Analytics for Banking,2026-01-18,4,Completed
+TRN00088,EMP0445,Compliance & KYC,2026-08-28,4,Completed
+TRN00089,EMP0126,Leadership Skills,2026-03-15,4,Completed
+TRN00090,EMP0120,Sales & Cross Selling,2026-07-13,6,Completed
+TRN00091,EMP0335,Cyber Security Awareness,2025-12-16,8,Completed
+TRN00092,EMP0117,Customer Service Excellence,2026-07-21,6,Completed
+TRN00093,EMP0042,Customer Service Excellence,2026-03-27,6,Completed
+TRN00094,EMP0252,Cyber Security Awareness,2026-01-28,4,Completed
+TRN00095,EMP0440,Sales & Cross Selling,2026-02-26,2,Completed
+TRN00096,EMP0083,Compliance & KYC,2025-12-09,2,Completed
+TRN00097,EMP0220,Data Analytics for Banking,2026-02-02,4,Completed
+TRN00098,EMP0349,Credit & Loan Processing,2026-09-02,2,Completed
+TRN00099,EMP0453,Compliance & KYC,2026-03-03,4,Completed
+TRN00100,EMP0344,Cyber Security Awareness,2026-02-09,6,Completed
+TRN00101,EMP0177,Leadership Skills,2025-10-02,4,Completed
+TRN00102,EMP0169,Compliance & KYC,2026-07-12,6,Completed
+TRN00103,EMP0270,Compliance & KYC,2026-05-06,2,Completed
+TRN00104,EMP0134,Cyber Security Awareness,2025-11-05,4,Completed
+TRN00105,EMP0458,Sales & Cross Selling,2026-01-07,6,Completed
+TRN00106,EMP0028,Customer Service Excellence,2026-05-06,6,Completed
+TRN00107,EMP0164,Leadership Skills,2025-10-20,4,Completed
+TRN00108,EMP0219,Customer Service Excellence,2025-12-07,4,Completed
+TRN00109,EMP0026,Data Analytics for Banking,2025-10-11,4,Completed
+TRN00110,EMP0148,Customer Service Excellence,2025-12-27,6,Completed
+TRN00111,EMP0161,Sales & Cross Selling,2026-08-24,2,Completed
+TRN00112,EMP0112,Sales & Cross Selling,2025-12-20,12,Completed
+TRN00113,EMP0339,Data Analytics for Banking,2026-01-25,6,Completed
+TRN00114,EMP0026,Credit & Loan Processing,2026-01-18,6,Completed
+TRN00115,EMP0356,Customer Service Excellence,2025-12-28,6,Completed
+TRN00116,EMP0309,Sales & Cross Selling,2025-12-03,2,Completed
+TRN00117,EMP0496,Leadership Skills,2026-07-07,4,Completed
+TRN00118,EMP0040,Data Analytics for Banking,2026-08-07,4,Completed
+TRN00119,EMP0004,Cyber Security Awareness,2026-02-02,8,Completed
+TRN00120,EMP0382,Data Analytics for Banking,2026-04-27,2,Completed
+TRN00121,EMP0213,Sales & Cross Selling,2025-10-10,4,Completed
+TRN00122,EMP0198,Leadership Skills,2026-07-28,4,Completed
+TRN00123,EMP0206,Credit & Loan Processing,2025-12-06,6,Completed
+TRN00124,EMP0033,Customer Service Excellence,2026-06-06,6,Completed
+TRN00125,EMP0119,Compliance & KYC,2026-06-25,8,Completed
+TRN00126,EMP0463,Customer Service Excellence,2026-07-15,2,Cancelled
+TRN00127,EMP0189,Cyber Security Awareness,2026-02-22,6,Completed
+TRN00128,EMP0018,Digital Banking,2025-10-16,6,Completed
+TRN00129,EMP0007,Leadership Skills,2026-03-06,8,Completed
+TRN00130,EMP0021,Cyber Security Awareness,2026-02-22,8,Completed
+TRN00131,EMP0175,Credit & Loan Processing,2026-02-01,4,Completed
+TRN00132,EMP0067,Compliance & KYC,2026-09-23,4,Completed
+TRN00133,EMP0437,Customer Service Excellence,2026-09-20,2,Completed
+TRN00134,EMP0068,Digital Banking,2026-05-11,6,Completed
+TRN00135,EMP0314,Digital Banking,2026-06-17,12,Completed
+TRN00136,EMP0241,Compliance & KYC,2025-11-14,4,Completed
+TRN00137,EMP0068,Cyber Security Awareness,2026-03-21,4,Completed
+TRN00138,EMP0015,Digital Banking,2026-07-18,4,Completed
+TRN00139,EMP0295,Customer Service Excellence,2026-04-12,6,Completed
+TRN00140,EMP0439,Sales & Cross Selling,2026-09-17,4,Completed
+TRN00141,EMP0155,Credit & Loan Processing,2026-07-19,4,Completed
+TRN00142,EMP0145,Cyber Security Awareness,2026-09-05,12,Completed
+TRN00143,EMP0204,Credit & Loan Processing,2025-11-07,4,Completed
+TRN00144,EMP0497,Leadership Skills,2026-04-12,2,Completed
+TRN00145,EMP0037,Leadership Skills,2025-10-06,2,Completed
+TRN00146,EMP0426,Compliance & KYC,2025-12-21,8,Completed
+TRN00147,EMP0471,Digital Banking,2026-08-06,4,Completed
+TRN00148,EMP0034,Cyber Security Awareness,2025-11-15,4,Completed
+TRN00149,EMP0002,Customer Service Excellence,2026-05-04,12,Completed
+TRN00150,EMP0128,Customer Service Excellence,2026-09-06,6,In Progress
+TRN00151,EMP0445,Compliance & KYC,2026-04-27,6,Completed
+TRN00152,EMP0161,Credit & Loan Processing,2026-06-17,4,Completed
+TRN00153,EMP0145,Sales & Cross Selling,2026-04-13,8,Completed
+TRN00154,EMP0162,Data Analytics for Banking,2025-12-07,6,Completed
+TRN00155,EMP0194,Data Analytics for Banking,2026-04-17,12,Completed
+TRN00156,EMP0379,Credit & Loan Processing,2025-11-25,12,Completed
+TRN00157,EMP0411,Data Analytics for Banking,2026-06-08,4,Completed
+TRN00158,EMP0081,Credit & Loan Processing,2026-04-06,4,Completed
+TRN00159,EMP0323,Credit & Loan Processing,2026-05-23,8,Completed
+TRN00160,EMP0375,Cyber Security Awareness,2026-04-15,4,Completed
+TRN00161,EMP0375,Cyber Security Awareness,2026-08-26,4,Completed
+TRN00162,EMP0162,Leadership Skills,2025-10-28,4,Completed
+TRN00163,EMP0053,Sales & Cross Selling,2025-12-26,6,Completed
+TRN00164,EMP0013,Leadership Skills,2026-06-11,8,Completed
+TRN00165,EMP0011,Customer Service Excellence,2025-10-14,4,Completed
+TRN00166,EMP0409,Digital Banking,2025-12-22,4,Completed
+TRN00167,EMP0142,Leadership Skills,2026-09-27,8,Completed
+TRN00168,EMP0288,Customer Service Excellence,2026-02-02,8,Completed
+TRN00169,EMP0152,Compliance & KYC,2025-10-26,4,Completed
+TRN00170,EMP0006,Leadership Skills,2026-06-17,8,Completed
+TRN00171,EMP0128,Digital Banking,2026-05-22,6,In Progress
+TRN00172,EMP0354,Data Analytics for Banking,2026-06-19,4,Completed
+TRN00173,EMP0256,Credit & Loan Processing,2026-02-18,8,Completed
+TRN00174,EMP0313,Leadership Skills,2025-12-18,8,In Progress
+TRN00175,EMP0047,Credit & Loan Processing,2025-10-16,6,Completed
+TRN00176,EMP0177,Customer Service Excellence,2026-01-09,12,Completed
+TRN00177,EMP0481,Data Analytics for Banking,2026-02-07,12,In Progress
+TRN00178,EMP0113,Credit & Loan Processing,2026-03-04,4,Completed
+TRN00179,EMP0085,Compliance & KYC,2025-11-27,12,Completed
+TRN00180,EMP0031,Customer Service Excellence,2026-01-16,8,In Progress
+TRN00181,EMP0455,Leadership Skills,2026-01-16,8,Completed
+TRN00182,EMP0100,Leadership Skills,2026-04-15,8,Completed
+TRN00183,EMP0334,Digital Banking,2026-09-22,4,Completed
+TRN00184,EMP0338,Cyber Security Awareness,2025-11-16,4,Completed
+TRN00185,EMP0071,Leadership Skills,2026-03-19,2,Completed
+TRN00186,EMP0476,Data Analytics for Banking,2026-08-22,8,Completed
+TRN00187,EMP0101,Credit & Loan Processing,2025-11-18,6,Completed
+TRN00188,EMP0314,Credit & Loan Processing,2026-03-04,12,Completed
+TRN00189,EMP0113,Compliance & KYC,2026-02-06,8,Completed
+TRN00190,EMP0455,Data Analytics for Banking,2026-08-01,2,Completed
+TRN00191,EMP0017,Leadership Skills,2026-07-07,2,Completed
+TRN00192,EMP0070,Data Analytics for Banking,2025-12-06,12,Completed
+TRN00193,EMP0336,Compliance & KYC,2026-07-04,8,Completed
+TRN00194,EMP0132,Leadership Skills,2026-09-08,8,Completed
+TRN00195,EMP0344,Credit & Loan Processing,2026-07-10,6,Completed
+TRN00196,EMP0209,Cyber Security Awareness,2025-11-16,8,Completed
+TRN00197,EMP0026,Compliance & KYC,2026-03-06,4,Completed
+TRN00198,EMP0244,Compliance & KYC,2025-11-06,6,Completed
+TRN00199,EMP0135,Sales & Cross Selling,2026-04-05,12,Completed
+TRN00200,EMP0018,Compliance & KYC,2025-10-23,12,Completed
+TRN00201,EMP0330,Digital Banking,2026-05-28,6,Completed
+TRN00202,EMP0327,Sales & Cross Selling,2026-04-03,6,Completed
+TRN00203,EMP0432,Digital Banking,2026-02-12,4,Completed
+TRN00204,EMP0093,Leadership Skills,2026-06-14,4,Completed
+TRN00205,EMP0244,Sales & Cross Selling,2026-01-09,8,Completed
+TRN00206,EMP0027,Compliance & KYC,2026-03-01,6,Completed
+TRN00207,EMP0353,Customer Service Excellence,2026-07-05,6,Completed
+TRN00208,EMP0210,Sales & Cross Selling,2025-10-16,2,Completed
+TRN00209,EMP0009,Customer Service Excellence,2026-01-01,2,Completed
+TRN00210,EMP0465,Leadership Skills,2026-09-17,2,Completed
+TRN00211,EMP0156,Customer Service Excellence,2026-02-02,4,Completed
+TRN00212,EMP0127,Customer Service Excellence,2025-10-16,2,Completed
+TRN00213,EMP0069,Customer Service Excellence,2026-04-16,4,Completed
+TRN00214,EMP0414,Leadership Skills,2026-05-27,4,Completed
+TRN00215,EMP0148,Customer Service Excellence,2026-08-20,4,Completed
+TRN00216,EMP0071,Leadership Skills,2026-04-24,4,Completed
+TRN00217,EMP0275,Digital Banking,2026-09-19,4,Completed
+TRN00218,EMP0059,Digital Banking,2026-06-07,6,Completed
+TRN00219,EMP0187,Customer Service Excellence,2026-08-05,4,Completed
+TRN00220,EMP0084,Cyber Security Awareness,2026-08-25,12,Completed
+TRN00221,EMP0042,Compliance & KYC,2026-05-12,6,Completed
+TRN00222,EMP0186,Data Analytics for Banking,2025-12-09,6,Completed
+TRN00223,EMP0075,Leadership Skills,2026-03-12,4,Completed
+TRN00224,EMP0174,Credit & Loan Processing,2026-02-08,2,Completed
+TRN00225,EMP0300,Credit & Loan Processing,2026-01-05,12,Completed
+TRN00226,EMP0401,Digital Banking,2026-06-06,2,In Progress
+TRN00227,EMP0105,Cyber Security Awareness,2025-11-20,12,Completed
+TRN00228,EMP0342,Leadership Skills,2026-02-10,4,Completed
+TRN00229,EMP0492,Credit & Loan Processing,2026-07-05,6,In Progress
+TRN00230,EMP0500,Customer Service Excellence,2026-04-18,4,Completed
+TRN00231,EMP0131,Customer Service Excellence,2026-09-24,12,Completed
+TRN00232,EMP0020,Leadership Skills,2025-11-08,4,Completed
+TRN00233,EMP0042,Credit & Loan Processing,2026-04-28,4,Completed
+TRN00234,EMP0270,Data Analytics for Banking,2026-08-26,2,Completed
+TRN00235,EMP0208,Sales & Cross Selling,2026-06-20,4,Completed
+TRN00236,EMP0057,Customer Service Excellence,2026-03-02,4,Completed
+TRN00237,EMP0488,Digital Banking,2026-01-08,12,In Progress
+TRN00238,EMP0027,Digital Banking,2026-07-12,8,Completed
+TRN00239,EMP0155,Cyber Security Awareness,2026-09-05,12,Completed
+TRN00240,EMP0240,Digital Banking,2026-07-22,6,Completed
+TRN00241,EMP0322,Customer Service Excellence,2026-01-07,6,Completed
+TRN00242,EMP0132,Compliance & KYC,2026-05-14,8,Completed
+TRN00243,EMP0258,Digital Banking,2026-01-15,4,Completed
+TRN00244,EMP0369,Sales & Cross Selling,2025-10-02,8,Completed
+TRN00245,EMP0060,Digital Banking,2026-07-11,6,Completed
+TRN00246,EMP0321,Compliance & KYC,2025-10-06,12,Completed
+TRN00247,EMP0350,Data Analytics for Banking,2025-10-17,2,Completed
+TRN00248,EMP0364,Credit & Loan Processing,2026-06-11,6,Completed
+TRN00249,EMP0300,Customer Service Excellence,2026-07-09,12,Completed
+TRN00250,EMP0021,Leadership Skills,2026-05-24,4,Completed
+TRN00251,EMP0148,Data Analytics for Banking,2026-05-24,4,Completed
+TRN00252,EMP0053,Credit & Loan Processing,2026-08-22,4,Completed
+TRN00253,EMP0037,Credit & Loan Processing,2026-04-08,4,Completed
+TRN00254,EMP0421,Cyber Security Awareness,2026-01-01,2,Completed
+TRN00255,EMP0368,Sales & Cross Selling,2026-03-25,2,In Progress
+TRN00256,EMP0226,Digital Banking,2026-02-09,8,Completed
+TRN00257,EMP0019,Compliance & KYC,2026-05-05,6,Completed
+TRN00258,EMP0434,Compliance & KYC,2026-05-11,4,Completed
+TRN00259,EMP0364,Digital Banking,2026-07-12,4,Completed
+TRN00260,EMP0299,Cyber Security Awareness,2025-10-04,6,Completed
+TRN00261,EMP0183,Credit & Loan Processing,2026-09-23,6,Completed
+TRN00262,EMP0363,Leadership Skills,2026-08-15,4,Completed
+TRN00263,EMP0085,Data Analytics for Banking,2026-05-08,6,Cancelled
+TRN00264,EMP0230,Credit & Loan Processing,2026-02-16,2,Completed
+TRN00265,EMP0001,Leadership Skills,2026-05-22,6,Completed
+TRN00266,EMP0239,Credit & Loan Processing,2026-09-05,12,Completed
+TRN00267,EMP0021,Cyber Security Awareness,2026-08-21,2,Completed
+TRN00268,EMP0220,Compliance & KYC,2026-07-16,6,Completed
+TRN00269,EMP0110,Compliance & KYC,2025-10-01,12,Completed
+TRN00270,EMP0145,Compliance & KYC,2025-11-14,8,Completed
+TRN00271,EMP0251,Leadership Skills,2026-02-24,2,Completed
+TRN00272,EMP0369,Sales & Cross Selling,2025-12-04,2,Completed
+TRN00273,EMP0394,Cyber Security Awareness,2025-10-23,6,Completed
+TRN00274,EMP0464,Cyber Security Awareness,2026-03-25,4,Completed
+TRN00275,EMP0157,Cyber Security Awareness,2025-12-28,2,Completed
+TRN00276,EMP0404,Customer Service Excellence,2026-05-22,4,Completed
+TRN00277,EMP0046,Sales & Cross Selling,2026-08-18,6,Completed
+TRN00278,EMP0459,Cyber Security Awareness,2026-04-12,4,Completed
+TRN00279,EMP0139,Compliance & KYC,2025-10-24,6,Completed
+TRN00280,EMP0225,Compliance & KYC,2025-10-20,4,Completed
+TRN00281,EMP0167,Cyber Security Awareness,2026-04-02,6,Completed
+TRN00282,EMP0412,Cyber Security Awareness,2026-01-18,4,In Progress
+TRN00283,EMP0224,Credit & Loan Processing,2025-10-25,2,Completed
+TRN00284,EMP0384,Data Analytics for Banking,2026-03-05,6,Completed
+TRN00285,EMP0398,Data Analytics for Banking,2025-10-11,4,Completed
+TRN00286,EMP0166,Compliance & KYC,2026-08-26,4,Completed
+TRN00287,EMP0333,Leadership Skills,2026-09-25,12,Completed
+TRN00288,EMP0334,Customer Service Excellence,2026-03-19,2,Completed
+TRN00289,EMP0233,Leadership Skills,2026-03-04,4,Completed
+TRN00290,EMP0151,Cyber Security Awareness,2025-10-03,2,Completed
+TRN00291,EMP0119,Sales & Cross Selling,2026-09-26,4,Completed
+TRN00292,EMP0458,Credit & Loan Processing,2025-10-23,4,Completed
+TRN00293,EMP0107,Leadership Skills,2026-08-09,4,Completed
+TRN00294,EMP0443,Customer Service Excellence,2026-02-25,6,Completed
+TRN00295,EMP0310,Credit & Loan Processing,2026-09-19,4,Completed
+TRN00296,EMP0071,Credit & Loan Processing,2026-03-09,6,Completed
+TRN00297,EMP0091,Cyber Security Awareness,2026-03-21,6,Completed
+TRN00298,EMP0116,Cyber Security Awareness,2026-03-25,4,Completed
+TRN00299,EMP0099,Cyber Security Awareness,2026-01-23,4,Completed
+TRN00300,EMP0294,Leadership Skills,2025-12-23,4,Completed
+TRN00301,EMP0153,Credit & Loan Processing,2026-07-16,6,Completed
+TRN00302,EMP0159,Digital Banking,2025-11-22,6,Completed
+TRN00303,EMP0449,Digital Banking,2026-07-02,8,Completed
+TRN00304,EMP0338,Credit & Loan Processing,2026-03-15,4,Completed
+TRN00305,EMP0334,Customer Service Excellence,2026-01-25,2,Completed
+TRN00306,EMP0051,Data Analytics for Banking,2026-05-14,4,Completed
+TRN00307,EMP0385,Compliance & KYC,2026-08-01,6,Completed
+TRN00308,EMP0100,Data Analytics for Banking,2026-07-15,4,Completed
+TRN00309,EMP0133,Sales & Cross Selling,2026-01-07,6,Completed
+TRN00310,EMP0271,Cyber Security Awareness,2026-09-06,8,Completed
+TRN00311,EMP0254,Compliance & KYC,2026-08-06,4,In Progress
+TRN00312,EMP0401,Data Analytics for Banking,2026-09-01,12,Completed
+TRN00313,EMP0149,Credit & Loan Processing,2026-02-23,6,Completed
+TRN00314,EMP0459,Cyber Security Awareness,2026-06-26,4,Completed
+TRN00315,EMP0271,Customer Service Excellence,2026-09-14,6,Completed
+TRN00316,EMP0073,Customer Service Excellence,2026-04-14,6,Completed
+TRN00317,EMP0170,Customer Service Excellence,2026-02-03,8,Completed
+TRN00318,EMP0034,Cyber Security Awareness,2026-08-16,4,Completed
+TRN00319,EMP0043,Credit & Loan Processing,2026-04-22,2,Completed
+TRN00320,EMP0315,Data Analytics for Banking,2026-05-28,4,Completed
+TRN00321,EMP0228,Cyber Security Awareness,2026-09-14,6,Completed
+TRN00322,EMP0415,Compliance & KYC,2026-09-14,8,Completed
+TRN00323,EMP0017,Digital Banking,2026-04-13,2,In Progress
+TRN00324,EMP0313,Credit & Loan Processing,2026-09-12,12,Completed
+TRN00325,EMP0198,Leadership Skills,2026-03-18,8,In Progress
+TRN00326,EMP0091,Sales & Cross Selling,2025-10-08,2,Completed
+TRN00327,EMP0147,Compliance & KYC,2025-11-17,6,Completed
+TRN00328,EMP0331,Digital Banking,2026-06-26,12,In Progress
+TRN00329,EMP0312,Compliance & KYC,2026-08-12,8,In Progress
+TRN00330,EMP0009,Digital Banking,2025-11-25,2,Completed
+TRN00331,EMP0246,Sales & Cross Selling,2026-08-22,12,Completed
+TRN00332,EMP0326,Compliance & KYC,2026-07-11,12,Completed
+TRN00333,EMP0256,Data Analytics for Banking,2025-12-08,4,Completed
+TRN00334,EMP0321,Digital Banking,2026-02-13,6,In Progress
+TRN00335,EMP0095,Data Analytics for Banking,2025-12-06,6,Completed
+TRN00336,EMP0111,Compliance & KYC,2026-09-18,4,Completed
+TRN00337,EMP0374,Customer Service Excellence,2026-09-12,4,Completed
+TRN00338,EMP0143,Leadership Skills,2026-09-18,4,Completed
+TRN00339,EMP0496,Data Analytics for Banking,2026-01-20,2,Completed
+TRN00340,EMP0333,Data Analytics for Banking,2026-02-03,6,Completed
+TRN00341,EMP0071,Digital Banking,2026-02-22,8,Completed
+TRN00342,EMP0133,Digital Banking,2025-12-10,2,Completed
+TRN00343,EMP0462,Customer Service Excellence,2026-01-20,12,Completed
+TRN00344,EMP0173,Data Analytics for Banking,2026-01-21,4,Completed
+TRN00345,EMP0421,Customer Service Excellence,2026-09-21,12,Completed
+TRN00346,EMP0346,Digital Banking,2026-09-24,6,Completed
+TRN00347,EMP0410,Credit & Loan Processing,2026-06-06,6,In Progress
+TRN00348,EMP0032,Sales & Cross Selling,2026-07-10,4,Completed
+TRN00349,EMP0080,Credit & Loan Processing,2026-07-28,2,Completed
+TRN00350,EMP0335,Digital Banking,2025-12-08,6,Completed
+TRN00351,EMP0435,Leadership Skills,2026-02-28,2,Completed
+TRN00352,EMP0406,Credit & Loan Processing,2026-09-18,12,Completed
+TRN00353,EMP0497,Data Analytics for Banking,2026-09-13,4,Completed
+TRN00354,EMP0369,Cyber Security Awareness,2025-12-23,4,Completed
+TRN00355,EMP0263,Credit & Loan Processing,2025-10-20,4,Completed
+TRN00356,EMP0235,Data Analytics for Banking,2026-01-08,4,Completed
+TRN00357,EMP0316,Customer Service Excellence,2026-02-23,8,Completed
+TRN00358,EMP0392,Digital Banking,2026-03-08,4,Completed
+TRN00359,EMP0308,Compliance & KYC,2025-12-25,6,Completed
+TRN00360,EMP0341,Sales & Cross Selling,2026-07-27,4,Completed
+TRN00361,EMP0211,Digital Banking,2026-01-06,8,Completed
+TRN00362,EMP0299,Leadership Skills,2026-01-18,2,Completed
+TRN00363,EMP0278,Digital Banking,2025-10-06,8,Completed
+TRN00364,EMP0085,Credit & Loan Processing,2026-08-06,12,Completed
+TRN00365,EMP0012,Compliance & KYC,2026-02-09,8,Completed
+TRN00366,EMP0304,Digital Banking,2025-11-06,8,In Progress
+TRN00367,EMP0187,Cyber Security Awareness,2026-01-04,2,Completed
+TRN00368,EMP0009,Customer Service Excellence,2025-11-17,4,Completed
+TRN00369,EMP0479,Leadership Skills,2026-09-22,8,Completed
+TRN00370,EMP0245,Compliance & KYC,2026-08-07,8,Completed
+TRN00371,EMP0277,Sales & Cross Selling,2026-08-07,6,Completed
+TRN00372,EMP0484,Data Analytics for Banking,2025-11-07,4,Completed
+TRN00373,EMP0066,Leadership Skills,2025-11-21,2,In Progress
+TRN00374,EMP0232,Sales & Cross Selling,2026-03-10,2,Completed
+TRN00375,EMP0153,Digital Banking,2026-02-04,8,Completed
+TRN00376,EMP0145,Cyber Security Awareness,2026-03-21,8,Completed
+TRN00377,EMP0157,Cyber Security Awareness,2025-10-03,4,Completed
+TRN00378,EMP0427,Digital Banking,2026-02-15,8,Completed
+TRN00379,EMP0099,Digital Banking,2025-11-20,4,Completed
+TRN00380,EMP0130,Compliance & KYC,2026-07-10,6,Completed
+TRN00381,EMP0344,Compliance & KYC,2026-07-21,8,In Progress
+TRN00382,EMP0171,Customer Service Excellence,2026-04-28,4,Completed
+TRN00383,EMP0271,Leadership Skills,2026-06-01,6,Completed
+TRN00384,EMP0422,Compliance & KYC,2026-01-12,6,Completed
+TRN00385,EMP0382,Leadership Skills,2025-12-02,12,Completed
+TRN00386,EMP0252,Cyber Security Awareness,2026-05-24,8,Completed
+TRN00387,EMP0063,Digital Banking,2026-07-27,6,Completed
+TRN00388,EMP0251,Credit & Loan Processing,2026-09-18,6,Completed
+TRN00389,EMP0356,Credit & Loan Processing,2026-02-24,12,Completed
+TRN00390,EMP0177,Compliance & KYC,2025-12-04,12,Completed
+TRN00391,EMP0308,Leadership Skills,2026-05-12,12,Completed
+TRN00392,EMP0235,Compliance & KYC,2025-12-01,12,Completed
+TRN00393,EMP0360,Sales & Cross Selling,2026-05-21,6,Completed
+TRN00394,EMP0183,Data Analytics for Banking,2026-03-21,12,Completed
+TRN00395,EMP0407,Customer Service Excellence,2026-06-02,12,Completed
+TRN00396,EMP0161,Customer Service Excellence,2026-01-18,8,In Progress
+TRN00397,EMP0197,Customer Service Excellence,2026-03-14,4,Completed
+TRN00398,EMP0290,Leadership Skills,2026-06-16,6,Completed
+TRN00399,EMP0367,Digital Banking,2025-11-17,4,Completed
+TRN00400,EMP0334,Sales & Cross Selling,2026-05-02,4,Completed
+TRN00401,EMP0263,Credit & Loan Processing,2025-12-28,12,Completed
+TRN00402,EMP0479,Data Analytics for Banking,2026-07-25,2,Completed
+TRN00403,EMP0289,Credit & Loan Processing,2026-02-12,2,Completed
+TRN00404,EMP0129,Leadership Skills,2025-12-16,4,Cancelled
+TRN00405,EMP0160,Sales & Cross Selling,2026-06-08,8,Completed
+TRN00406,EMP0238,Credit & Loan Processing,2026-01-06,8,Completed
+TRN00407,EMP0381,Cyber Security Awareness,2026-08-21,4,Completed
+TRN00408,EMP0272,Compliance & KYC,2026-06-12,4,Completed
+TRN00409,EMP0215,Credit & Loan Processing,2026-06-20,8,Completed
+TRN00410,EMP0189,Customer Service Excellence,2026-06-01,4,Completed
+TRN00411,EMP0379,Leadership Skills,2026-08-11,6,Completed
+TRN00412,EMP0254,Sales & Cross Selling,2026-07-16,4,Completed
+TRN00413,EMP0385,Customer Service Excellence,2026-05-18,2,In Progress
+TRN00414,EMP0457,Customer Service Excellence,2026-07-07,6,Completed
+TRN00415,EMP0182,Compliance & KYC,2026-06-07,6,Completed
+TRN00416,EMP0384,Sales & Cross Selling,2026-03-22,6,Completed
+TRN00417,EMP0156,Compliance & KYC,2026-09-25,6,Completed
+TRN00418,EMP0351,Leadership Skills,2026-07-21,2,Completed
+TRN00419,EMP0350,Sales & Cross Selling,2026-02-13,4,Completed
+TRN00420,EMP0339,Data Analytics for Banking,2026-04-28,8,Completed
+TRN00421,EMP0241,Data Analytics for Banking,2026-07-22,8,Completed
+TRN00422,EMP0254,Digital Banking,2026-04-14,8,Completed
+TRN00423,EMP0379,Compliance & KYC,2026-06-24,2,Completed
+TRN00424,EMP0239,Digital Banking,2025-12-28,6,Completed
+TRN00425,EMP0273,Data Analytics for Banking,2026-02-02,4,Completed
+TRN00426,EMP0488,Cyber Security Awareness,2025-10-22,4,In Progress
+TRN00427,EMP0489,Digital Banking,2025-10-20,4,In Progress
+TRN00428,EMP0362,Cyber Security Awareness,2025-11-27,8,Completed
+TRN00429,EMP0192,Cyber Security Awareness,2025-12-14,4,Completed
+TRN00430,EMP0063,Leadership Skills,2026-09-06,6,Completed
+TRN00431,EMP0197,Compliance & KYC,2026-08-09,8,Completed
+TRN00432,EMP0363,Leadership Skills,2026-04-24,12,Completed
+TRN00433,EMP0231,Sales & Cross Selling,2025-12-27,4,Completed
+TRN00434,EMP0016,Data Analytics for Banking,2025-11-22,8,Completed
+TRN00435,EMP0346,Leadership Skills,2026-09-21,6,Completed
+TRN00436,EMP0144,Customer Service Excellence,2025-11-07,4,Completed
+TRN00437,EMP0161,Data Analytics for Banking,2026-04-16,12,Completed
+TRN00438,EMP0217,Credit & Loan Processing,2026-01-15,6,Completed
+TRN00439,EMP0365,Sales & Cross Selling,2026-01-26,2,Completed
+TRN00440,EMP0481,Sales & Cross Selling,2026-04-12,8,Completed
+TRN00441,EMP0212,Leadership Skills,2026-09-16,6,Completed
+TRN00442,EMP0431,Data Analytics for Banking,2025-12-27,2,Completed
+TRN00443,EMP0026,Compliance & KYC,2026-01-18,4,Completed
+TRN00444,EMP0478,Sales & Cross Selling,2026-04-09,8,Completed
+TRN00445,EMP0315,Digital Banking,2026-01-03,2,Completed
+TRN00446,EMP0474,Sales & Cross Selling,2025-12-10,4,Completed
+TRN00447,EMP0414,Data Analytics for Banking,2026-07-11,6,Completed
+TRN00448,EMP0233,Leadership Skills,2026-07-23,2,Completed
+TRN00449,EMP0053,Leadership Skills,2026-03-11,6,Completed
+TRN00450,EMP0147,Cyber Security Awareness,2026-04-21,8,Completed
+TRN00451,EMP0297,Sales & Cross Selling,2025-12-16,2,Completed
+TRN00452,EMP0249,Data Analytics for Banking,2026-02-14,8,Completed
+TRN00453,EMP0256,Leadership Skills,2026-04-07,2,Completed
+TRN00454,EMP0095,Digital Banking,2026-01-19,6,In Progress
+TRN00455,EMP0223,Compliance & KYC,2026-01-02,2,Completed
+TRN00456,EMP0425,Digital Banking,2026-09-21,4,Completed
+TRN00457,EMP0038,Data Analytics for Banking,2026-09-06,8,Completed
+TRN00458,EMP0134,Cyber Security Awareness,2026-01-04,4,Completed
+TRN00459,EMP0344,Sales & Cross Selling,2026-02-04,6,Completed
+TRN00460,EMP0407,Compliance & KYC,2026-08-24,4,Completed
+TRN00461,EMP0322,Digital Banking,2026-06-24,2,Completed
+TRN00462,EMP0043,Cyber Security Awareness,2026-01-28,8,Completed
+TRN00463,EMP0316,Compliance & KYC,2026-03-01,4,Completed
+TRN00464,EMP0491,Credit & Loan Processing,2026-07-27,8,Completed
+TRN00465,EMP0180,Data Analytics for Banking,2026-01-11,6,Completed
+TRN00466,EMP0372,Compliance & KYC,2025-12-09,12,Completed
+TRN00467,EMP0164,Digital Banking,2026-05-16,8,Completed
+TRN00468,EMP0469,Credit & Loan Processing,2026-06-23,4,Completed
+TRN00469,EMP0186,Cyber Security Awareness,2025-12-04,2,Completed
+TRN00470,EMP0050,Compliance & KYC,2026-09-28,6,Completed
+TRN00471,EMP0376,Leadership Skills,2026-05-07,6,Completed
+TRN00472,EMP0051,Data Analytics for Banking,2025-12-21,8,Completed
+TRN00473,EMP0447,Sales & Cross Selling,2026-04-17,6,Completed
+TRN00474,EMP0349,Data Analytics for Banking,2026-05-16,4,Completed
+TRN00475,EMP0414,Credit & Loan Processing,2025-11-14,8,Completed
+TRN00476,EMP0308,Credit & Loan Processing,2026-08-02,8,Completed
+TRN00477,EMP0159,Compliance & KYC,2026-02-20,8,Completed
+TRN00478,EMP0423,Digital Banking,2025-11-16,8,Completed
+TRN00479,EMP0010,Cyber Security Awareness,2026-08-20,4,Completed
+TRN00480,EMP0196,Customer Service Excellence,2026-09-10,4,Completed
+TRN00481,EMP0440,Leadership Skills,2026-04-01,8,Completed
+TRN00482,EMP0247,Data Analytics for Banking,2026-03-17,6,Completed
+TRN00483,EMP0477,Leadership Skills,2025-12-19,8,Completed
+TRN00484,EMP0307,Leadership Skills,2026-02-18,8,Completed
+TRN00485,EMP0321,Credit & Loan Processing,2026-09-08,2,Completed
+TRN00486,EMP0340,Customer Service Excellence,2026-07-26,8,Completed
+TRN00487,EMP0433,Customer Service Excellence,2026-08-18,6,Completed
+TRN00488,EMP0239,Cyber Security Awareness,2026-03-12,6,Completed
+TRN00489,EMP0245,Leadership Skills,2026-07-13,8,Completed
+TRN00490,EMP0128,Leadership Skills,2025-12-19,6,Completed
+TRN00491,EMP0070,Sales & Cross Selling,2026-03-22,4,Completed
+TRN00492,EMP0077,Compliance & KYC,2026-03-27,12,Completed
+TRN00493,EMP0440,Data Analytics for Banking,2026-07-28,6,Completed
+TRN00494,EMP0003,Sales & Cross Selling,2026-07-25,12,Cancelled
+TRN00495,EMP0165,Data Analytics for Banking,2026-05-25,12,Completed
+TRN00496,EMP0330,Sales & Cross Selling,2026-03-10,8,Completed
+TRN00497,EMP0354,Credit & Loan Processing,2026-09-04,4,Completed
+TRN00498,EMP0081,Credit & Loan Processing,2026-06-20,8,Completed
+TRN00499,EMP0043,Sales & Cross Selling,2026-06-17,4,Completed
+TRN00500,EMP0167,Credit & Loan Processing,2026-03-20,4,Completed
+TRN00501,EMP0284,Data Analytics for Banking,2026-05-18,6,Completed
+TRN00502,EMP0337,Customer Service Excellence,2026-09-22,6,Completed
+TRN00503,EMP0158,Data Analytics for Banking,2026-05-02,8,Completed
+TRN00504,EMP0063,Credit & Loan Processing,2026-01-22,4,Completed
+TRN00505,EMP0371,Data Analytics for Banking,2025-11-06,8,Completed
+TRN00506,EMP0421,Compliance & KYC,2025-12-10,6,Completed
+TRN00507,EMP0293,Leadership Skills,2026-07-10,4,Completed
+TRN00508,EMP0185,Data Analytics for Banking,2025-12-15,8,Completed
+TRN00509,EMP0255,Credit & Loan Processing,2025-10-08,6,In Progress
+TRN00510,EMP0393,Cyber Security Awareness,2026-02-28,4,Completed
+TRN00511,EMP0466,Leadership Skills,2026-05-09,8,Completed
+TRN00512,EMP0224,Leadership Skills,2026-04-18,8,Completed
+TRN00513,EMP0341,Digital Banking,2026-01-22,4,Completed
+TRN00514,EMP0396,Compliance & KYC,2026-04-19,8,Completed
+TRN00515,EMP0203,Credit & Loan Processing,2026-09-05,12,Completed
+TRN00516,EMP0147,Data Analytics for Banking,2025-11-02,4,Completed
+TRN00517,EMP0261,Credit & Loan Processing,2025-10-10,12,Completed
+TRN00518,EMP0371,Digital Banking,2026-03-04,8,Completed
+TRN00519,EMP0398,Customer Service Excellence,2026-02-05,2,Completed
+TRN00520,EMP0046,Digital Banking,2026-07-21,6,Completed
+TRN00521,EMP0088,Credit & Loan Processing,2026-09-28,12,Completed
+TRN00522,EMP0163,Digital Banking,2026-05-05,4,Completed
+TRN00523,EMP0491,Sales & Cross Selling,2026-09-23,6,Completed
+TRN00524,EMP0395,Data Analytics for Banking,2026-01-07,4,Completed
+TRN00525,EMP0364,Customer Service Excellence,2026-05-22,6,Completed
+TRN00526,EMP0405,Data Analytics for Banking,2026-02-24,6,Completed
+TRN00527,EMP0119,Data Analytics for Banking,2025-12-27,6,Completed
+TRN00528,EMP0102,Cyber Security Awareness,2025-10-08,6,Completed
+TRN00529,EMP0285,Data Analytics for Banking,2026-08-28,4,Completed
+TRN00530,EMP0212,Credit & Loan Processing,2026-04-13,8,Completed
+TRN00531,EMP0489,Customer Service Excellence,2026-01-12,12,In Progress
+TRN00532,EMP0422,Data Analytics for Banking,2026-04-12,6,Completed
+TRN00533,EMP0147,Compliance & KYC,2026-03-23,6,Completed
+TRN00534,EMP0010,Cyber Security Awareness,2026-08-12,6,Completed
+TRN00535,EMP0087,Digital Banking,2026-04-08,8,Completed
+TRN00536,EMP0130,Compliance & KYC,2026-07-02,8,Completed
+TRN00537,EMP0175,Data Analytics for Banking,2026-01-08,12,Completed
+TRN00538,EMP0405,Cyber Security Awareness,2026-05-11,4,Completed
+TRN00539,EMP0069,Sales & Cross Selling,2026-04-06,6,Completed
+TRN00540,EMP0198,Digital Banking,2026-04-19,6,Completed
+TRN00541,EMP0158,Credit & Loan Processing,2026-03-20,8,Completed
+TRN00542,EMP0485,Digital Banking,2026-04-23,8,Completed
+TRN00543,EMP0229,Credit & Loan Processing,2025-11-19,6,Completed
+TRN00544,EMP0322,Digital Banking,2026-05-20,6,Completed
+TRN00545,EMP0083,Sales & Cross Selling,2026-07-25,2,Completed
+TRN00546,EMP0321,Data Analytics for Banking,2026-04-05,4,Completed
+TRN00547,EMP0408,Digital Banking,2026-03-23,6,Cancelled
+TRN00548,EMP0141,Cyber Security Awareness,2026-02-04,6,Completed
+TRN00549,EMP0458,Credit & Loan Processing,2025-10-13,4,Completed
+TRN00550,EMP0319,Sales & Cross Selling,2025-10-14,8,Completed
+TRN00551,EMP0152,Cyber Security Awareness,2026-08-23,12,In Progress
+TRN00552,EMP0354,Sales & Cross Selling,2026-03-05,6,Completed
+TRN00553,EMP0301,Leadership Skills,2026-04-07,6,Completed
+TRN00554,EMP0491,Compliance & KYC,2026-03-19,4,Completed
+TRN00555,EMP0423,Credit & Loan Processing,2025-11-07,4,Completed
+TRN00556,EMP0308,Cyber Security Awareness,2026-03-17,12,Completed
+TRN00557,EMP0319,Sales & Cross Selling,2025-10-01,6,Completed
+TRN00558,EMP0093,Cyber Security Awareness,2026-01-03,4,Completed
+TRN00559,EMP0130,Digital Banking,2026-06-05,2,Completed
+TRN00560,EMP0160,Digital Banking,2026-03-17,2,Completed
+TRN00561,EMP0468,Data Analytics for Banking,2026-09-05,6,Completed
+TRN00562,EMP0138,Digital Banking,2026-06-27,2,In Progress
+TRN00563,EMP0138,Data Analytics for Banking,2026-07-04,4,Completed
+TRN00564,EMP0399,Sales & Cross Selling,2026-04-17,8,Completed
+TRN00565,EMP0314,Cyber Security Awareness,2026-04-13,8,Completed
+TRN00566,EMP0110,Sales & Cross Selling,2025-12-19,2,Completed
+TRN00567,EMP0013,Customer Service Excellence,2026-06-13,8,Completed
+TRN00568,EMP0113,Cyber Security Awareness,2026-08-20,2,Completed
+TRN00569,EMP0039,Credit & Loan Processing,2025-12-01,4,In Progress
+TRN00570,EMP0141,Data Analytics for Banking,2025-10-08,4,Completed
+TRN00571,EMP0096,Sales & Cross Selling,2025-10-15,2,Cancelled
+TRN00572,EMP0206,Leadership Skills,2026-07-01,2,Completed
+TRN00573,EMP0197,Data Analytics for Banking,2026-08-08,12,Completed
+TRN00574,EMP0470,Sales & Cross Selling,2026-08-02,4,Completed
+TRN00575,EMP0256,Compliance & KYC,2026-04-21,6,Completed
+TRN00576,EMP0100,Compliance & KYC,2026-03-27,4,Completed
+TRN00577,EMP0217,Customer Service Excellence,2025-12-17,8,Completed
+TRN00578,EMP0295,Leadership Skills,2026-03-10,8,Completed
+TRN00579,EMP0114,Compliance & KYC,2026-01-18,4,Completed
+TRN00580,EMP0096,Credit & Loan Processing,2026-09-05,6,In Progress
+TRN00581,EMP0242,Data Analytics for Banking,2025-11-17,4,Completed
+TRN00582,EMP0091,Cyber Security Awareness,2026-09-02,2,Completed
+TRN00583,EMP0221,Sales & Cross Selling,2026-05-08,2,Completed
+TRN00584,EMP0294,Digital Banking,2026-07-23,6,Completed
+TRN00585,EMP0030,Cyber Security Awareness,2026-03-23,6,Completed
+TRN00586,EMP0451,Leadership Skills,2026-02-24,2,Completed
+TRN00587,EMP0056,Sales & Cross Selling,2026-06-16,8,Completed
+TRN00588,EMP0233,Sales & Cross Selling,2026-01-03,6,Completed
+TRN00589,EMP0048,Customer Service Excellence,2025-11-23,2,Completed
+TRN00590,EMP0127,Credit & Loan Processing,2026-03-01,6,Completed
+TRN00591,EMP0303,Leadership Skills,2026-08-18,6,Completed
+TRN00592,EMP0420,Digital Banking,2026-02-15,2,Completed
+TRN00593,EMP0114,Leadership Skills,2026-03-13,12,Completed
+TRN00594,EMP0486,Digital Banking,2026-07-15,8,Completed
+TRN00595,EMP0274,Credit & Loan Processing,2026-03-08,6,Completed
+TRN00596,EMP0222,Customer Service Excellence,2026-07-08,8,Completed
+TRN00597,EMP0231,Digital Banking,2025-12-14,6,Completed
+TRN00598,EMP0092,Credit & Loan Processing,2026-01-08,8,Completed
+TRN00599,EMP0497,Data Analytics for Banking,2026-01-04,6,Completed
+TRN00600,EMP0476,Leadership Skills,2025-10-15,6,In Progress
+TRN00601,EMP0121,Cyber Security Awareness,2026-05-28,6,Completed
+TRN00602,EMP0311,Digital Banking,2026-09-10,8,Completed
+TRN00603,EMP0375,Cyber Security Awareness,2026-05-20,12,Completed
+TRN00604,EMP0336,Leadership Skills,2026-09-14,2,Completed
+TRN00605,EMP0061,Cyber Security Awareness,2026-06-23,2,Completed
+TRN00606,EMP0011,Compliance & KYC,2025-11-11,12,Completed
+TRN00607,EMP0396,Cyber Security Awareness,2025-11-06,2,Completed
+TRN00608,EMP0039,Customer Service Excellence,2026-05-21,2,Completed
+TRN00609,EMP0006,Credit & Loan Processing,2026-05-07,2,Completed
+TRN00610,EMP0216,Leadership Skills,2026-01-06,8,Completed
+TRN00611,EMP0286,Compliance & KYC,2025-12-22,4,Completed
+TRN00612,EMP0176,Credit & Loan Processing,2026-02-11,8,Completed
+TRN00613,EMP0256,Customer Service Excellence,2026-03-21,4,Completed
+TRN00614,EMP0221,Customer Service Excellence,2026-07-20,4,Completed
+TRN00615,EMP0468,Credit & Loan Processing,2025-11-07,8,Completed
+TRN00616,EMP0282,Sales & Cross Selling,2026-01-19,6,Completed
+TRN00617,EMP0410,Digital Banking,2026-03-26,4,Completed
+TRN00618,EMP0352,Leadership Skills,2026-07-11,4,Completed
+TRN00619,EMP0344,Digital Banking,2026-06-22,2,Completed
+TRN00620,EMP0315,Cyber Security Awareness,2026-06-23,4,In Progress
+TRN00621,EMP0285,Cyber Security Awareness,2026-01-20,12,In Progress
+TRN00622,EMP0368,Leadership Skills,2026-08-02,6,Completed
+TRN00623,EMP0332,Credit & Loan Processing,2026-03-05,4,Completed
+TRN00624,EMP0008,Digital Banking,2025-12-20,12,Completed
+TRN00625,EMP0465,Digital Banking,2026-09-16,6,Completed
+TRN00626,EMP0134,Leadership Skills,2026-05-11,8,Completed
+TRN00627,EMP0394,Credit & Loan Processing,2026-04-01,12,Completed
+TRN00628,EMP0473,Compliance & KYC,2025-10-04,8,Cancelled
+TRN00629,EMP0263,Data Analytics for Banking,2026-04-06,12,Completed
+TRN00630,EMP0075,Leadership Skills,2026-07-11,4,Completed
+TRN00631,EMP0242,Digital Banking,2026-01-24,12,In Progress
+TRN00632,EMP0007,Digital Banking,2026-07-01,12,Completed
+TRN00633,EMP0407,Customer Service Excellence,2026-04-20,8,Completed
+TRN00634,EMP0298,Digital Banking,2026-06-21,4,Completed
+TRN00635,EMP0446,Credit & Loan Processing,2026-08-09,4,Completed
+TRN00636,EMP0452,Leadership Skills,2026-04-02,6,Completed
+TRN00637,EMP0494,Compliance & KYC,2026-07-20,6,Completed
+TRN00638,EMP0005,Compliance & KYC,2026-06-10,4,Completed
+TRN00639,EMP0168,Customer Service Excellence,2026-08-08,2,Completed
+TRN00640,EMP0231,Credit & Loan Processing,2026-06-05,6,Completed
+TRN00641,EMP0433,Compliance & KYC,2025-10-23,12,Completed
+TRN00642,EMP0215,Credit & Loan Processing,2026-07-17,8,Completed
+TRN00643,EMP0262,Sales & Cross Selling,2025-10-01,12,Completed
+TRN00644,EMP0491,Data Analytics for Banking,2026-08-20,12,Completed
+TRN00645,EMP0499,Compliance & KYC,2026-05-01,4,Completed
+TRN00646,EMP0349,Sales & Cross Selling,2026-03-08,6,In Progress
+TRN00647,EMP0386,Credit & Loan Processing,2026-09-26,12,Completed
+TRN00648,EMP0443,Leadership Skills,2025-12-27,4,Completed
+TRN00649,EMP0138,Sales & Cross Selling,2025-11-04,4,Completed
+TRN00650,EMP0403,Data Analytics for Banking,2026-04-23,4,Completed
+TRN00651,EMP0397,Leadership Skills,2026-08-21,8,In Progress
+TRN00652,EMP0064,Cyber Security Awareness,2026-09-06,4,Completed
+TRN00653,EMP0040,Leadership Skills,2026-08-09,6,Completed
+TRN00654,EMP0224,Digital Banking,2025-11-25,8,Completed
+TRN00655,EMP0300,Sales & Cross Selling,2026-06-19,6,Completed
+TRN00656,EMP0003,Leadership Skills,2026-05-06,6,Completed
+TRN00657,EMP0019,Cyber Security Awareness,2026-05-01,6,Completed
+TRN00658,EMP0203,Compliance & KYC,2026-02-14,4,Completed
+TRN00659,EMP0014,Digital Banking,2025-10-07,6,Completed
+TRN00660,EMP0486,Digital Banking,2026-01-02,4,Completed
+TRN00661,EMP0021,Leadership Skills,2026-04-25,6,Completed
+TRN00662,EMP0428,Customer Service Excellence,2026-04-18,2,Completed
+TRN00663,EMP0486,Compliance & KYC,2026-02-28,2,Completed
+TRN00664,EMP0103,Credit & Loan Processing,2026-05-27,4,Completed
+TRN00665,EMP0336,Leadership Skills,2026-08-25,4,In Progress
+TRN00666,EMP0273,Credit & Loan Processing,2026-08-23,8,Completed
+TRN00667,EMP0391,Customer Service Excellence,2026-04-11,4,Completed
+TRN00668,EMP0385,Credit & Loan Processing,2026-05-17,4,Completed
+TRN00669,EMP0412,Customer Service Excellence,2026-02-22,6,Completed
+TRN00670,EMP0045,Compliance & KYC,2025-10-04,4,Completed
+TRN00671,EMP0192,Cyber Security Awareness,2026-01-09,8,Completed
+TRN00672,EMP0387,Leadership Skills,2026-02-10,8,Completed
+TRN00673,EMP0155,Customer Service Excellence,2026-01-15,8,Completed
+TRN00674,EMP0057,Compliance & KYC,2026-02-09,8,In Progress
+TRN00675,EMP0230,Cyber Security Awareness,2026-06-10,6,Completed
+TRN00676,EMP0421,Customer Service Excellence,2025-12-24,4,Completed
+TRN00677,EMP0238,Leadership Skills,2026-01-09,4,Completed
+TRN00678,EMP0487,Leadership Skills,2026-03-15,4,Completed
+TRN00679,EMP0144,Data Analytics for Banking,2026-04-09,4,Completed
+TRN00680,EMP0028,Compliance & KYC,2026-04-01,8,Completed
+TRN00681,EMP0414,Leadership Skills,2025-12-12,6,Completed
+TRN00682,EMP0202,Sales & Cross Selling,2025-10-18,8,Completed
+TRN00683,EMP0249,Leadership Skills,2025-11-24,6,Completed
+TRN00684,EMP0016,Data Analytics for Banking,2026-05-06,6,Completed
+TRN00685,EMP0009,Digital Banking,2026-04-18,2,Completed
+TRN00686,EMP0302,Leadership Skills,2026-02-23,8,Completed
+TRN00687,EMP0370,Leadership Skills,2026-01-07,4,In Progress
+TRN00688,EMP0226,Credit & Loan Processing,2026-02-14,6,Completed
+TRN00689,EMP0299,Customer Service Excellence,2026-09-01,8,Completed
+TRN00690,EMP0357,Digital Banking,2026-01-13,2,Completed
+TRN00691,EMP0431,Compliance & KYC,2025-11-28,8,Completed
+TRN00692,EMP0125,Customer Service Excellence,2025-11-11,2,Completed
+TRN00693,EMP0225,Cyber Security Awareness,2026-03-26,12,Completed
+TRN00694,EMP0197,Cyber Security Awareness,2026-06-23,4,Completed
+TRN00695,EMP0294,Digital Banking,2026-03-03,6,Completed
+TRN00696,EMP0228,Leadership Skills,2026-05-05,4,Completed
+TRN00697,EMP0117,Cyber Security Awareness,2026-03-23,6,Completed
+TRN00698,EMP0049,Credit & Loan Processing,2026-06-14,2,Completed
+TRN00699,EMP0468,Digital Banking,2026-03-05,4,Completed
+TRN00700,EMP0387,Data Analytics for Banking,2025-11-05,2,Completed
+TRN00701,EMP0337,Compliance & KYC,2026-04-09,8,Completed
+TRN00702,EMP0037,Data Analytics for Banking,2026-04-04,2,Completed
+TRN00703,EMP0391,Compliance & KYC,2026-08-02,6,In Progress
+TRN00704,EMP0490,Credit & Loan Processing,2025-10-16,4,Completed
+TRN00705,EMP0068,Data Analytics for Banking,2025-11-06,8,Completed
+TRN00706,EMP0416,Compliance & KYC,2026-03-05,4,Completed
+TRN00707,EMP0261,Sales & Cross Selling,2026-02-15,12,Completed
+TRN00708,EMP0232,Data Analytics for Banking,2026-04-12,4,Completed
+TRN00709,EMP0159,Customer Service Excellence,2025-12-05,6,Completed
+TRN00710,EMP0031,Compliance & KYC,2026-06-19,2,Completed
+TRN00711,EMP0083,Compliance & KYC,2025-11-18,4,Completed
+TRN00712,EMP0460,Compliance & KYC,2025-12-21,6,Completed
+TRN00713,EMP0075,Compliance & KYC,2026-07-03,2,Completed
+TRN00714,EMP0390,Data Analytics for Banking,2026-05-01,2,Completed
+TRN00715,EMP0285,Compliance & KYC,2025-12-07,8,Completed
+TRN00716,EMP0159,Cyber Security Awareness,2026-05-06,4,Completed
+TRN00717,EMP0371,Data Analytics for Banking,2025-10-14,8,Completed
+TRN00718,EMP0058,Compliance & KYC,2025-10-12,8,Completed
+TRN00719,EMP0191,Leadership Skills,2026-09-21,12,Completed
+TRN00720,EMP0498,Sales & Cross Selling,2026-06-13,6,In Progress
+TRN00721,EMP0304,Compliance & KYC,2025-10-19,12,In Progress
+TRN00722,EMP0159,Cyber Security Awareness,2026-08-06,8,Completed
+TRN00723,EMP0019,Credit & Loan Processing,2025-10-26,2,Completed
+TRN00724,EMP0290,Data Analytics for Banking,2025-11-19,6,Completed
+TRN00725,EMP0004,Digital Banking,2025-12-26,2,Completed
+TRN00726,EMP0470,Leadership Skills,2026-03-09,6,Completed
+TRN00727,EMP0358,Cyber Security Awareness,2026-01-03,6,Completed
+TRN00728,EMP0084,Digital Banking,2026-04-07,4,Completed
+TRN00729,EMP0234,Sales & Cross Selling,2026-03-19,2,Completed
+TRN00730,EMP0335,Leadership Skills,2025-11-28,8,Completed
+TRN00731,EMP0076,Data Analytics for Banking,2026-07-16,8,Completed
+TRN00732,EMP0487,Leadership Skills,2026-08-06,4,In Progress
+TRN00733,EMP0426,Credit & Loan Processing,2026-07-04,6,Completed
+TRN00734,EMP0046,Digital Banking,2026-05-25,12,Completed
+TRN00735,EMP0366,Leadership Skills,2026-09-17,8,Completed
+TRN00736,EMP0486,Leadership Skills,2025-12-06,4,Completed
+TRN00737,EMP0354,Digital Banking,2026-01-22,2,Completed
+TRN00738,EMP0391,Sales & Cross Selling,2025-11-21,8,Completed
+TRN00739,EMP0133,Cyber Security Awareness,2025-10-02,4,Completed
+TRN00740,EMP0233,Data Analytics for Banking,2025-12-12,4,Completed
+TRN00741,EMP0459,Credit & Loan Processing,2026-07-17,4,Completed
+TRN00742,EMP0415,Cyber Security Awareness,2026-04-23,8,In Progress
+TRN00743,EMP0244,Cyber Security Awareness,2025-10-27,12,Completed
+TRN00744,EMP0054,Leadership Skills,2026-03-05,8,Completed
+TRN00745,EMP0245,Sales & Cross Selling,2026-05-12,6,Completed
+TRN00746,EMP0010,Cyber Security Awareness,2025-11-01,8,Completed
+TRN00747,EMP0347,Customer Service Excellence,2025-11-14,4,Completed
+TRN00748,EMP0398,Data Analytics for Banking,2026-02-04,6,In Progress
+TRN00749,EMP0356,Sales & Cross Selling,2025-12-24,8,In Progress
+TRN00750,EMP0002,Digital Banking,2026-03-24,2,In Progress
+TRN00751,EMP0116,Digital Banking,2026-02-23,6,Cancelled
+TRN00752,EMP0271,Compliance & KYC,2026-01-26,6,Completed
+TRN00753,EMP0168,Customer Service Excellence,2026-08-05,2,Completed
+TRN00754,EMP0106,Leadership Skills,2025-10-07,4,In Progress
+TRN00755,EMP0493,Leadership Skills,2026-05-06,2,Completed
+TRN00756,EMP0327,Compliance & KYC,2026-01-10,6,Completed
+TRN00757,EMP0137,Sales & Cross Selling,2026-08-03,6,Completed
+TRN00758,EMP0411,Data Analytics for Banking,2025-11-28,2,Completed
+TRN00759,EMP0410,Customer Service Excellence,2026-04-13,2,Completed
+TRN00760,EMP0118,Data Analytics for Banking,2026-08-07,2,Completed
+TRN00761,EMP0361,Sales & Cross Selling,2026-08-27,2,Completed
+TRN00762,EMP0142,Compliance & KYC,2025-11-20,8,Completed
+TRN00763,EMP0128,Credit & Loan Processing,2026-04-26,2,Completed
+TRN00764,EMP0356,Data Analytics for Banking,2026-09-16,6,Completed
+TRN00765,EMP0453,Credit & Loan Processing,2026-08-05,6,Completed
+TRN00766,EMP0356,Customer Service Excellence,2026-03-18,6,Completed
+TRN00767,EMP0139,Sales & Cross Selling,2026-06-23,6,Completed
+TRN00768,EMP0198,Sales & Cross Selling,2026-08-28,8,Completed
+TRN00769,EMP0335,Customer Service Excellence,2026-01-21,6,Completed
+TRN00770,EMP0305,Data Analytics for Banking,2026-08-05,2,Completed
+TRN00771,EMP0385,Data Analytics for Banking,2026-09-07,8,Completed
+TRN00772,EMP0492,Cyber Security Awareness,2026-02-12,8,Completed
+TRN00773,EMP0311,Credit & Loan Processing,2026-03-15,8,Completed
+TRN00774,EMP0047,Digital Banking,2026-02-27,8,Completed
+TRN00775,EMP0251,Credit & Loan Processing,2026-04-08,6,Completed
+TRN00776,EMP0181,Leadership Skills,2026-05-20,4,In Progress
+TRN00777,EMP0419,Credit & Loan Processing,2026-06-04,6,Completed
+TRN00778,EMP0324,Compliance & KYC,2026-04-13,12,Completed
+TRN00779,EMP0440,Credit & Loan Processing,2026-06-16,6,Completed
+TRN00780,EMP0166,Digital Banking,2026-01-18,2,Completed
+TRN00781,EMP0390,Data Analytics for Banking,2026-03-26,8,Completed
+TRN00782,EMP0046,Data Analytics for Banking,2026-02-26,2,Completed
+TRN00783,EMP0443,Leadership Skills,2026-09-16,8,Completed
+TRN00784,EMP0040,Credit & Loan Processing,2026-01-12,4,Completed
+TRN00785,EMP0411,Cyber Security Awareness,2025-11-26,8,Completed
+TRN00786,EMP0448,Leadership Skills,2025-10-15,4,Completed
+TRN00787,EMP0402,Sales & Cross Selling,2026-04-09,4,Completed
+TRN00788,EMP0459,Sales & Cross Selling,2025-11-09,4,Completed
+TRN00789,EMP0395,Data Analytics for Banking,2025-12-24,4,Completed
+TRN00790,EMP0285,Compliance & KYC,2026-05-13,12,Completed
+TRN00791,EMP0024,Digital Banking,2026-08-11,4,Completed
+TRN00792,EMP0418,Cyber Security Awareness,2026-05-11,4,Completed
+TRN00793,EMP0241,Sales & Cross Selling,2026-08-27,4,Completed
+TRN00794,EMP0076,Data Analytics for Banking,2025-10-15,12,Completed
+TRN00795,EMP0490,Cyber Security Awareness,2025-10-13,2,Completed
+TRN00796,EMP0062,Credit & Loan Processing,2026-08-11,6,Completed
+TRN00797,EMP0275,Leadership Skills,2026-07-24,4,Completed
+TRN00798,EMP0370,Credit & Loan Processing,2026-04-13,8,Completed
+TRN00799,EMP0164,Data Analytics for Banking,2026-06-27,4,Completed
+TRN00800,EMP0168,Compliance & KYC,2026-05-27,6,Completed
+TRN00801,EMP0485,Digital Banking,2026-04-20,2,Completed
+TRN00802,EMP0346,Leadership Skills,2026-05-08,2,Completed
+TRN00803,EMP0058,Sales & Cross Selling,2025-10-24,2,Completed
+TRN00804,EMP0404,Leadership Skills,2026-08-11,8,In Progress
+TRN00805,EMP0145,Cyber Security Awareness,2025-10-08,4,Completed
+TRN00806,EMP0474,Credit & Loan Processing,2025-12-02,4,Completed
+TRN00807,EMP0065,Credit & Loan Processing,2026-03-09,6,Completed
+TRN00808,EMP0275,Sales & Cross Selling,2026-08-24,4,Completed
+TRN00809,EMP0078,Digital Banking,2026-03-06,4,Completed
+TRN00810,EMP0373,Leadership Skills,2026-03-03,8,Completed
+TRN00811,EMP0460,Leadership Skills,2026-08-14,6,Completed
+TRN00812,EMP0321,Compliance & KYC,2026-02-21,4,Completed
+TRN00813,EMP0341,Digital Banking,2026-05-21,12,Completed
+TRN00814,EMP0455,Sales & Cross Selling,2026-01-24,4,Completed
+TRN00815,EMP0228,Cyber Security Awareness,2025-11-01,6,In Progress
+TRN00816,EMP0332,Compliance & KYC,2026-06-07,6,Completed
+TRN00817,EMP0168,Leadership Skills,2026-08-06,2,Completed
+TRN00818,EMP0121,Digital Banking,2026-02-19,6,Completed
+TRN00819,EMP0347,Data Analytics for Banking,2026-09-03,2,Completed
+TRN00820,EMP0359,Leadership Skills,2026-04-03,4,Completed
+TRN00821,EMP0348,Sales & Cross Selling,2026-08-04,4,In Progress
+TRN00822,EMP0364,Compliance & KYC,2026-06-17,6,Completed
+TRN00823,EMP0044,Compliance & KYC,2026-09-22,4,Completed
+TRN00824,EMP0356,Sales & Cross Selling,2026-01-22,6,Completed
+TRN00825,EMP0367,Leadership Skills,2025-11-04,6,Completed
+TRN00826,EMP0018,Sales & Cross Selling,2025-10-07,8,Completed
+TRN00827,EMP0126,Cyber Security Awareness,2026-02-07,4,Completed
+TRN00828,EMP0331,Digital Banking,2026-06-11,6,Completed
+TRN00829,EMP0260,Leadership Skills,2026-06-11,12,Completed
+TRN00830,EMP0370,Data Analytics for Banking,2026-05-21,8,Completed
+TRN00831,EMP0402,Leadership Skills,2026-04-14,4,Completed
+TRN00832,EMP0436,Customer Service Excellence,2026-08-09,12,Completed
+TRN00833,EMP0434,Cyber Security Awareness,2025-11-10,6,Cancelled
+TRN00834,EMP0211,Data Analytics for Banking,2026-09-01,12,Completed
+TRN00835,EMP0379,Data Analytics for Banking,2026-08-13,2,Completed
+TRN00836,EMP0104,Leadership Skills,2025-10-06,8,Completed
+TRN00837,EMP0057,Sales & Cross Selling,2025-11-25,6,Completed
+TRN00838,EMP0029,Credit & Loan Processing,2025-11-07,4,Completed
+TRN00839,EMP0284,Credit & Loan Processing,2025-11-23,6,Completed
+TRN00840,EMP0287,Credit & Loan Processing,2026-05-26,2,Completed
+TRN00841,EMP0045,Leadership Skills,2025-11-26,12,Completed
+TRN00842,EMP0182,Compliance & KYC,2026-07-24,6,Completed
+TRN00843,EMP0174,Compliance & KYC,2026-03-01,4,Completed
+TRN00844,EMP0317,Credit & Loan Processing,2026-05-28,8,Completed
+TRN00845,EMP0085,Customer Service Excellence,2026-07-07,12,Completed
+TRN00846,EMP0281,Cyber Security Awareness,2026-08-03,6,Completed
+TRN00847,EMP0128,Credit & Loan Processing,2026-06-15,4,Completed
+TRN00848,EMP0293,Credit & Loan Processing,2025-10-10,6,Completed
+TRN00849,EMP0123,Credit & Loan Processing,2025-10-01,4,Completed
+TRN00850,EMP0094,Customer Service Excellence,2026-08-23,8,Completed
+TRN00851,EMP0218,Data Analytics for Banking,2026-02-12,6,Completed
+TRN00852,EMP0353,Cyber Security Awareness,2026-01-05,4,Completed
+TRN00853,EMP0178,Cyber Security Awareness,2026-01-07,6,Completed
+TRN00854,EMP0006,Customer Service Excellence,2026-06-12,12,Completed
+TRN00855,EMP0344,Leadership Skills,2025-12-27,8,Completed
+TRN00856,EMP0236,Sales & Cross Selling,2026-03-16,6,Completed
+TRN00857,EMP0067,Sales & Cross Selling,2026-05-18,6,Completed
+TRN00858,EMP0068,Digital Banking,2025-11-03,2,Completed
+TRN00859,EMP0245,Compliance & KYC,2026-08-12,2,Completed
+TRN00860,EMP0379,Credit & Loan Processing,2026-02-18,2,Completed
+TRN00861,EMP0367,Digital Banking,2026-06-19,4,Completed
+TRN00862,EMP0055,Credit & Loan Processing,2025-12-25,6,Completed
+TRN00863,EMP0110,Sales & Cross Selling,2026-02-16,8,Completed
+TRN00864,EMP0283,Data Analytics for Banking,2026-07-25,4,Completed
+TRN00865,EMP0027,Digital Banking,2026-03-06,6,Completed
+TRN00866,EMP0494,Leadership Skills,2025-12-25,6,Completed
+TRN00867,EMP0046,Customer Service Excellence,2026-04-19,4,Completed
+TRN00868,EMP0081,Cyber Security Awareness,2026-06-28,4,Completed
+TRN00869,EMP0238,Sales & Cross Selling,2026-01-09,12,Completed
+TRN00870,EMP0384,Data Analytics for Banking,2026-07-06,6,Completed
+TRN00871,EMP0071,Data Analytics for Banking,2026-02-12,4,Completed
+TRN00872,EMP0456,Digital Banking,2025-10-25,12,Completed
+TRN00873,EMP0166,Customer Service Excellence,2026-03-05,4,Completed
+TRN00874,EMP0224,Sales & Cross Selling,2026-07-10,12,Completed
+TRN00875,EMP0125,Sales & Cross Selling,2026-03-13,8,Completed
+TRN00876,EMP0253,Leadership Skills,2025-10-13,6,Completed
+TRN00877,EMP0266,Cyber Security Awareness,2026-02-25,4,Completed
+TRN00878,EMP0351,Cyber Security Awareness,2026-07-17,6,In Progress
+TRN00879,EMP0108,Compliance & KYC,2026-02-12,6,Completed
+TRN00880,EMP0133,Credit & Loan Processing,2026-07-23,6,Completed
+TRN00881,EMP0080,Digital Banking,2026-01-10,12,Completed
+TRN00882,EMP0165,Digital Banking,2026-07-06,8,Completed
+TRN00883,EMP0399,Credit & Loan Processing,2026-02-16,6,Completed
+TRN00884,EMP0033,Credit & Loan Processing,2026-04-26,6,Cancelled
+TRN00885,EMP0020,Data Analytics for Banking,2026-03-27,8,Completed
+TRN00886,EMP0248,Customer Service Excellence,2026-05-13,6,Completed
+TRN00887,EMP0479,Sales & Cross Selling,2025-12-23,8,Completed
+TRN00888,EMP0436,Credit & Loan Processing,2025-11-13,12,Completed
+TRN00889,EMP0110,Customer Service Excellence,2026-04-11,6,Completed
+TRN00890,EMP0469,Leadership Skills,2025-11-16,4,Completed
+TRN00891,EMP0099,Digital Banking,2025-11-25,4,Completed
+TRN00892,EMP0161,Customer Service Excellence,2025-11-18,8,Completed
+TRN00893,EMP0171,Compliance & KYC,2026-05-23,6,Completed
+TRN00894,EMP0185,Cyber Security Awareness,2025-12-11,4,Completed
+TRN00895,EMP0480,Data Analytics for Banking,2026-06-16,8,Completed
+TRN00896,EMP0210,Credit & Loan Processing,2026-06-01,8,Completed
+TRN00897,EMP0247,Customer Service Excellence,2026-01-12,12,Completed
+TRN00898,EMP0223,Leadership Skills,2026-07-04,12,Completed
+TRN00899,EMP0099,Data Analytics for Banking,2026-05-10,12,Completed
+TRN00900,EMP0461,Leadership Skills,2025-12-02,6,Completed
+TRN00901,EMP0415,Data Analytics for Banking,2026-01-27,2,Completed
+TRN00902,EMP0363,Data Analytics for Banking,2026-03-24,8,Completed
+TRN00903,EMP0125,Leadership Skills,2026-09-07,12,Completed
+TRN00904,EMP0163,Leadership Skills,2026-08-06,6,Completed
+TRN00905,EMP0055,Sales & Cross Selling,2026-03-20,4,Completed
+TRN00906,EMP0238,Leadership Skills,2025-11-24,4,Cancelled
+TRN00907,EMP0258,Compliance & KYC,2026-09-05,6,Completed
+TRN00908,EMP0138,Credit & Loan Processing,2025-12-26,8,Completed
+TRN00909,EMP0164,Leadership Skills,2026-04-16,4,In Progress
+TRN00910,EMP0378,Data Analytics for Banking,2025-11-01,8,Completed
+TRN00911,EMP0097,Leadership Skills,2025-11-06,12,Completed
+TRN00912,EMP0290,Compliance & KYC,2025-12-27,4,Completed
+TRN00913,EMP0108,Customer Service Excellence,2026-09-06,6,Completed
+TRN00914,EMP0373,Compliance & KYC,2026-02-24,4,Completed
+TRN00915,EMP0435,Data Analytics for Banking,2025-11-08,8,Completed
+TRN00916,EMP0450,Compliance & KYC,2025-10-17,4,Completed
+TRN00917,EMP0104,Customer Service Excellence,2025-12-03,4,In Progress
+TRN00918,EMP0003,Credit & Loan Processing,2026-07-22,2,Completed
+TRN00919,EMP0145,Credit & Loan Processing,2026-06-20,2,Completed
+TRN00920,EMP0307,Leadership Skills,2026-02-23,6,Completed
+TRN00921,EMP0325,Credit & Loan Processing,2025-12-12,6,Completed
+TRN00922,EMP0008,Leadership Skills,2026-07-19,6,Completed
+TRN00923,EMP0408,Digital Banking,2026-04-22,6,In Progress
+TRN00924,EMP0470,Sales & Cross Selling,2026-06-15,2,Completed
+TRN00925,EMP0401,Data Analytics for Banking,2026-05-28,12,Completed
+TRN00926,EMP0006,Data Analytics for Banking,2026-03-01,4,Completed
+TRN00927,EMP0399,Digital Banking,2025-10-12,8,Completed
+TRN00928,EMP0242,Credit & Loan Processing,2026-09-01,2,Completed
+TRN00929,EMP0413,Credit & Loan Processing,2026-01-14,12,Completed
+TRN00930,EMP0181,Customer Service Excellence,2026-04-04,6,Completed
+TRN00931,EMP0272,Leadership Skills,2026-09-19,4,Completed
+TRN00932,EMP0117,Compliance & KYC,2026-07-14,6,Completed
+TRN00933,EMP0121,Cyber Security Awareness,2026-08-04,4,Completed
+TRN00934,EMP0054,Digital Banking,2026-06-08,8,Completed
+TRN00935,EMP0199,Digital Banking,2025-10-02,6,In Progress
+TRN00936,EMP0486,Credit & Loan Processing,2026-01-23,6,Completed
+TRN00937,EMP0098,Cyber Security Awareness,2025-10-13,4,Completed
+TRN00938,EMP0081,Data Analytics for Banking,2025-12-26,8,In Progress
+TRN00939,EMP0059,Leadership Skills,2025-11-08,6,Completed
+TRN00940,EMP0118,Digital Banking,2025-12-08,4,Completed
+TRN00941,EMP0195,Sales & Cross Selling,2026-06-26,4,In Progress
+TRN00942,EMP0056,Credit & Loan Processing,2026-05-12,2,Completed
+TRN00943,EMP0448,Leadership Skills,2026-04-13,8,Completed
+TRN00944,EMP0230,Compliance & KYC,2026-02-27,6,Completed
+TRN00945,EMP0488,Credit & Loan Processing,2026-05-23,8,Completed
+TRN00946,EMP0168,Compliance & KYC,2026-08-02,4,Completed
+TRN00947,EMP0102,Digital Banking,2026-05-16,6,Completed
+TRN00948,EMP0047,Customer Service Excellence,2025-11-04,4,Completed
+TRN00949,EMP0297,Sales & Cross Selling,2025-11-26,2,In Progress
+TRN00950,EMP0242,Cyber Security Awareness,2026-05-28,6,Completed
+TRN00951,EMP0169,Cyber Security Awareness,2026-02-08,6,Completed
+TRN00952,EMP0345,Cyber Security Awareness,2026-02-28,12,Completed
+TRN00953,EMP0053,Digital Banking,2026-06-27,6,Completed
+TRN00954,EMP0143,Cyber Security Awareness,2026-03-16,4,Completed
+TRN00955,EMP0452,Cyber Security Awareness,2026-09-23,4,Completed
+TRN00956,EMP0091,Credit & Loan Processing,2025-11-10,6,Completed
+TRN00957,EMP0071,Data Analytics for Banking,2026-06-17,8,Completed
+TRN00958,EMP0316,Cyber Security Awareness,2026-08-01,4,Completed
+TRN00959,EMP0123,Customer Service Excellence,2026-05-25,4,Completed
+TRN00960,EMP0184,Cyber Security Awareness,2026-09-25,6,Completed
+TRN00961,EMP0450,Leadership Skills,2026-09-09,8,Completed
+TRN00962,EMP0471,Digital Banking,2026-02-14,4,Completed
+TRN00963,EMP0436,Digital Banking,2025-11-28,6,In Progress
+TRN00964,EMP0095,Credit & Loan Processing,2026-05-07,8,Completed
+TRN00965,EMP0124,Digital Banking,2026-01-11,4,Completed
+TRN00966,EMP0013,Digital Banking,2026-01-11,4,Completed
+TRN00967,EMP0342,Compliance & KYC,2026-04-23,6,Completed
+TRN00968,EMP0351,Leadership Skills,2026-04-21,6,Completed
+TRN00969,EMP0151,Customer Service Excellence,2025-10-07,4,Completed
+TRN00970,EMP0405,Customer Service Excellence,2026-03-08,2,Completed
+TRN00971,EMP0324,Credit & Loan Processing,2026-06-21,12,Completed
+TRN00972,EMP0422,Customer Service Excellence,2025-12-10,8,Completed
+TRN00973,EMP0258,Sales & Cross Selling,2026-01-05,4,In Progress
+TRN00974,EMP0041,Data Analytics for Banking,2026-04-21,4,Completed
+TRN00975,EMP0169,Leadership Skills,2026-08-01,8,Completed
+TRN00976,EMP0479,Compliance & KYC,2025-12-21,4,In Progress
+TRN00977,EMP0024,Compliance & KYC,2025-11-13,2,Completed
+TRN00978,EMP0235,Leadership Skills,2026-09-13,8,Completed
+TRN00979,EMP0269,Compliance & KYC,2026-09-12,8,Completed
+TRN00980,EMP0144,Customer Service Excellence,2026-06-23,4,Completed
+TRN00981,EMP0185,Digital Banking,2026-08-28,4,Completed
+TRN00982,EMP0076,Digital Banking,2026-05-16,4,Completed
+TRN00983,EMP0348,Data Analytics for Banking,2026-02-08,12,Completed
+TRN00984,EMP0289,Digital Banking,2025-12-18,6,Completed
+TRN00985,EMP0087,Credit & Loan Processing,2026-08-28,4,Completed
+TRN00986,EMP0012,Compliance & KYC,2026-03-01,12,Completed
+TRN00987,EMP0326,Cyber Security Awareness,2025-12-19,6,Completed
+TRN00988,EMP0117,Data Analytics for Banking,2026-01-24,4,Completed
+TRN00989,EMP0094,Digital Banking,2026-07-08,6,Completed
+TRN00990,EMP0396,Digital Banking,2026-06-05,6,Completed
+TRN00991,EMP0445,Customer Service Excellence,2026-09-27,4,Completed
+TRN00992,EMP0236,Data Analytics for Banking,2026-04-23,8,Completed
+TRN00993,EMP0170,Cyber Security Awareness,2026-09-07,12,Completed
+TRN00994,EMP0012,Customer Service Excellence,2026-05-19,6,Completed
+TRN00995,EMP0472,Sales & Cross Selling,2026-03-26,4,Completed
+TRN00996,EMP0178,Data Analytics for Banking,2025-12-22,6,Completed
+TRN00997,EMP0241,Customer Service Excellence,2025-11-11,6,Cancelled
+TRN00998,EMP0181,Sales & Cross Selling,2026-01-08,12,Completed
+TRN00999,EMP0086,Leadership Skills,2026-06-26,6,Completed
+TRN01000,EMP0294,Sales & Cross Selling,2026-06-19,12,Completed
+TRN01001,EMP0225,Leadership Skills,2026-09-28,8,Completed
+TRN01002,EMP0357,Leadership Skills,2026-02-14,4,Completed
+TRN01003,EMP0335,Cyber Security Awareness,2026-01-15,6,Completed
+TRN01004,EMP0118,Customer Service Excellence,2026-06-25,6,In Progress
+TRN01005,EMP0429,Data Analytics for Banking,2026-04-25,6,Completed
+TRN01006,EMP0206,Credit & Loan Processing,2025-10-14,8,Completed
+TRN01007,EMP0058,Compliance & KYC,2026-09-04,2,Completed
+TRN01008,EMP0478,Customer Service Excellence,2026-06-12,6,Completed
+TRN01009,EMP0430,Customer Service Excellence,2026-07-24,6,Completed
+TRN01010,EMP0154,Cyber Security Awareness,2026-03-08,4,Completed
+TRN01011,EMP0230,Compliance & KYC,2026-05-19,2,Completed
+TRN01012,EMP0276,Compliance & KYC,2026-08-01,6,Completed
+TRN01013,EMP0114,Cyber Security Awareness,2025-12-03,12,Completed
+TRN01014,EMP0193,Cyber Security Awareness,2025-11-10,8,Completed
+TRN01015,EMP0121,Credit & Loan Processing,2026-05-11,4,Completed
+TRN01016,EMP0373,Compliance & KYC,2026-07-09,8,Cancelled
+TRN01017,EMP0250,Digital Banking,2026-06-04,6,Completed
+TRN01018,EMP0098,Data Analytics for Banking,2026-06-18,8,Completed
+TRN01019,EMP0279,Cyber Security Awareness,2025-12-27,4,Completed
+TRN01020,EMP0449,Digital Banking,2026-09-25,8,Completed
+TRN01021,EMP0246,Sales & Cross Selling,2026-09-19,2,Completed
+TRN01022,EMP0182,Customer Service Excellence,2026-08-20,6,Completed
+TRN01023,EMP0017,Digital Banking,2026-04-10,2,Completed
+TRN01024,EMP0285,Customer Service Excellence,2026-09-25,12,Completed
+TRN01025,EMP0180,Compliance & KYC,2026-03-16,4,Completed
+TRN01026,EMP0466,Compliance & KYC,2025-12-02,4,Completed
+TRN01027,EMP0402,Sales & Cross Selling,2026-08-07,8,Cancelled
+TRN01028,EMP0210,Compliance & KYC,2026-01-08,2,Completed
+TRN01029,EMP0126,Customer Service Excellence,2026-02-09,4,Completed
+TRN01030,EMP0297,Customer Service Excellence,2025-12-09,6,In Progress
+TRN01031,EMP0326,Sales & Cross Selling,2025-10-28,4,Completed
+TRN01032,EMP0142,Leadership Skills,2026-05-16,2,Completed
+TRN01033,EMP0049,Customer Service Excellence,2026-07-24,4,Completed
+TRN01034,EMP0023,Credit & Loan Processing,2026-09-01,2,Completed
+TRN01035,EMP0322,Data Analytics for Banking,2025-11-13,6,Completed
+TRN01036,EMP0402,Digital Banking,2026-02-24,6,Completed
+TRN01037,EMP0383,Sales & Cross Selling,2026-02-14,2,Completed
+TRN01038,EMP0001,Digital Banking,2026-05-04,8,Completed
+TRN01039,EMP0087,Credit & Loan Processing,2026-01-20,12,Completed
+TRN01040,EMP0418,Data Analytics for Banking,2025-10-08,6,Completed
+TRN01041,EMP0430,Sales & Cross Selling,2026-03-07,2,Completed
+TRN01042,EMP0132,Credit & Loan Processing,2026-03-23,2,Completed
+TRN01043,EMP0258,Sales & Cross Selling,2026-08-12,6,Completed
+TRN01044,EMP0424,Credit & Loan Processing,2026-03-01,8,Completed
+TRN01045,EMP0281,Customer Service Excellence,2026-08-18,4,Cancelled
+TRN01046,EMP0313,Compliance & KYC,2025-11-25,12,Completed
+TRN01047,EMP0107,Sales & Cross Selling,2026-04-19,6,Completed
+TRN01048,EMP0488,Compliance & KYC,2025-10-18,2,Completed
+TRN01049,EMP0025,Sales & Cross Selling,2026-05-09,8,Completed
+TRN01050,EMP0480,Credit & Loan Processing,2026-04-18,4,Cancelled
+TRN01051,EMP0312,Data Analytics for Banking,2026-06-22,4,In Progress
+TRN01052,EMP0343,Cyber Security Awareness,2026-06-06,6,In Progress
+TRN01053,EMP0119,Credit & Loan Processing,2026-06-24,6,Completed
+TRN01054,EMP0199,Compliance & KYC,2025-10-16,6,Completed
+TRN01055,EMP0433,Digital Banking,2026-04-16,4,Completed
+TRN01056,EMP0061,Cyber Security Awareness,2026-04-16,4,Completed
+TRN01057,EMP0025,Cyber Security Awareness,2026-09-25,4,Completed
+TRN01058,EMP0121,Leadership Skills,2026-05-16,4,Cancelled
+TRN01059,EMP0217,Data Analytics for Banking,2026-09-28,12,Completed
+TRN01060,EMP0391,Customer Service Excellence,2026-08-12,4,Completed
+TRN01061,EMP0255,Cyber Security Awareness,2026-06-10,8,Completed
+TRN01062,EMP0445,Customer Service Excellence,2025-10-08,6,Completed
+TRN01063,EMP0288,Compliance & KYC,2026-09-14,4,Completed
+TRN01064,EMP0347,Customer Service Excellence,2026-02-09,2,Completed
+TRN01065,EMP0345,Sales & Cross Selling,2025-11-24,6,Completed
+TRN01066,EMP0412,Leadership Skills,2026-02-05,6,Completed
+TRN01067,EMP0258,Digital Banking,2026-02-04,6,Completed
+TRN01068,EMP0162,Digital Banking,2026-03-11,4,In Progress
+TRN01069,EMP0250,Data Analytics for Banking,2026-05-06,12,Completed
+TRN01070,EMP0067,Data Analytics for Banking,2026-08-24,4,Completed
+TRN01071,EMP0192,Leadership Skills,2025-11-01,6,Completed
+TRN01072,EMP0265,Credit & Loan Processing,2026-09-08,6,Completed
+TRN01073,EMP0275,Credit & Loan Processing,2026-04-16,6,Completed
+TRN01074,EMP0097,Customer Service Excellence,2025-10-01,6,Completed
+TRN01075,EMP0360,Sales & Cross Selling,2026-03-28,4,Completed
+TRN01076,EMP0253,Leadership Skills,2026-04-08,12,Completed
+TRN01077,EMP0171,Sales & Cross Selling,2026-05-09,6,Completed
+TRN01078,EMP0351,Customer Service Excellence,2026-08-09,4,Completed
+TRN01079,EMP0139,Compliance & KYC,2026-08-05,6,Completed
+TRN01080,EMP0348,Cyber Security Awareness,2025-10-14,8,Completed
+TRN01081,EMP0493,Sales & Cross Selling,2025-11-03,8,Completed
+TRN01082,EMP0160,Data Analytics for Banking,2026-09-16,12,Completed
+TRN01083,EMP0339,Leadership Skills,2026-05-05,4,Completed
+TRN01084,EMP0184,Compliance & KYC,2026-01-03,6,In Progress
+TRN01085,EMP0238,Digital Banking,2026-03-27,4,Completed
+TRN01086,EMP0462,Customer Service Excellence,2026-04-19,2,Completed
+TRN01087,EMP0497,Data Analytics for Banking,2026-03-04,6,In Progress
+TRN01088,EMP0409,Customer Service Excellence,2025-11-12,6,In Progress
+TRN01089,EMP0435,Data Analytics for Banking,2025-12-05,6,Completed
+TRN01090,EMP0439,Compliance & KYC,2026-07-25,6,Completed
+TRN01091,EMP0016,Credit & Loan Processing,2026-09-22,4,Completed
+TRN01092,EMP0194,Credit & Loan Processing,2026-01-05,2,Cancelled
+TRN01093,EMP0294,Cyber Security Awareness,2026-02-04,2,Completed
+TRN01094,EMP0362,Compliance & KYC,2026-08-01,4,Completed
+TRN01095,EMP0314,Leadership Skills,2026-01-25,4,Completed
+TRN01096,EMP0232,Sales & Cross Selling,2026-06-22,12,Completed
+TRN01097,EMP0316,Sales & Cross Selling,2025-11-14,6,Completed
+TRN01098,EMP0409,Leadership Skills,2026-01-25,2,Completed
+TRN01099,EMP0390,Customer Service Excellence,2026-04-03,2,Completed
+TRN01100,EMP0042,Sales & Cross Selling,2026-02-19,8,Cancelled
+TRN01101,EMP0442,Customer Service Excellence,2026-08-08,8,Completed
+TRN01102,EMP0099,Compliance & KYC,2026-01-14,12,Completed
+TRN01103,EMP0014,Digital Banking,2025-12-06,4,Completed
+TRN01104,EMP0259,Data Analytics for Banking,2025-12-19,6,Completed
+TRN01105,EMP0221,Sales & Cross Selling,2026-02-21,8,Completed
+TRN01106,EMP0300,Digital Banking,2025-12-08,4,Completed
+TRN01107,EMP0145,Data Analytics for Banking,2026-06-17,6,Completed
+TRN01108,EMP0026,Compliance & KYC,2026-06-13,4,Completed
+TRN01109,EMP0279,Sales & Cross Selling,2026-02-16,2,Completed
+TRN01110,EMP0276,Compliance & KYC,2025-12-07,6,Completed
+TRN01111,EMP0316,Customer Service Excellence,2026-06-18,12,Completed
+TRN01112,EMP0333,Digital Banking,2025-10-03,6,Completed
+TRN01113,EMP0411,Digital Banking,2025-11-08,4,Completed
+TRN01114,EMP0087,Cyber Security Awareness,2026-05-16,8,Completed
+TRN01115,EMP0479,Credit & Loan Processing,2025-12-10,4,In Progress
+TRN01116,EMP0481,Cyber Security Awareness,2026-06-24,4,Completed
+TRN01117,EMP0329,Sales & Cross Selling,2026-03-01,2,Completed
+TRN01118,EMP0423,Customer Service Excellence,2026-05-06,8,Completed
+TRN01119,EMP0230,Cyber Security Awareness,2026-04-15,4,Completed
+TRN01120,EMP0201,Credit & Loan Processing,2026-09-12,12,Completed
+TRN01121,EMP0340,Credit & Loan Processing,2026-09-28,4,Completed
+TRN01122,EMP0354,Sales & Cross Selling,2026-07-13,12,In Progress
+TRN01123,EMP0279,Sales & Cross Selling,2026-08-04,2,Completed
+TRN01124,EMP0194,Credit & Loan Processing,2026-08-08,6,Completed
+TRN01125,EMP0013,Data Analytics for Banking,2026-02-02,2,Completed
+TRN01126,EMP0201,Customer Service Excellence,2025-12-23,6,Completed
+TRN01127,EMP0092,Cyber Security Awareness,2025-11-15,4,Completed
+TRN01128,EMP0329,Leadership Skills,2025-11-15,8,Completed
+TRN01129,EMP0394,Cyber Security Awareness,2026-07-17,6,Completed
+TRN01130,EMP0333,Customer Service Excellence,2025-10-26,12,Completed
+TRN01131,EMP0300,Cyber Security Awareness,2026-08-03,12,Completed
+TRN01132,EMP0055,Credit & Loan Processing,2026-09-18,4,Completed
+TRN01133,EMP0283,Cyber Security Awareness,2026-02-03,6,Completed
+TRN01134,EMP0084,Credit & Loan Processing,2026-04-28,12,Completed
+TRN01135,EMP0312,Data Analytics for Banking,2026-08-03,4,Completed
+TRN01136,EMP0306,Credit & Loan Processing,2025-10-19,8,Completed
+TRN01137,EMP0417,Leadership Skills,2026-07-02,6,Completed
+TRN01138,EMP0234,Leadership Skills,2026-03-27,4,Cancelled
+TRN01139,EMP0041,Cyber Security Awareness,2026-07-06,2,Completed
+TRN01140,EMP0290,Credit & Loan Processing,2025-12-25,8,Completed
+TRN01141,EMP0141,Sales & Cross Selling,2026-04-26,6,Completed
+TRN01142,EMP0309,Cyber Security Awareness,2025-12-22,8,Completed
+TRN01143,EMP0491,Cyber Security Awareness,2026-03-10,4,Completed
+TRN01144,EMP0122,Cyber Security Awareness,2026-03-26,4,In Progress
+TRN01145,EMP0374,Cyber Security Awareness,2026-09-21,6,Completed
+TRN01146,EMP0214,Data Analytics for Banking,2026-09-04,4,Completed
+TRN01147,EMP0286,Digital Banking,2026-08-09,2,Completed
+TRN01148,EMP0427,Data Analytics for Banking,2026-01-04,6,Completed
+TRN01149,EMP0028,Digital Banking,2025-10-03,12,Completed
+TRN01150,EMP0126,Cyber Security Awareness,2025-12-13,12,Cancelled
+TRN01151,EMP0480,Leadership Skills,2025-10-17,4,Completed
+TRN01152,EMP0249,Customer Service Excellence,2026-02-11,12,Completed
+TRN01153,EMP0300,Compliance & KYC,2026-08-12,6,Completed
+TRN01154,EMP0019,Cyber Security Awareness,2026-02-05,8,Completed
+TRN01155,EMP0135,Data Analytics for Banking,2026-09-26,6,Completed
+TRN01156,EMP0374,Compliance & KYC,2026-02-05,4,Completed
+TRN01157,EMP0052,Compliance & KYC,2026-03-06,6,Completed
+TRN01158,EMP0001,Credit & Loan Processing,2025-10-21,2,Completed
+TRN01159,EMP0024,Compliance & KYC,2026-01-21,6,Completed
+TRN01160,EMP0386,Data Analytics for Banking,2025-10-24,4,Completed
+TRN01161,EMP0430,Cyber Security Awareness,2026-04-16,4,Completed
+TRN01162,EMP0298,Data Analytics for Banking,2026-01-20,6,Completed
+TRN01163,EMP0447,Data Analytics for Banking,2026-07-18,6,Completed
+TRN01164,EMP0460,Leadership Skills,2025-11-24,4,Completed
+TRN01165,EMP0115,Cyber Security Awareness,2025-11-01,4,Completed
+TRN01166,EMP0178,Compliance & KYC,2026-09-28,8,Completed
+TRN01167,EMP0282,Customer Service Excellence,2026-03-28,4,In Progress
+TRN01168,EMP0207,Credit & Loan Processing,2026-01-10,4,Completed
+TRN01169,EMP0014,Credit & Loan Processing,2026-01-15,6,Completed
+TRN01170,EMP0170,Leadership Skills,2026-07-23,2,Completed
+TRN01171,EMP0114,Sales & Cross Selling,2026-06-16,6,In Progress
+TRN01172,EMP0408,Leadership Skills,2026-08-16,6,Completed
+TRN01173,EMP0340,Digital Banking,2025-10-07,4,In Progress
+TRN01174,EMP0176,Sales & Cross Selling,2026-07-21,4,Completed
+TRN01175,EMP0268,Digital Banking,2026-06-26,2,Completed
+TRN01176,EMP0472,Cyber Security Awareness,2026-08-04,4,Completed
+TRN01177,EMP0202,Sales & Cross Selling,2026-05-20,2,Completed
+TRN01178,EMP0045,Data Analytics for Banking,2026-09-27,6,Completed
+TRN01179,EMP0447,Customer Service Excellence,2026-02-10,12,Completed
+TRN01180,EMP0451,Sales & Cross Selling,2026-07-23,4,Completed
+TRN01181,EMP0434,Digital Banking,2026-04-03,4,Completed
+TRN01182,EMP0067,Data Analytics for Banking,2025-10-17,8,Completed
+TRN01183,EMP0115,Data Analytics for Banking,2026-06-18,2,Cancelled
+TRN01184,EMP0306,Sales & Cross Selling,2026-08-15,4,Completed
+TRN01185,EMP0153,Compliance & KYC,2026-07-23,6,Completed
+TRN01186,EMP0177,Credit & Loan Processing,2025-11-02,8,Completed
+TRN01187,EMP0457,Digital Banking,2025-12-10,6,Completed
+TRN01188,EMP0264,Digital Banking,2026-02-01,8,Completed
+TRN01189,EMP0027,Customer Service Excellence,2026-04-01,2,Completed
+TRN01190,EMP0395,Cyber Security Awareness,2026-03-14,4,Completed
+TRN01191,EMP0237,Sales & Cross Selling,2026-02-19,2,Completed
+TRN01192,EMP0114,Data Analytics for Banking,2026-04-08,6,Completed
+TRN01193,EMP0166,Leadership Skills,2026-05-24,8,Completed
+TRN01194,EMP0131,Cyber Security Awareness,2026-01-06,8,Completed
+TRN01195,EMP0069,Credit & Loan Processing,2026-06-18,6,Cancelled
+TRN01196,EMP0345,Customer Service Excellence,2026-04-20,8,Completed
+TRN01197,EMP0184,Digital Banking,2026-04-27,4,Completed
+TRN01198,EMP0174,Cyber Security Awareness,2025-11-16,4,Completed
+TRN01199,EMP0086,Customer Service Excellence,2026-06-06,6,Completed
+TRN01200,EMP0285,Sales & Cross Selling,2025-12-27,2,Completed
+TRN01201,EMP0277,Customer Service Excellence,2026-08-14,6,Completed
+TRN01202,EMP0029,Compliance & KYC,2026-06-25,2,Completed
+TRN01203,EMP0290,Customer Service Excellence,2026-06-25,2,Completed
+TRN01204,EMP0005,Sales & Cross Selling,2026-02-15,6,Completed
+TRN01205,EMP0065,Digital Banking,2026-01-17,12,In Progress
+TRN01206,EMP0052,Credit & Loan Processing,2025-12-27,8,Completed
+TRN01207,EMP0385,Compliance & KYC,2026-01-16,4,Completed
+TRN01208,EMP0430,Cyber Security Awareness,2026-06-22,6,Completed
+TRN01209,EMP0330,Sales & Cross Selling,2026-02-16,2,Completed
+TRN01210,EMP0223,Digital Banking,2026-05-05,12,Completed
+TRN01211,EMP0386,Cyber Security Awareness,2026-07-18,4,Cancelled
+TRN01212,EMP0296,Cyber Security Awareness,2026-02-22,4,Completed
+TRN01213,EMP0332,Cyber Security Awareness,2026-06-18,6,Completed
+TRN01214,EMP0167,Compliance & KYC,2026-03-25,8,Completed
+TRN01215,EMP0407,Data Analytics for Banking,2026-03-25,4,Completed
+TRN01216,EMP0238,Leadership Skills,2026-02-15,4,Completed
+TRN01217,EMP0346,Compliance & KYC,2025-10-18,4,Completed
+TRN01218,EMP0029,Digital Banking,2025-12-02,4,Completed
+TRN01219,EMP0053,Data Analytics for Banking,2026-06-04,12,Completed
+TRN01220,EMP0482,Credit & Loan Processing,2026-02-01,12,Completed
+TRN01221,EMP0229,Sales & Cross Selling,2026-03-08,6,Completed
+TRN01222,EMP0133,Sales & Cross Selling,2026-06-14,8,Completed
+TRN01223,EMP0131,Sales & Cross Selling,2026-03-25,2,Completed
+TRN01224,EMP0232,Credit & Loan Processing,2026-06-02,4,Completed
+TRN01225,EMP0196,Credit & Loan Processing,2025-12-12,4,Completed
+TRN01226,EMP0236,Digital Banking,2026-05-19,8,Completed
+TRN01227,EMP0437,Leadership Skills,2025-11-26,4,Completed
+TRN01228,EMP0107,Data Analytics for Banking,2026-02-25,6,Completed
+TRN01229,EMP0136,Data Analytics for Banking,2026-09-01,6,Completed
+TRN01230,EMP0203,Leadership Skills,2026-03-15,8,Completed
+TRN01231,EMP0191,Digital Banking,2026-05-08,4,Completed
+TRN01232,EMP0413,Cyber Security Awareness,2026-08-05,4,Cancelled
+TRN01233,EMP0228,Sales & Cross Selling,2026-09-27,4,Completed
+TRN01234,EMP0190,Customer Service Excellence,2026-08-02,6,Completed
+TRN01235,EMP0277,Digital Banking,2026-04-22,6,Completed
+TRN01236,EMP0138,Sales & Cross Selling,2025-10-13,4,Completed
+TRN01237,EMP0101,Cyber Security Awareness,2026-05-04,4,Completed
+TRN01238,EMP0413,Cyber Security Awareness,2026-08-08,4,Completed
+TRN01239,EMP0255,Compliance & KYC,2026-09-18,6,Completed
+TRN01240,EMP0471,Data Analytics for Banking,2026-05-09,8,In Progress
+TRN01241,EMP0110,Compliance & KYC,2026-09-14,4,Completed
+TRN01242,EMP0401,Sales & Cross Selling,2025-10-15,2,Completed
+TRN01243,EMP0395,Sales & Cross Selling,2026-07-13,2,Completed
+TRN01244,EMP0437,Compliance & KYC,2025-12-19,6,In Progress
+TRN01245,EMP0081,Sales & Cross Selling,2026-03-11,6,Completed
+TRN01246,EMP0392,Data Analytics for Banking,2026-06-10,6,Completed
+TRN01247,EMP0100,Digital Banking,2026-05-03,6,Completed
+TRN01248,EMP0325,Credit & Loan Processing,2025-12-12,8,Completed
+TRN01249,EMP0275,Customer Service Excellence,2026-08-24,4,Completed
+TRN01250,EMP0489,Compliance & KYC,2026-02-28,12,Completed
+TRN01251,EMP0112,Leadership Skills,2026-09-01,2,Completed
+TRN01252,EMP0335,Compliance & KYC,2026-07-21,4,Completed
+TRN01253,EMP0458,Compliance & KYC,2026-02-07,4,Completed
+TRN01254,EMP0394,Compliance & KYC,2025-10-21,6,Completed
+TRN01255,EMP0246,Leadership Skills,2026-01-14,2,Completed
+TRN01256,EMP0313,Data Analytics for Banking,2026-03-17,8,Completed
+TRN01257,EMP0472,Compliance & KYC,2025-12-10,2,Completed
+TRN01258,EMP0151,Digital Banking,2026-04-13,8,Completed
+TRN01259,EMP0138,Cyber Security Awareness,2026-05-17,12,Completed
+TRN01260,EMP0280,Leadership Skills,2026-03-24,12,Completed
+TRN01261,EMP0095,Cyber Security Awareness,2026-06-04,6,Completed
+TRN01262,EMP0469,Data Analytics for Banking,2026-06-28,4,Completed
+TRN01263,EMP0162,Credit & Loan Processing,2026-07-05,6,Completed
+TRN01264,EMP0070,Digital Banking,2025-10-19,6,Completed
+TRN01265,EMP0364,Customer Service Excellence,2026-01-17,8,Completed
+TRN01266,EMP0034,Compliance & KYC,2025-10-23,12,Completed
+TRN01267,EMP0414,Digital Banking,2026-06-03,8,Completed
+TRN01268,EMP0398,Compliance & KYC,2026-08-25,12,Completed
+TRN01269,EMP0272,Customer Service Excellence,2026-03-04,8,Completed
+TRN01270,EMP0458,Credit & Loan Processing,2026-05-23,6,Completed
+TRN01271,EMP0215,Customer Service Excellence,2026-02-08,6,Completed
+TRN01272,EMP0448,Data Analytics for Banking,2026-09-16,4,Completed
+TRN01273,EMP0389,Cyber Security Awareness,2025-12-14,4,Completed
+TRN01274,EMP0002,Cyber Security Awareness,2026-06-03,12,Completed
+TRN01275,EMP0208,Leadership Skills,2025-11-03,2,Completed
+TRN01276,EMP0343,Customer Service Excellence,2026-05-01,8,Completed
+TRN01277,EMP0115,Data Analytics for Banking,2026-04-03,6,Completed
+TRN01278,EMP0122,Data Analytics for Banking,2025-11-18,4,Completed
+TRN01279,EMP0085,Sales & Cross Selling,2026-08-19,6,Completed
+TRN01280,EMP0076,Data Analytics for Banking,2026-07-10,2,In Progress
+TRN01281,EMP0416,Credit & Loan Processing,2026-06-23,2,In Progress
+TRN01282,EMP0466,Compliance & KYC,2026-06-26,6,Completed
+TRN01283,EMP0357,Sales & Cross Selling,2026-09-13,8,In Progress
+TRN01284,EMP0119,Compliance & KYC,2026-03-13,12,Completed
+TRN01285,EMP0243,Customer Service Excellence,2025-11-19,6,Completed
+TRN01286,EMP0079,Cyber Security Awareness,2026-08-05,2,Completed
+TRN01287,EMP0201,Leadership Skills,2026-04-02,2,Completed
+TRN01288,EMP0464,Cyber Security Awareness,2025-10-14,4,Completed
+TRN01289,EMP0170,Digital Banking,2026-02-28,2,Completed
+TRN01290,EMP0275,Data Analytics for Banking,2025-11-12,12,Completed
+TRN01291,EMP0189,Data Analytics for Banking,2026-06-08,4,Completed
+TRN01292,EMP0022,Cyber Security Awareness,2026-01-25,2,Completed
+TRN01293,EMP0168,Data Analytics for Banking,2026-02-17,8,Completed
+TRN01294,EMP0371,Credit & Loan Processing,2025-11-22,2,Completed
+TRN01295,EMP0132,Compliance & KYC,2026-09-18,6,Completed
+TRN01296,EMP0229,Leadership Skills,2026-08-27,6,Completed
+TRN01297,EMP0354,Digital Banking,2026-08-18,12,Completed
+TRN01298,EMP0276,Compliance & KYC,2026-01-13,12,Completed
+TRN01299,EMP0146,Cyber Security Awareness,2026-08-06,6,Completed
+TRN01300,EMP0448,Sales & Cross Selling,2025-11-01,12,Completed
+TRN01301,EMP0401,Leadership Skills,2026-02-04,8,Cancelled
+TRN01302,EMP0277,Data Analytics for Banking,2026-08-07,4,In Progress
+TRN01303,EMP0174,Data Analytics for Banking,2026-05-10,6,Completed
+TRN01304,EMP0359,Credit & Loan Processing,2026-07-25,4,Completed
+TRN01305,EMP0214,Customer Service Excellence,2026-09-24,8,Completed
+TRN01306,EMP0313,Leadership Skills,2026-05-11,6,Completed
+TRN01307,EMP0258,Leadership Skills,2026-05-08,4,Completed
+TRN01308,EMP0026,Digital Banking,2026-06-27,4,Completed
+TRN01309,EMP0216,Compliance & KYC,2026-06-26,8,Completed
+TRN01310,EMP0493,Leadership Skills,2025-11-15,4,Completed
+TRN01311,EMP0117,Customer Service Excellence,2025-10-05,4,Completed
+TRN01312,EMP0457,Leadership Skills,2026-06-02,4,Completed
+TRN01313,EMP0343,Compliance & KYC,2026-08-15,6,Completed
+TRN01314,EMP0096,Leadership Skills,2026-03-23,6,Completed
+TRN01315,EMP0189,Data Analytics for Banking,2026-08-28,6,Completed
+TRN01316,EMP0207,Compliance & KYC,2025-12-21,4,Completed
+TRN01317,EMP0179,Credit & Loan Processing,2026-06-14,4,Completed
+TRN01318,EMP0164,Leadership Skills,2026-04-01,4,Completed
+TRN01319,EMP0325,Digital Banking,2026-05-21,12,Completed
+TRN01320,EMP0058,Credit & Loan Processing,2025-12-25,2,Completed
+TRN01321,EMP0318,Sales & Cross Selling,2026-02-28,4,Completed
+TRN01322,EMP0044,Compliance & KYC,2026-05-10,4,Completed
+TRN01323,EMP0009,Credit & Loan Processing,2026-08-14,6,Completed
+TRN01324,EMP0074,Data Analytics for Banking,2026-03-01,4,Completed
+TRN01325,EMP0404,Digital Banking,2026-09-21,2,Completed
+TRN01326,EMP0332,Credit & Loan Processing,2025-10-16,4,Completed
+TRN01327,EMP0454,Sales & Cross Selling,2026-07-23,2,Completed
+TRN01328,EMP0051,Sales & Cross Selling,2025-11-26,6,Completed
+TRN01329,EMP0211,Digital Banking,2026-01-22,6,Completed
+TRN01330,EMP0452,Cyber Security Awareness,2026-05-24,4,Completed
+TRN01331,EMP0351,Compliance & KYC,2026-04-04,4,Completed
+TRN01332,EMP0282,Data Analytics for Banking,2025-10-20,8,In Progress
+TRN01333,EMP0242,Leadership Skills,2026-03-08,6,Completed
+TRN01334,EMP0276,Compliance & KYC,2026-05-08,6,Completed
+TRN01335,EMP0149,Cyber Security Awareness,2026-09-20,6,Completed
+TRN01336,EMP0203,Leadership Skills,2026-02-12,6,Completed
+TRN01337,EMP0200,Compliance & KYC,2026-03-09,2,Completed
+TRN01338,EMP0006,Cyber Security Awareness,2026-01-27,6,Completed
+TRN01339,EMP0067,Compliance & KYC,2026-02-12,8,Completed
+TRN01340,EMP0345,Compliance & KYC,2026-01-02,8,Completed
+TRN01341,EMP0240,Digital Banking,2025-12-18,4,Completed
+TRN01342,EMP0294,Leadership Skills,2026-02-13,6,Cancelled
+TRN01343,EMP0139,Digital Banking,2026-06-05,6,Completed
+TRN01344,EMP0129,Compliance & KYC,2025-10-24,4,Completed
+TRN01345,EMP0051,Leadership Skills,2026-09-14,4,Completed
+TRN01346,EMP0025,Customer Service Excellence,2026-06-17,4,Completed
+TRN01347,EMP0271,Digital Banking,2025-11-05,2,Completed
+TRN01348,EMP0411,Digital Banking,2026-01-20,4,Completed
+TRN01349,EMP0382,Sales & Cross Selling,2025-10-15,12,Completed
+TRN01350,EMP0272,Sales & Cross Selling,2026-08-21,6,In Progress
+TRN01351,EMP0061,Sales & Cross Selling,2025-12-12,2,In Progress
+TRN01352,EMP0176,Cyber Security Awareness,2026-06-19,4,Completed
+TRN01353,EMP0488,Sales & Cross Selling,2026-04-03,8,Completed
+TRN01354,EMP0316,Digital Banking,2026-07-19,6,Completed
+TRN01355,EMP0430,Digital Banking,2026-08-25,6,Completed
+TRN01356,EMP0071,Customer Service Excellence,2025-10-19,4,Completed
+TRN01357,EMP0122,Digital Banking,2025-11-21,8,Completed
+TRN01358,EMP0061,Leadership Skills,2025-12-15,8,Completed
+TRN01359,EMP0304,Digital Banking,2026-02-19,4,Completed
+TRN01360,EMP0020,Credit & Loan Processing,2026-09-05,4,Completed
+TRN01361,EMP0198,Data Analytics for Banking,2025-11-09,8,Completed
+TRN01362,EMP0251,Data Analytics for Banking,2025-10-02,4,Completed
+TRN01363,EMP0075,Cyber Security Awareness,2026-02-27,8,Completed
+TRN01364,EMP0022,Credit & Loan Processing,2025-10-09,6,Completed
+TRN01365,EMP0323,Credit & Loan Processing,2026-08-25,4,Completed
+TRN01366,EMP0215,Customer Service Excellence,2026-01-13,6,Completed
+TRN01367,EMP0203,Compliance & KYC,2026-09-04,2,Completed
+TRN01368,EMP0163,Digital Banking,2026-09-03,8,Completed
+TRN01369,EMP0097,Credit & Loan Processing,2026-06-18,6,Completed
+TRN01370,EMP0306,Cyber Security Awareness,2026-02-12,6,Completed
+TRN01371,EMP0290,Cyber Security Awareness,2026-07-27,4,Completed
+TRN01372,EMP0463,Credit & Loan Processing,2026-02-23,4,Completed
+TRN01373,EMP0058,Customer Service Excellence,2025-11-26,8,Completed
+TRN01374,EMP0423,Credit & Loan Processing,2026-08-09,4,Completed
+TRN01375,EMP0404,Digital Banking,2026-08-03,12,Completed
+TRN01376,EMP0142,Customer Service Excellence,2026-09-24,2,Completed
+TRN01377,EMP0455,Credit & Loan Processing,2026-01-28,2,Completed
+TRN01378,EMP0240,Sales & Cross Selling,2026-04-20,12,Completed
+TRN01379,EMP0466,Leadership Skills,2026-09-09,6,Completed
+TRN01380,EMP0149,Data Analytics for Banking,2025-12-28,8,In Progress
+TRN01381,EMP0458,Digital Banking,2025-11-11,12,Completed
+TRN01382,EMP0298,Credit & Loan Processing,2026-04-18,6,Completed
+TRN01383,EMP0369,Leadership Skills,2026-03-09,6,Completed
+TRN01384,EMP0186,Sales & Cross Selling,2026-01-05,8,Completed
+TRN01385,EMP0158,Leadership Skills,2025-10-15,8,Completed
+TRN01386,EMP0050,Cyber Security Awareness,2026-08-26,8,Completed
+TRN01387,EMP0032,Customer Service Excellence,2026-02-03,6,Completed
+TRN01388,EMP0195,Sales & Cross Selling,2025-12-01,2,Completed
+TRN01389,EMP0171,Credit & Loan Processing,2026-07-08,8,Completed
+TRN01390,EMP0472,Digital Banking,2026-04-07,12,Completed
+TRN01391,EMP0320,Compliance & KYC,2026-01-03,6,Completed
+TRN01392,EMP0479,Credit & Loan Processing,2026-08-06,4,Completed
+TRN01393,EMP0251,Compliance & KYC,2025-12-16,4,Completed
+TRN01394,EMP0456,Digital Banking,2025-10-20,4,Completed
+TRN01395,EMP0411,Compliance & KYC,2025-10-20,6,Completed
+TRN01396,EMP0450,Cyber Security Awareness,2026-02-20,2,Completed
+TRN01397,EMP0452,Leadership Skills,2026-04-07,4,In Progress
+TRN01398,EMP0482,Digital Banking,2026-06-28,12,Completed
+TRN01399,EMP0387,Data Analytics for Banking,2026-01-03,4,Completed
+TRN01400,EMP0007,Cyber Security Awareness,2025-10-15,4,Completed
+TRN01401,EMP0322,Leadership Skills,2026-04-25,6,Completed
+TRN01402,EMP0005,Sales & Cross Selling,2026-04-23,6,Completed
+TRN01403,EMP0054,Cyber Security Awareness,2026-02-16,6,Completed
+TRN01404,EMP0322,Cyber Security Awareness,2026-07-11,6,Completed
+TRN01405,EMP0450,Leadership Skills,2025-10-01,2,Completed
+TRN01406,EMP0240,Digital Banking,2026-04-24,8,Completed
+TRN01407,EMP0162,Credit & Loan Processing,2026-01-23,4,Completed
+TRN01408,EMP0331,Compliance & KYC,2026-04-05,8,Completed
+TRN01409,EMP0010,Leadership Skills,2026-09-12,6,Completed
+TRN01410,EMP0163,Sales & Cross Selling,2025-12-18,8,Completed
+TRN01411,EMP0322,Cyber Security Awareness,2025-10-01,8,Completed
+TRN01412,EMP0108,Digital Banking,2026-09-17,6,Completed
+TRN01413,EMP0015,Leadership Skills,2026-06-12,12,Completed
+TRN01414,EMP0334,Compliance & KYC,2025-11-25,8,Completed
+TRN01415,EMP0320,Digital Banking,2026-06-27,2,Completed
+TRN01416,EMP0204,Credit & Loan Processing,2026-09-21,8,Completed
+TRN01417,EMP0244,Digital Banking,2026-09-09,6,Completed
+TRN01418,EMP0431,Compliance & KYC,2026-07-21,8,Completed
+TRN01419,EMP0489,Customer Service Excellence,2025-12-20,4,Completed
+TRN01420,EMP0161,Credit & Loan Processing,2026-09-05,4,Completed
+TRN01421,EMP0033,Credit & Loan Processing,2026-08-20,2,Completed
+TRN01422,EMP0320,Customer Service Excellence,2026-08-22,6,Completed
+TRN01423,EMP0356,Compliance & KYC,2026-09-03,6,Completed
+TRN01424,EMP0159,Data Analytics for Banking,2025-12-19,2,In Progress
+TRN01425,EMP0210,Customer Service Excellence,2025-12-21,6,Completed
+TRN01426,EMP0086,Customer Service Excellence,2025-10-10,6,Completed
+TRN01427,EMP0363,Digital Banking,2026-04-11,6,Completed
+TRN01428,EMP0482,Cyber Security Awareness,2025-12-27,2,Completed
+TRN01429,EMP0099,Credit & Loan Processing,2026-02-07,4,Completed
+TRN01430,EMP0434,Leadership Skills,2026-04-17,8,Completed
+TRN01431,EMP0105,Leadership Skills,2026-03-19,8,Completed
+TRN01432,EMP0485,Cyber Security Awareness,2026-07-20,2,Completed
+TRN01433,EMP0423,Compliance & KYC,2026-05-08,6,Completed
+TRN01434,EMP0116,Sales & Cross Selling,2026-08-03,4,Completed
+TRN01435,EMP0488,Credit & Loan Processing,2025-12-20,4,Completed
+TRN01436,EMP0220,Sales & Cross Selling,2026-05-16,6,Completed
+TRN01437,EMP0298,Compliance & KYC,2026-02-06,6,In Progress
+TRN01438,EMP0406,Digital Banking,2026-05-19,6,Completed
+TRN01439,EMP0154,Cyber Security Awareness,2026-04-20,6,Completed
+TRN01440,EMP0005,Leadership Skills,2026-06-09,6,In Progress
+TRN01441,EMP0187,Compliance & KYC,2026-01-06,4,Completed
+TRN01442,EMP0185,Leadership Skills,2026-08-08,8,Completed
+TRN01443,EMP0388,Digital Banking,2026-02-23,12,Completed
+TRN01444,EMP0128,Customer Service Excellence,2025-12-05,4,Cancelled
+TRN01445,EMP0166,Cyber Security Awareness,2026-05-11,4,Completed
+TRN01446,EMP0043,Compliance & KYC,2025-10-09,12,Completed
+TRN01447,EMP0360,Cyber Security Awareness,2026-01-11,6,Completed
+TRN01448,EMP0484,Customer Service Excellence,2026-02-23,8,Completed
+TRN01449,EMP0471,Leadership Skills,2025-12-21,8,Completed
+TRN01450,EMP0175,Credit & Loan Processing,2025-11-23,6,Completed
+TRN01451,EMP0268,Credit & Loan Processing,2026-01-04,2,Completed
+TRN01452,EMP0016,Leadership Skills,2026-07-04,2,Completed
+TRN01453,EMP0309,Compliance & KYC,2025-11-04,4,Completed
+TRN01454,EMP0191,Leadership Skills,2026-01-09,2,Completed
+TRN01455,EMP0337,Digital Banking,2026-03-11,6,Completed
+TRN01456,EMP0405,Credit & Loan Processing,2026-08-22,6,Completed
+TRN01457,EMP0387,Credit & Loan Processing,2026-06-25,8,Completed
+TRN01458,EMP0004,Leadership Skills,2026-03-04,8,Completed
+TRN01459,EMP0032,Cyber Security Awareness,2025-10-20,4,Completed
+TRN01460,EMP0212,Customer Service Excellence,2025-12-28,4,Completed
+TRN01461,EMP0061,Credit & Loan Processing,2026-06-21,8,Completed
+TRN01462,EMP0291,Digital Banking,2026-09-12,6,Completed
+TRN01463,EMP0220,Customer Service Excellence,2025-10-04,8,Completed
+TRN01464,EMP0267,Credit & Loan Processing,2026-06-04,4,Completed
+TRN01465,EMP0390,Sales & Cross Selling,2025-12-24,4,Completed
+TRN01466,EMP0204,Digital Banking,2026-03-16,2,Completed
+TRN01467,EMP0083,Compliance & KYC,2026-06-16,8,Completed
+TRN01468,EMP0152,Compliance & KYC,2026-04-19,6,Completed
+TRN01469,EMP0357,Data Analytics for Banking,2025-11-05,12,Completed
+TRN01470,EMP0436,Cyber Security Awareness,2025-10-05,4,Completed
+TRN01471,EMP0394,Cyber Security Awareness,2025-12-25,6,Completed
+TRN01472,EMP0003,Compliance & KYC,2025-12-23,6,Completed
+TRN01473,EMP0157,Digital Banking,2026-07-01,6,Completed
+TRN01474,EMP0460,Compliance & KYC,2026-05-13,4,Completed
+TRN01475,EMP0201,Cyber Security Awareness,2026-01-15,6,Completed
+TRN01476,EMP0466,Data Analytics for Banking,2026-09-09,6,Completed
+TRN01477,EMP0375,Data Analytics for Banking,2025-10-20,4,Cancelled
+TRN01478,EMP0180,Credit & Loan Processing,2026-08-10,12,Completed
+TRN01479,EMP0295,Credit & Loan Processing,2025-10-17,8,Completed
+TRN01480,EMP0010,Cyber Security Awareness,2025-10-08,4,Completed
+TRN01481,EMP0030,Customer Service Excellence,2026-08-10,6,Completed
+TRN01482,EMP0319,Credit & Loan Processing,2025-10-20,6,Completed
+TRN01483,EMP0251,Sales & Cross Selling,2026-04-05,4,Completed
+TRN01484,EMP0472,Sales & Cross Selling,2026-02-17,4,Completed
+TRN01485,EMP0050,Cyber Security Awareness,2026-04-13,4,Completed
+TRN01486,EMP0277,Compliance & KYC,2025-11-19,2,Completed
+TRN01487,EMP0490,Digital Banking,2026-01-24,4,Completed
+TRN01488,EMP0047,Digital Banking,2026-05-15,2,Completed
+TRN01489,EMP0269,Digital Banking,2025-10-08,12,Completed
+TRN01490,EMP0485,Digital Banking,2026-02-26,8,Completed
+TRN01491,EMP0189,Customer Service Excellence,2026-07-06,2,Completed
+TRN01492,EMP0115,Digital Banking,2026-06-07,4,Completed
+TRN01493,EMP0098,Sales & Cross Selling,2026-05-01,8,In Progress
+TRN01494,EMP0376,Customer Service Excellence,2025-10-16,12,Completed
+TRN01495,EMP0478,Sales & Cross Selling,2025-12-26,4,Completed
+TRN01496,EMP0384,Data Analytics for Banking,2026-07-17,2,Completed
+TRN01497,EMP0428,Credit & Loan Processing,2025-10-16,4,Completed
+TRN01498,EMP0093,Leadership Skills,2025-11-04,4,Completed
+TRN01499,EMP0178,Data Analytics for Banking,2026-01-18,4,In Progress
+TRN01500,EMP0063,Compliance & KYC,2026-02-12,12,In Progress
